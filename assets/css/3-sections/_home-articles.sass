@@ -1,0 +1,81 @@
+div.articles
+    .col-1
+        display: flex
+        align-items: center
+        margin: 0 auto
+        
+    .flex
+        display: flex
+        
+    .flexcenter
+        align-items: center
+    
+    .home-lead
+        margin: 0
+        padding: 0
+        
+    .desc-wrap
+        .home-cta
+            margin: 10px 0
+            padding: 10px
+            background: whitesmoke
+        
+    .article-wrap
+        +clearfix
+        
+    .article-thumb
+        display: block
+        background:
+            size: cover
+            position: center
+        width: 25%
+        float: left
+        position: relative
+        overflow: hidden
+        
+        &:after
+            content: ''
+            display: block
+            padding-top: 100%
+        
+    .article-meta
+        position: absolute
+        top: 0
+        left: 0
+        right: 0
+        bottom: 0
+        background: fade-out($navy, 0.3)
+        color: white
+        padding: 10px
+        transform: translate(0%, 100%)
+        +transition()
+        opacity: 0
+        
+        .name
+            font-size: 18px
+            line-height: 1.2
+            
+        .date
+            font-style: italic
+    
+    .article-thumb:hover .article-meta
+        opacity: 1
+        transform: translate(0%, 0%)
+
+
+
+    
+    @media (max-width: 640px)
+        .article-thumb
+            width: 33.33%
+                
+        
+        .flex
+            display: block
+        
+        .desc-wrap
+            margin-top: 50px
+            margin-left: auto
+            margin-right: auto
+            .home-cta
+                margin-bottom: 24px

@@ -1,0 +1,38 @@
+div.hero
+    background:
+        image: url('/assets/img/sommerfuglen.png')
+        position: center 80%
+        size: cover
+    color: $olive
+    height: 400px
+    display: flex
+    flex-direction: column
+    align-items: center
+    justify-content: center
+    
+    .col-2
+        h1
+            color: $red
+            line-height: 1.1
+            padding: 0
+            margin: 0
+            font-size: 50px
+            font-weight: 900
+            text-transform: uppercase
+            
+        h2
+            text-align: center
+            font-weight: 700
+            color: $red
+
+
+@media (max-width: 640px)
+    div.hero
+        height: 200px
+        .home-lead
+            text-align: center
+        
+        .col-2
+            h1
+                font-size: 30px
+                text-align: center

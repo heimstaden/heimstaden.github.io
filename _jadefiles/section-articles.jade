@@ -1,0 +1,16 @@
+div.articles
+    .flex.flexcenter     
+        .col-50
+            .article-wrap
+                | {% for post in site.posts limit: 12 %}
+                a(href="{{post.url}}" style="background-image:url(assets/img/{{post.thumbnail}})").article-thumb
+                    .article-meta
+                        .name {{post.title}}
+                        .date {{post.date | date: "%b %d, %Y"}}
+                | {% endfor %}
+        
+        
+        .col-50.flex.flexcenter.order-first
+            .col-1
+                .desc-wrap
+                    a(href="/arkivet/").home-cta Se alle blogginnleggene
