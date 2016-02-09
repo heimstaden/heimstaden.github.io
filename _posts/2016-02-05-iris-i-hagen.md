@@ -24,13 +24,13 @@ Trykk på bildet for å se alle bildene!
 
 ![Iris Roaring Jelly.]({{site.baseurl}}/assets/img/Iris%20'Roaring%20Jelly'.JPG)
 
-![Iris Roy Elliott.]({{site.baseurl}}/assets/img/Iris 'Roy Elliott'.JPG)
+![Iris Roy Elliott]({{site.baseurl}}/assets/img/Iris%20'Roy%20Elliott'.JPG)
 
 ![Iris Sibirica Contrast in Styles.]({{site.baseurl}}/assets/img/Iris sibirica ‘Contrast in Styles’.JPG)
 
 ![Iris sparkling rose.]({{site.baseurl}}/assets/img/Iris sparkling rose.JPG)
 
-![Iris Variegata.]({{site.baseurl}}/assets/img/Iris laevigata 'Variegata'.JPG)
+![Iris Variegata med grønne og hvite blader.]({{site.baseurl}}/assets/img/Iris%20laevigata%20'Variegata'.JPG)
 
 ![Iris germanica-hybrid Hemstitched. ]({{site.baseurl}}/assets/img/Iris germanica-hybrid ’Hemstitched’.JPG)
 
