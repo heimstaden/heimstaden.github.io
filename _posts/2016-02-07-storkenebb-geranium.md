@@ -15,7 +15,6 @@ Dette er planter jeg hadde dilla på for noen år siden. Du har sikkert sett dem
 
 ![Storkenebb i kveldssol.]({{site.baseurl}}/assets/img/Geranium%20i%20kveldssol.JPG)
 
-
 <!--more-->
 
 Det er dekorative planter som er fine som kantplanter, men også rundt omkring i bedene. De finnes i utrolig mange forskjellige farger og størrelser.Humlene liker dem godt og de er fine å fotografere. 
