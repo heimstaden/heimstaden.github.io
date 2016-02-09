@@ -16,7 +16,7 @@ Dessuten har de nydelige farger som passer godt inn på høsten. Disse sår jeg 
 
 <!--more-->
 
-Jeg overflatesår disse frøene også, dvs. at jeg bare trykker de lett ned i fuktig jord og drysser over med vermiculite. Vermiculite er en vulkansk leirskifer som har evne til å absorbere og avgi vann. Dette hindrer at frøene råtner. De spirer er 2-3 dager.
+Jeg overflatesår disse frøene også, dvs. at jeg bare trykker de lett ned i fuktig jord og drysser over med vermiculite. Vermiculite er en vulkansk leirskifer som har evne til å absorbere og avgi vann. Dette hindrer at frøene råtner. De spirer etter 2-3 dager.
 
 ![Rudbeckia Autumn Colors.]({{site.baseurl}}/assets/img/Rudbeckia Autumn Colors.JPG)
 
