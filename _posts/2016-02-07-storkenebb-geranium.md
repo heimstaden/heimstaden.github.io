@@ -42,13 +42,8 @@ Trykk på bildet for å se alle bildene!
 
 ![Storkenebb i kveldssol.]({{site.baseurl}}/assets/img/Geranium%20i%20kveldssol.JPG)
 
-
-<!--more-->
-
-
 ![Fin som kantplante også.]({{site.baseurl}}/assets/img/Geranium%20cantabrigiense%20'Cambridge'%2C.JPG)
 
-Trykk på bildet for å se alle bildene!
 
 ![Blek rosa.]({{site.baseurl}}/assets/img/Geranium%20himalayense%20'Derrick%20Cook'.JPG)
 
