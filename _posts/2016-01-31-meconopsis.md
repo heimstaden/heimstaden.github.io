@@ -10,6 +10,7 @@ title: Meconopsis
 
 
 
+
 De første frøene er kommet i jorda. Det har vært en mild høst her i vest og derfor har jeg ventet med å så stauder til det ble litt kaldere. Hvert eneste år sår jeg ulike varianter av valmuesøstre, eller Meconopsis som de heter på latin. 
 
 De er blikkfang i hagen og blomstrer her hos oss i mai/ juni. I år gleder jeg meg til noen nye varianter som ble sådd for ett og to år siden. De kommer forhåpentligvis med blomster i år.
@@ -18,7 +19,7 @@ De er blikkfang i hagen og blomstrer her hos oss i mai/ juni. I år gleder jeg m
 
 <!--more-->
 
-Jeg sår frøene i passe store potter og lar pottene stå i ca. et døgn inne før jeg plasserer dem ut i kulda. Når våren og varmen kommer begynner de å spire. De liker ikke å bli plassert i for mye sol under veksten og de er heller ikke glad i å få røttene forstyrret. Jeg prøver derfor å så dem spredt og når de blir store nok til å pottes om, er jeg veldig forsiktig.
+Jeg sår frøene i passe store potter og lar pottene stå i ca. et døgn inne før jeg plasserer dem ut i kulda. Når våren og varmen kommer begynner de å spire. De liker ikke å bli plassert i for mye sol eller varme under veksten og de er heller ikke glad i å få røttene forstyrret. Jeg prøver derfor å så dem spredt og når de blir store nok til å pottes om, er jeg veldig forsiktig.
 
 Trykk på bildet for å se alle bildene!
 
