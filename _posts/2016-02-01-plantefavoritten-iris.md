@@ -18,5 +18,4 @@ I februar begynner blomsterbutikkene 책 selge dem og da er det s책 herlig 책 kj�
 ![En lilla v책riris.]({{site.baseurl}}/assets/img/Iris George.JPG)
 
 Trykk p책 bildet for 책 se alle bildene.
-
-![V책riris i regn.]({{site.baseurl}}/assets/img/iris 'Katharine Hodgkin'.JPG)
+![Iris Katharine Hodgkin. En iris som kommer tilbake  책r etter 책r.]({{site.baseurl}}/assets/img/iris%20'Katharine%20Hodgkin'.JPG)
