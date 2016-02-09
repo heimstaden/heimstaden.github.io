@@ -7,7 +7,8 @@ title: Våriris
 ---
 
 
-En av favorittene i hagen er iris. Tidlig på våren dukker våririsen opp og etter en mørk og fargeløs vinter, gir disse små fargebombene et energikick.
+
+En av favorittene i hagen er iris. Tidlig på våren dukker våririsen opp og etter en mørk og fargeløs vinter, gir disse små fargebombene et energikick. Disse plantes som løk på høsten.
 
 ![Blå våriris.]({{site.baseurl}}/assets/img/Blå våriris.JPG)
 
