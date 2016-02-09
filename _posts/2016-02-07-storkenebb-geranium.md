@@ -9,7 +9,8 @@ title: "Storkenebb - Geranium"
 
 
 
-Dette er en plante jeg hadde dilla på for noen år siden. Vi finner dem også i vill tilstand i naturen. De blomstrer i juni og etter blomstring klipper jeg dem ned, for ellers formerer dem seg i overkant mye. Når man klipper dem ned, får man som oftest et nytt litt mindre blomsterflor på sensommeren.
+
+Dette er planter jeg hadde dilla på for noen år siden. Du har sikkert sett dem ville i naturen også. De blomstrer i juni og etter blomstring klipper jeg dem ned, for ellers formerer dem seg i overkant mye. Når de klippes ned, får de som regel et nytt, litt mindre blomsterflor på sensommeren.
 
 ![Storkenebb i kveldssol.]({{site.baseurl}}/assets/img/Geranium%20i%20kveldssol.JPG)
 
