@@ -10,6 +10,7 @@ title: "Storkenebb - Geranium"
 
 
 
+
 Dette er planter jeg hadde dilla på for noen år siden. Du har sikkert sett dem i naturen også. De blomstrer i juni og etter blomstring klipper jeg dem ned, for ellers formerer de seg i overkant mye. Når de klippes ned, får de som regel et nytt, litt mindre blomsterflor på sensommeren.
 
 ![Storkenebb i kveldssol.]({{site.baseurl}}/assets/img/Geranium%20i%20kveldssol.JPG)
@@ -44,7 +45,6 @@ Trykk på bildet for å se alle bildene!
 
 <!--more-->
 
-Det er dekorative planter som er fine som kantplanter, men også rundt omkring i bedene. De finnes i utrolig mange forskjellige farger og størrelser.Humlene liker dem godt og de er fine å fotografere. 
 
 ![Fin som kantplante også.]({{site.baseurl}}/assets/img/Geranium%20cantabrigiense%20'Cambridge'%2C.JPG)
 
