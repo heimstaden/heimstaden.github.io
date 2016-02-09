@@ -26,8 +26,6 @@ Trykk på bildet for å se alle bildene!
 
 ![Hvit stemor.JPG]({{site.baseurl}}/assets/img/Hvit stemor.JPG)
 
-![Lilla stemor]({{site.baseurl}}/assets/img/Lilla%20stemor.JPG)
-
 ![Lilla stemor.JPG]({{site.baseurl}}/assets/img/Lilla stemor.JPG)
 
 
