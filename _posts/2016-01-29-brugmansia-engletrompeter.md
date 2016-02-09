@@ -16,7 +16,7 @@ Disse vakre plantene stammer fra Sør- Amerika og det er vel ikke akkurat de bes
 
 <!--more-->
 
-De vokser fort og i løpet av en sesong kan enkelte planter bli opptil 2 meter.  Man må likevel ha stor tålmodighet med disse plantene for de blomstrer gjerne ikke før på slutten av sommeren; fra slutten av juli og utover høsten. Men blomstringen er verdt å vente på, for de fleste engletrompetene dufter aldeles vidunderlig om kvelden. For å få god blomstring trenger de mye gjørdsel. De får en god matpakke i starten av sommeren med kugjødselkompost, høsnsegjødsel 
+De vokser fort og i løpet av en sesong kan enkelte planter bli opptil 2 meter.  Man må likevel ha stor tålmodighet med disse plantene for de blomstrer gjerne ikke før på slutten av sommeren; fra slutten av juli og utover høsten. Men blomstringen er verdt å vente på, for de fleste engletrompetene dufter aldeles vidunderlig om kvelden. For å få god blomstring trenger de mye gjørdsel. De får en god matpakke i starten av sommeren med kugjødselkompost, hønsegjødsel og langtidsgjødsel blandet i jorda.
 
 Trykk på bildet for å se alle bildene!
 
