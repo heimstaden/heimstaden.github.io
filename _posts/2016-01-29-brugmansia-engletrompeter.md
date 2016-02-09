@@ -7,6 +7,7 @@ title: "Brugmansia - Engletrompeter"
 ---
 
 
+
 De favorittene som tar størst plass, er engletrompet eller Brugmansia. De kan bli flere meter høye og de overvintrer på planterommet som jeg har over garasjen. 
 
 Disse vakre plantene stammer fra Sør- Amerika og det er vel ikke akkurat de beste forhold for dem her i vest. Disse plantene overvintrer jeg år etter år og prøver å skaffe meg nye varianter hvis jeg får anledning. De er så utrolig eksotiske og spesielle og de er blikkfang i hagen når de blomstrer. De finnes i mange flotte farger og fasonger; rosa, hvite, gule, oransje, aprikose, enkle, fylte, doble og triple.
@@ -15,7 +16,7 @@ Disse vakre plantene stammer fra Sør- Amerika og det er vel ikke akkurat de bes
 
 <!--more-->
 
-De vokser fort og i løpet av en sesong kan enkelte planter bli opptil 2 meter.  Man må likevel ha stor tålmodighet med disse plantene for de blomstrer gjerne ikke før på slutten av sommeren; fra slutten av juli og utover høsten. Men blomstringen er verdt å vente på, for de fleste engletrompetene dufter aldeles vidunderlig om kvelden.
+De vokser fort og i løpet av en sesong kan enkelte planter bli opptil 2 meter.  Man må likevel ha stor tålmodighet med disse plantene for de blomstrer gjerne ikke før på slutten av sommeren; fra slutten av juli og utover høsten. Men blomstringen er verdt å vente på, for de fleste engletrompetene dufter aldeles vidunderlig om kvelden. For å få god blomstring trenger de mye gjørdsel. De får en god matpakke i starten av sommeren med kugjødselkompost, høsnsegjødsel 
 
 Trykk på bildet for å se alle bildene!
 
