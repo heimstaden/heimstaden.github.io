@@ -30,5 +30,5 @@ Trykk på bildet for å se alle bildene!
 
 ![Lilla stemor.JPG]({{site.baseurl}}/assets/img/Lilla stemor.JPG)
 
-![stemor (2).JPG]({{site.baseurl}}/assets/img/stemor (2).JPG)
+
 
