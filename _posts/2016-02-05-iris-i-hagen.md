@@ -1,10 +1,11 @@
 ---
 layout: post
-thumbnail: "Iris%20i%20Monets%20hage.JPG"
+thumbnail: "Iris%20sibirica.JPG"
 description: Herlige iris. Noen av mine iris som blomstrer i juni.
 published: true
 title: Iris i hagen
 ---
+
 
 
 
@@ -25,7 +26,7 @@ Trykk på bildet for å se alle bildene!
 
 ![Iris Sibirica Contrast in Styles.]({{site.baseurl}}/assets/img/Iris sibirica ‘Contrast in Styles’.JPG)
 
-![Iris sibirica.]({{site.baseurl}}/assets/img/Iris sibirica.JPG)
+![Iris sibirica.JPG]({{site.baseurl}}/assets/img/Iris%20sibirica.JPG)
 
 ![Iris sparkling rose.]({{site.baseurl}}/assets/img/Iris sparkling rose.JPG)
 
