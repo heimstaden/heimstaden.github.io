@@ -31,6 +31,6 @@ Trykk på bildet for å se alle bildene!
 
 ![Lilla riddersporer.]({{site.baseurl}}/assets/img/Lilla ridderspore.JPG)
 
-![Green Twist.]({{site.baseurl}}/assets/img/riddersporer 'Green Twist'.JPG)
+![Green Twist.]({{site.baseurl}}/assets/img/riddersporer%20'Green%20Twist'.JPG)
 
 ![Delphinium cashmerianum.]({{site.baseurl}}/assets/img/Delphinium cashmerianum.JPG)
