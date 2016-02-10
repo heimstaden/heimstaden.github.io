@@ -8,6 +8,7 @@ title: Våriris
 
 
 
+
 En av favorittene i hagen er iris. Tidlig på våren dukker våririsen opp og etter en mørk og fargeløs vinter, gir disse små fargebombene et energikick. Disse plantes som løk på høsten.
 
 ![Blå våriris.]({{site.baseurl}}/assets/img/Blå våriris.JPG)
@@ -18,5 +19,5 @@ I februar begynner blomsterbutikkene å selge dem og da er det så herlig å kj�
 
 ![En lilla våriris.]({{site.baseurl}}/assets/img/Iris George.JPG)
 
-Trykk på bildet for å se alle bildene.
+Trykk på bildet for å se alle bildene!
 ![Iris Katharine Hodgkin. En iris som kommer tilbake  år etter år.]({{site.baseurl}}/assets/img/iris%20'Katharine%20Hodgkin'.JPG)
