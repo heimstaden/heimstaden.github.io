@@ -18,9 +18,7 @@ comments: true
     {{ content }}
     {% include facebookshare.html %}
     
-    {% if page.comments %}
         {% include disqus.html %}
-    {% endif %}
 
     
     {% if page.previous %}
