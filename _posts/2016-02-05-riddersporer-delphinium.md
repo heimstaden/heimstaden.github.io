@@ -10,6 +10,8 @@ title: "Riddersporer - Delphinium"
 
 
 
+
+
 Et av sommerens høydepunkter er når riddersporer, roser og klematis blomstrer. Sammen lager de et blikkfang i hagen. Når disse åpner seg, er det sommer. De finnes også i mange varianter og i mange farger. Noen er lave og noen er høye. De høyreiste trenger å støttes opp slik at de ikke knekker hvis det plutselig kommer et vindkast.
 
 ![Riddersporer og klematis]({{site.baseurl}}/assets/img/Riddersporer og klematis.JPG)
@@ -30,6 +32,6 @@ Trykk på bildet for å se alle bildene!
 
 ![Lilla riddersporer.]({{site.baseurl}}/assets/img/Lilla ridderspore.JPG)
 
-![Green Twist.]({{site.baseurl}}/assets/img/riddersporer 'Green Twist'.JPG)
+![Green Twist]({{site.baseurl}}/assets/img/riddersporer%20'Green%20Twist'.JPG)
 
 ![Delphinium cashmerianum.]({{site.baseurl}}/assets/img/Delphinium cashmerianum.JPG)

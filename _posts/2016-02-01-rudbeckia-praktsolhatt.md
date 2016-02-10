@@ -8,14 +8,15 @@ title: "Rudbeckia - Praktsolhatt"
 
 
 
-Er også en sommerblomst som jeg sår hvert år, og i milde vintre så klarer de å overleve her i vestlandsklima. Disse er flotte planter som blomstrer til frosten kommer. 
+
+Dette er også en sommerblomst som jeg sår hvert år, og i milde vintre så klarer de å overleve her i vestlandsklima. Disse er flotte planter som blomstrer til frosten kommer. 
 Dessuten har de nydelige farger som passer godt inn på høsten. Disse sår jeg også i begynnelsen av februar.
 
 ![Rudbeckia Cherry Brandy.]({{site.baseurl}}/assets/img/Rudbeckia Cherry Brandy.JPG)
 
 <!--more-->
 
-Jeg overflatesår disse frøene også, dvs. at jeg bare trykker de lett ned i fuktig jord og drysser over med vermiculite. Vermiculite er en vulkansk leirskifer som har evne til å absorbere og avgi vann. Dette hindrer at frøene råtner. 
+Jeg overflatesår disse frøene også, dvs. at jeg bare trykker de lett ned i fuktig jord og drysser over med vermiculite. Vermiculite er en vulkansk leirskifer som har evne til å absorbere og avgi vann. Dette hindrer at frøene råtner. De spirer etter 2-3 dager.
 
 ![Rudbeckia Autumn Colors.]({{site.baseurl}}/assets/img/Rudbeckia Autumn Colors.JPG)
 

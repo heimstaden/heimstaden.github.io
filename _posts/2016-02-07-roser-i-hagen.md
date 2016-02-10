@@ -10,7 +10,10 @@ title: Roser i hagen
 
 
 
-Det er noe eget ved roser. Jeg har ikke spesielt mange roser og det skyldes nok at rosene ofte blir stygge i blomst og blader i fuktig vestlandsvær. Men enkelte år hender det jo at de blir ekstra fine. Jeg velger ut rosene først og fremst etter farge og duft og om de er remonterende, det vil si at de fortsetter å blomstre utover sommeren og høsten. Det er blitt foredlet fram mange nye roser som skal tåle et fuktig vestlandsvær bedre, så kanskje det er på tide å utvide samlingen litt. Her er i hvertfall favorittene mine i hagen!
+
+
+
+Jeg har ikke spesielt mange roser og det skyldes nok at rosene kan bli stygge i blomster og blader i fuktig vestlandsvær. Men enkelte år hender det jo at de blir ekstra fine. Jeg velger ut rosene først og fremst etter farge og duft og om de er remonterende, det vil si at de fortsetter å blomstre utover sommeren og høsten. Det er blitt foredlet fram mange nye roser som skal tåle et fuktig vestlandsvær bedre, så kanskje det er på tide å utvide samlingen litt. Her er i hvertfall rosefavorittene i hagen!
 
 ![Sissel Renaissance.JPG]({{site.baseurl}}/assets/img/Sissel%20Renaissance.JPG)
 
@@ -35,3 +38,6 @@ Trykk på bildet for å se alle bildene!
 ![Astrid Lindgren er også en klaserose. Frisk og fin med  god duft. ]({{site.baseurl}}/assets/img/Astrid Lindgren.JPG)
 
 ![Bonica 82. Tett i tett med blomster. Tåler veldig godt vestlandsklimaet, men har  ingen duft.]({{site.baseurl}}/assets/img/Bonica.JPG)
+
+![Rosen Goldelse i samplanting med blant annet Primula vialii er vel kanskje en vågal kombinasjon.]({{site.baseurl}}/assets/img/Rosen Goldelse sammen med primula vialii.JPG)
+
