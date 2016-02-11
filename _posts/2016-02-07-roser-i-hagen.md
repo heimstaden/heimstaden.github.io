@@ -33,7 +33,7 @@ Trykk på bildet for å se alle bildene!
 
 ![Roser, riddersporer og klematis.]({{site.baseurl}}/assets/img/Roser, riddersporer og clematis.JPG)
 
-![New Dawn er også en klatrerose. Dufter svakt, men er en virkelig frisk og fin rose.]({{site.baseurl}}/assets/img/New%20Dawn.JPG)!
+![New Dawn er også en klatrerose. Dufter svakt, men er en virkelig frisk og fin rose.]({{site.baseurl}}/assets/img/New%20Dawn.JPG)
 
 ![Gebruder Grimm kommer med mye blomster og lukter friskt. Fin og frisk klaserose.]({{site.baseurl}}/assets/img/Gebruder Grimm, Historisk rose.JPG)
 
