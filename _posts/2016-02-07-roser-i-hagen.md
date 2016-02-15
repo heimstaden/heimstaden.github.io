@@ -14,6 +14,7 @@ title: Roser i hagen
 
 
 
+
 Jeg har ikke spesielt mange roser og det skyldes nok at rosene kan bli stygge i blomster og blader i fuktig vestlandsvær. Men enkelte år hender det jo at de blir ekstra fine. Jeg velger ut rosene først og fremst etter farge og duft og om de er remonterende, det vil si at de fortsetter å blomstre utover sommeren og høsten. Det er blitt foredlet fram mange nye roser som skal tåle et fuktig vestlandsvær bedre, så kanskje det er på tide å utvide samlingen litt. Her er i hvertfall rosefavorittene i hagen!
 
 ![Sissel Renaissance.JPG]({{site.baseurl}}/assets/img/Sissel%20Renaissance.JPG)
@@ -32,7 +33,7 @@ Trykk på bildet for å se alle bildene!
 
 ![Roser, riddersporer og klematis.]({{site.baseurl}}/assets/img/Roser, riddersporer og clematis.JPG)
 
-![New Dawn er også en klatrerose. Dufter svakt, men er en virkelig frisk og fin rose.]({{site.baseurl}}/assets/img/New%20Dawn.JPG)!
+![New Dawn er også en klatrerose. Dufter svakt, men er en virkelig frisk og fin rose.]({{site.baseurl}}/assets/img/New%20Dawn.JPG)
 
 ![Gebruder Grimm kommer med mye blomster og lukter friskt. Fin og frisk klaserose.]({{site.baseurl}}/assets/img/Gebruder Grimm, Historisk rose.JPG)
 
