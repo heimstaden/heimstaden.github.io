@@ -4,7 +4,7 @@
     align-items: center
     justify-content: center
     overflow: hidden
-    background: whitesmoke
+    background: white
 
 .archive-content
     margin: 55px 0
@@ -23,3 +23,53 @@
     
     p
         font-size: 14px
+        
+
+div.arkivet
+    padding: 55px 10px
+    display: flex
+    justify-content: center
+    flex-wrap: wrap
+    
+    .kort
+        width: 25%
+        margin: 12px
+        background-color: whitesmoke
+        border-bottom-left-radius: 5px
+        border-bottom-right-radius: 5px
+        box-shadow: 0 2px 4px gray
+        &:hover
+            box-shadow: 0 2px 4px $text-color
+            
+        
+        div
+            height: 200px
+            background-position: center
+            background-size: cover
+            
+        time
+            font-size: 14px
+            font-weight: 100
+            font-style: italic
+            
+        h3, p
+            padding: 0 10px
+            color: $text-color
+        
+        h3
+            font-size: 20px
+            font-weight: 700
+        
+        p
+            font-size: 16px
+            
+            
+
+            
+@media (max-width: 640px)
+    div.arkivet
+        display: block
+        .kort
+            width: 100%
+            margin: 10px 0
+            padding-bottom: 10px
