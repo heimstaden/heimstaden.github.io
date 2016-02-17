@@ -1,10 +1,11 @@
 ---
 layout: post
 thumbnail: "Rudbeckia%20Cherry%20Brandy.JPG"
-description: Vakre høstblomster kledd i høstens farger. Passer i både bed og krukker. Lett å få til fra frø.
+description: Vakre høstblomster kledd i høstens farger. Passer i både bed og krukker. Lette å få til fra frø.
 published: true
 title: "Rudbeckia - Praktsolhatt"
 ---
+
 
 
 
