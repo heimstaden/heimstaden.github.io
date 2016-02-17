@@ -3,8 +3,9 @@ layout: post
 thumbnail: "Brugmansia%20Maya.JPG"
 description: Her er en bloggpost med bilder av noen av mine engletrompeter.
 published: true
-title: "Brugmansia - Engletrompeter"
+title: "Engletrompeter - Brugmansia"
 ---
+
 
 
 
