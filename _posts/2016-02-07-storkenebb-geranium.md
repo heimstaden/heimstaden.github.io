@@ -44,4 +44,14 @@ Trykk på bildet for å se alle bildene!
 
 
 
+![Geranium Rosemoor]({{site.baseurl}}/assets/img/Geranium%20magnificum%20'Rosemoor'.JPG)
 
+![Liten, yndig og dobbel blomst.]({{site.baseurl}}/assets/img/Geranium%20himalayense%20'Plenum'%20.JPG)
+
+![Geranium Pratense]({{site.baseurl}}/assets/img/Geranium%20Pratense.JPG)
+
+![Geranium phaeum, en mørk og liten skjønnhet.]({{site.baseurl}}/assets/img/Geranium%20phaeum.JPG)
+
+![Fine på nært hold.]({{site.baseurl}}/assets/img/Tett%20p%C3%A5.JPG)
+
+![Fine i samplanting med Saxifraga urbium.]({{site.baseurl}}/assets/img/Ukjent%20Geranium.JPG)
