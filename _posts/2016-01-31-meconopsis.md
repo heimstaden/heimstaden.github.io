@@ -11,6 +11,7 @@ title: Meconopsis
 
 
 
+
 De første frøene er kommet i jorda. Det har vært en mild høst her i vest og derfor har jeg ventet med å så stauder til det ble litt kaldere. Hvert eneste år sår jeg ulike varianter av valmuesøstre, eller Meconopsis som de heter på latin. 
 
 De er blikkfang i hagen og blomstrer her hos oss i mai/ juni. I år gleder jeg meg til noen nye varianter som ble sådd for ett og to år siden. De kommer forhåpentligvis med blomster i år.
