@@ -9,6 +9,7 @@ title: "Engletrompeter - Brugmansia"
 
 
 
+
 De favorittene som tar størst plass, er engletrompet eller Brugmansia. De kan bli flere meter høye og de overvintrer på planterommet som jeg har over garasjen. 
 
 Disse vakre plantene stammer fra Sør- Amerika og det er vel ikke akkurat de beste forhold for dem her i vest. Disse plantene overvintrer jeg år etter år og prøver å skaffe meg nye varianter hvis jeg får anledning. De er så utrolig eksotiske og spesielle og de er blikkfang i hagen når de blomstrer. De finnes i mange flotte farger og fasonger; rosa, hvite, gule, oransje, aprikose, enkle, fylte, doble og triple.
@@ -31,4 +32,4 @@ Trykk på bildet for å se alle bildene!
 
 ![En enkel hvit ]({{site.baseurl}}/assets/img/Brugmansia hvit.JPG)
 
-![Brugmansia Sanguinea ]({{site.baseurl}}/assets/img/Brugmansia Sanguinea.JPG)
+![Brugmansia Sanguinea, en annen type som ikke dufter.]({{site.baseurl}}/assets/img/Brugmansia Sanguinea.JPG)

@@ -1,10 +1,11 @@
 ---
 layout: post
 thumbnail: "Bl%C3%A5%20valmues%C3%B8ster.JPG"
-description: Vakre valmuesøstre i ulike farger.  En god porsjon tålmodighet må til før disse vil blomstre
+description: Vakre valmuesøstre i ulike farger.  Disse er også et av sommerens høydepunkter.
 published: true
 title: Meconopsis
 ---
+
 
 
 
