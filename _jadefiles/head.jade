@@ -41,7 +41,7 @@ head
     | {% if page.thumbnail %}
     meta(content="/assets/img/{{ page.thumbnail }}" property="og:image")
     | {% else %}
-    meta(content="/assets/img/" property="og:image")
+    meta(content="/assets/img/siteimg.jpg" property="og:image")
     | {% endif %}
     | {% if page.categories %}
     | {% for category in page.categories limit:1 %}
