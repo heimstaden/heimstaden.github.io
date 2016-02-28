@@ -42,7 +42,7 @@ head
     meta(content="{{ site.url }}/om/" property="article:author")
     | {% endif %}
     | {% if page.thumbnail %}
-    meta(content="/assets/img/{{ page.thumbnail }}" property="og:image")
+    meta(content="{{ page.thumbnail }}" property="og:image")
     | {% else %}
     meta(content="/assets/img/siteimg.jpg" property="og:image")
     | {% endif %}
