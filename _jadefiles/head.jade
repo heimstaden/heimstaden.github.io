@@ -16,6 +16,9 @@ head
     meta(property="fb:admins" content="{{ site.fb_admins }}")
     meta(property="fb:app_id" content="{{ site.fb_appid }}")
     
+    | {% if site.google_site_verification %}
+    meta(name="google-site-verification" content="{{ site.google_site_verification }}")
+    | {% endif %}
     | {% if page.title %}
     meta(content="{{ page.title }}" property="og:title")
     | {% else %}
