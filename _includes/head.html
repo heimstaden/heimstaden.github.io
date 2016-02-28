@@ -4,7 +4,7 @@
 {% if page.description %}<meta content="{{ page.description }}" property="og:description"/>{% else %}<meta content="{{ site.description }}" property="og:description"/>{% endif %}
 {% if page.url %}<meta content="{{ site.url }}{{ page.url }}" property="og:url"/>{% endif %}
 {% if page.date %}<meta content="{{ page.date | date_to_xmlschema }}" property="article:published_time"/><meta content="{{ site.url }}/om/" property="article:author"/>{% endif %}
-{% if page.thumbnail %}<meta content="{{ page.thumbnail }}" property="og:image"/>{% else %}<meta content="/assets/img/siteimg.jpg" property="og:image"/>{% endif %}
+{% if page.thumbnail %}<meta content="/assets/img/{{ site.thumbnail }}" property="og:image"/>{% else %}<meta content="/assets/img/siteimg.jpg" property="og:image"/>{% endif %}
 {% if page.categories %}
 {% for category in page.categories limit:1 %}<meta content="{{ category }}" property="article:section"/>{% endfor %}
 {% endif %}
