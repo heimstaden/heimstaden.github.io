@@ -9,4 +9,5 @@
 {% endif %}
 {% if page.tags %}
 {% for tag in page.tags %}<meta content="{{ tag }}" property="article:tag"/>{% endfor %}
-{% endif %}</head>
+{% endif %}
+{% include ogs.html %}</head>
