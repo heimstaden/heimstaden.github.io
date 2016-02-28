@@ -5,9 +5,6 @@ description: Storkenebb i mange varianter. Her er noen av dem som finnes i min h
 published: true
 title: "Storkenebb - Geranium"
 ---
-
-
-
 Dette er planter jeg hadde dilla på for noen år siden. Du har sikkert sett dem i naturen også. De blomstrer i juni og etter blomstring klipper jeg vekk de visne blomsterstilkene, for ellers formerer de seg i overkant mye. Når de klippes ned, får de som regel et nytt, litt mindre blomsterflor på sensommeren.
 
 ![Storkenebb i kveldssol.]({{site.baseurl}}/assets/img/Geranium%20i%20kveldssol.JPG)
@@ -28,17 +25,8 @@ Trykk på bildet for å se alle bildene!
 
 ![Geranium Pratense]({{site.baseurl}}/assets/img/Geranium%20Pratense.JPG)
 
-
 ![Geranium phaeum, en mørk og liten skjønnhet.]({{site.baseurl}}/assets/img/Geranium%20phaeum.JPG)
 
 ![Fine på nært hold.]({{site.baseurl}}/assets/img/Tett%20p%C3%A5.JPG)
 
 ![Fine i samplanting med Saxifraga urbium.]({{site.baseurl}}/assets/img/Ukjent%20Geranium.JPG)
-
-
-
-
-
-
-
-
