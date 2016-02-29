@@ -1,11 +1,11 @@
 .home-wrap
     display: flex
-    min-height: 100vh
+    min-height: 100%
     flex-flow: column
     overflow: hidden
     
 .home-sections
-    flex: 1
+    flex: 1 auto
     +transition()
     
     section
@@ -18,7 +18,7 @@
     
     .flex      
         display: flex
-        flex-direction: rows
+        flex-direction: row
         
     .flex-column
         flex-direction: column
@@ -60,12 +60,4 @@
         padding: 0 10px
     
     .col-50
-        width: auto
-        
-        
-        
-        
-        
-        
-        
-        
+        width: auto 
