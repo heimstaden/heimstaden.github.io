@@ -1,4 +1,5 @@
 name: Heimstaden
+baseurl: http://heimstaden.no
 sass:
   sass_dir: assets/css
   style: compressed
