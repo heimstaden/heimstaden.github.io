@@ -34,8 +34,6 @@ Trykk på bildet for å se alle bildene!
 
 ![Geranium Pratense]({{site.baseurl}}/assets/img/Geranium%20Pratense.JPG)
 
-![Geranium soboliferum.]({{site.baseurl}}/assets/img/Geranium%20soboliferum.JPG)
-
 ![Geranium phaeum, en mørk og liten skjønnhet.]({{site.baseurl}}/assets/img/Geranium%20phaeum.JPG)
 
 ![Fine på nært hold.]({{site.baseurl}}/assets/img/Tett%20p%C3%A5.JPG)
