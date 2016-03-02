@@ -40,23 +40,7 @@ Trykk på bildet for å se alle bildene!
 
 ![Fine i samplanting med Saxifraga urbium.]({{site.baseurl}}/assets/img/Ukjent%20Geranium.JPG)
 
-![Storkenebb i kveldssol.]({{site.baseurl}}/assets/img/Geranium%20i%20kveldssol.JPG)
-
-![Fin som kantplante også.]({{site.baseurl}}/assets/img/Geranium%20cantabrigiense%20'Cambridge'%2C.JPG)
 
 
-![Blek rosa.]({{site.baseurl}}/assets/img/Geranium%20himalayense%20'Derrick%20Cook'.JPG)
 
-![Geranium Rosemoor]({{site.baseurl}}/assets/img/Geranium%20magnificum%20'Rosemoor'.JPG)
 
-![Liten, yndig og dobbel blomst.]({{site.baseurl}}/assets/img/Geranium%20himalayense%20'Plenum'%20.JPG)
-
-![Geranium Pratense]({{site.baseurl}}/assets/img/Geranium%20Pratense.JPG)
-
-![Geranium soboliferum.]({{site.baseurl}}/assets/img/Geranium%20soboliferum.JPG)
-
-![Geranium phaeum, en mørk og liten skjønnhet.]({{site.baseurl}}/assets/img/Geranium%20phaeum.JPG)
-
-![Fine på nært hold.]({{site.baseurl}}/assets/img/Tett%20p%C3%A5.JPG)
-
-![Fine i samplanting med Saxifraga urbium.]({{site.baseurl}}/assets/img/Ukjent%20Geranium.JPG)
