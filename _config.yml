@@ -1,6 +1,5 @@
 name: Heimstaden
 baseurl: http://heimstaden.no
-fb_appid: 966242223397117
 sass:
   sass_dir: assets/css
   style: compressed
