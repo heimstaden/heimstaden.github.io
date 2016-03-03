@@ -11,8 +11,9 @@ title: " Praktsolhatt - Rudbeckia"
 
 
 
+
 Dette er også en sommerblomst som jeg sår hvert år, og i milde vintre så klarer de å overleve her i vestlandsklima. Dette er flotte planter som blomstrer til frosten kommer. 
-Dessuten har de nydelige farger som passer godt inn på høsten. Disse sår jeg også i begynnelsen av februar.
+Dessuten har de nydelige farger som passer godt inn på høsten. Disse sår jeg i begynnelsen av februar.
 
 ![Rudbeckia Cherry Brandy.]({{site.baseurl}}/assets/img/Rudbeckia Cherry Brandy.JPG)
 

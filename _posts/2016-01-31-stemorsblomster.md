@@ -10,7 +10,8 @@ title: Stemorsblomster
 
 
 
-Noen sommerblomster må sås ekstra tidlig slik at man får glede av dem hele sesongen. Det gjelder blant annet stemor. Disse kan man få kjøpt i bøtter og spann ganske tidlig på våren, men hvis man vil ha noen skikkelige blikkfang, kan man så dem selv.
+
+Noen blomster må sås ekstra tidlig slik at de kan glede oss med blomster tidlig. Det gjelder blant annet stemor. Disse kan man få kjøpt i bøtter og spann ganske tidlig på våren, men hvis man vil ha noen skikkelige blikkfang, kan man så dem selv. 
 
 ![Magiske stemor!]({{site.baseurl}}/assets/img/Svart stemor.JPG)
 
@@ -27,6 +28,3 @@ Trykk på bildet for å se alle bildene!
 ![Hvit stemor.JPG]({{site.baseurl}}/assets/img/Hvit stemor.JPG)
 
 ![Lilla stemor.JPG]({{site.baseurl}}/assets/img/Lilla stemor.JPG)
-
-
-
