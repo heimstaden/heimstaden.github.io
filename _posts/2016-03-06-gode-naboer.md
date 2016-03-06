@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail: Frodig.JPG
+thumbnail: "Ammi%20Majus%20%20og%20astilbe.JPG"
 description: "Noen planter kler hverandre. Noen ganger er det planlagt, mens andre ganger er det helt tilfeldig. Ta en titt på disse bildene!"
 published: true
 title: Gode naboer
@@ -27,7 +27,7 @@ Trykk på bildet for å se alle bildene!
  
 ![Akeleie og rødkattebusk]({{site.baseurl}}/assets/img/Aquilegia vulgaris clematiflora.JPG)
  
-![Pieris og Black hero tulipan]({{site.baseurl}}/assets/img/Pieris 'Forest Flame' og tulipanen Black hero.JPG)
+![Pieris og tulipan Black Hero]({{site.baseurl}}/assets/img/Pieris%20'Forest%20Flame'%20og%20tulipanen%20Black%20hero.JPG)
 
 ![Saxifraga igjen med rosa løytnantshjerte]({{site.baseurl}}/assets/img/Saxifraga umbrosa og løytnantshjerte.JPG)
 
