@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail: "\"Frodig.JPG\""
+thumbnail: Frodig.JPG
 description: "Noen planter kler hverandre. Noen ganger er det planlagt, mens andre ganger er det helt tilfeldig. Ta en titt på disse bildene!"
 published: true
 title: Gode naboer
