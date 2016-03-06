@@ -1,6 +1,6 @@
 ---
 layout: post
-thumbnail: "Rosa%20astilbe%20med%20ammi%20majus%20slyngende%20rundt%20seg.JPG"
+thumbnail: "\"Hvit%20astilbe%20sammen%20med%20hosta%20og%20skjoldbronseblad .JPG\""
 description: "Noen planter kler hverandre. Noen ganger er det planlagt, mens andre ganger er det helt tilfeldig. Ta en titt på disse bildene!"
 published: true
 title: Gode naboer
