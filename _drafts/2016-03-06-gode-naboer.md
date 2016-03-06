@@ -8,13 +8,17 @@ title: Gode naboer
 
 ## A New Post
 
-Når plantene står tett i tett, kan det dukke opp mange fine kombinasjoner, både med hensyn til blomster og bladverk. Mange planter har flotte dekorative blader, som for eksempel hosta, alunrot, lammeøre, lønn, oktoberbergknapp, bronseblad, astilber og bregner. Sammen med planter som har vakre farger og former kan det bli fine blikkfang.
+Når plantene står tett i tett, kan det dukke opp mange fine kombinasjoner, både med hensyn til blomster og bladverk. Mange planter har flotte dekorative blader, som for eksempel hosta, alunrot, lammeøre, lønn, oktoberbergknapp, bronseblad, astilber og bregner. 
 
 ![Rosa astilbe med ammi majus slyngende rundt seg]({{site.baseurl}}/assets/img/Ammi Majus  og astilbe.JPG)
 
-Trykk på bildet for å se alle bildene!
+<!--more--> 
+
+Sammen med planter som har vakre farger og former kan det bli fine blikkfang.
 
 ![Bronseblad og revebjelle]({{site.baseurl}}/assets/img/Bronseblad og revebjeller.JPG)
+
+Trykk på bildet for å se alle bildene!
 
 ![Bronseblad og Saxifraga urbium]({{site.baseurl}}/assets/img/Bronseblad og saxifraga umbrosa.JPG)
 
