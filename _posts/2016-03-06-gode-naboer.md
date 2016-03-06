@@ -21,13 +21,13 @@ Trykk på bildet for å se alle bildene!
 
 ![Bronseblad og Saxifraga urbium]({{site.baseurl}}/assets/img/Bronseblad og saxifraga umbrosa.JPG)
 
- ![Hvit astilbe sammen med hosta og skjoldbronseblad]({{site.baseurl}}/assets/img/Hvit astilbe sammen med hosta og skjoldbronseblad .JPG)
+![Hvit astilbe sammen med hosta og skjoldbronseblad]({{site.baseurl}}/assets/img/Hvit astilbe sammen med hosta og skjoldbronseblad .JPG)
  
- ![Primula Vialii, roser, hosta, alunrot og mye mer]({{site.baseurl}}/assets/img/Frodig.JPG)
+![Primula Vialii, roser, hosta, alunrot og mye mer]({{site.baseurl}}/assets/img/Frodig.JPG)
  
- ![Akeleie og rødkattebusk]({{site.baseurl}}/assets/img/Aquilegia vulgaris clematiflora.JPG)
+![Akeleie og rødkattebusk]({{site.baseurl}}/assets/img/Aquilegia vulgaris clematiflora.JPG)
  
- ![Pieris og Black hero tulipan]({{site.baseurl}}/assets/img/Pieris 'Forest Flame' og tulipanen Black hero.JPG)
+![Pieris og Black hero tulipan]({{site.baseurl}}/assets/img/Pieris 'Forest Flame' og tulipanen Black hero.JPG)
 
 ![Saxifraga igjen med rosa løytnantshjerte]({{site.baseurl}}/assets/img/Saxifraga umbrosa og løytnantshjerte.JPG)
 
