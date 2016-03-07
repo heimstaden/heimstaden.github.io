@@ -2,9 +2,10 @@
 layout: post
 thumbnail: Sommerdag.JPG
 description: Dagene har blitt lysere og lengre. Snart er våren og sommeren her.
-published: false
+published: true
 title: Sommerlengsel
 ---
+
 
 
 I vårt langstrakte land er det store variasjoner på denne tiden. Noen steder er det vårstemning, andre steder klorer vinteren seg fast. [Moseplassen](http://www.moseplassen.no/)
