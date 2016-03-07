@@ -7,9 +7,11 @@ title: Sommerdrømmer
 ---
 
 
+
 ## A New Post
 
-I vårt langstrakte land er det store variasjoner på denne tiden. Noen steder er det vårstemning, andre steder klorer vinteren seg fast. http://www.moseplassen.no/ inviterer hagebloggere til å dele sine sommerdrømmer og få vinteren på avstand.
+I vårt langstrakte land er det store variasjoner på denne tiden. Noen steder er det vårstemning, andre steder klorer vinteren seg fast. http://www.moseplassen.no/
+inviterer hagebloggere til å dele sine sommerdrømmer og få vinteren på avstand.
 
 ![Sommerdag.]({{site.baseurl}}/assets/img/Sommerdag.JPG)
 
@@ -32,6 +34,6 @@ Jeg gleder meg til å se igjen kjente og kjære planter og se frø bli til bloms
 
 Jeg gleder meg til å kjenne lukten av blomster og nyslått gress, og jeg gleder meg til å høre summende humler og se sommerfugler flagre fra blomst til blomst. Det er ikke lenge igjen nå.
 
-![En duft av sommer.]({{site.baseurl}}/assets/img/En%20duft%20av%20sommer.JPG)
+![En duft av sommer.]({{site.baseurl}}/assets/img/Roseduft.JPG)
 
 ![Sommerfugl i sommerland.]({{site.baseurl}}/assets/img/Sommerfugl i sommerland.JPG)
