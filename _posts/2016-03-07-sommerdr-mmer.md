@@ -22,11 +22,11 @@ Jeg gleder meg til å rusle rundt i hagen og kjenne solen varme og se sollyset s
 
 ![Klatrende roser i solskinn.]({{site.baseurl}}/assets/img/Klatrende roser.JPG)
 
-<!--more--> 
-
 Jeg gleder meg til å se igjen kjente og kjære planter og se frø bli til blomster. 
 
-![Svaiende Cosmos hører sommeren til.]({{site.baseurl}}/assets/img/Cosmos hører sommeren til.JPG)
+![Fuchsia New Millenium]({{site.baseurl}}/assets/img/Fuchsia New millenium.JPG)
+
+![Svaiende Cosmos hører sommeren til.]({{site.baseurl}}/assets/img/Cosmos.JPG)
 
 ![Valmuer i solskinn.]({{site.baseurl}}/assets/img/Valmuer i solskinn.JPG)
 
