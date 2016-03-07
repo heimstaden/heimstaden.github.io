@@ -8,9 +8,6 @@ title: Sommerlengsel
 
 
 
-
-## A New Post
-
 I vårt langstrakte land er det store variasjoner på denne tiden. Noen steder er det vårstemning, andre steder klorer vinteren seg fast. [Moseplassen](http://www.moseplassen.no/)
 inviterer hagebloggere til å dele sine sommerdrømmer og få vinteren på avstand.
 
