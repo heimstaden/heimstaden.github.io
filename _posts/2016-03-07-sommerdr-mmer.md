@@ -24,6 +24,8 @@ Jeg gleder meg til å rusle rundt i hagen og kjenne solen varme og se sollyset s
 
 ![Klatrende roser i solskinn.]({{site.baseurl}}/assets/img/Klatrende roser.JPG)
 
+![Pion i kveldssol]({{site.baseurl}}/assets/img/Pion i kveldssol.JPG)
+
 Jeg gleder meg til å se igjen kjente og kjære planter og se frø bli til blomster. 
 
 ![Fuchsia New Millenium]({{site.baseurl}}/assets/img/Fuchsia New millenium.JPG)
