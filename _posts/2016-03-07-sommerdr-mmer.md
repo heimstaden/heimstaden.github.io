@@ -23,7 +23,6 @@ Jeg gleder meg til å rusle rundt i hagen og kjenne solen varme og se sollyset s
 
 ![Pion i kveldssol]({{site.baseurl}}/assets/img/Pion i kveldssol.JPG)
 
-
 ![Fuchsia New Millenium]({{site.baseurl}}/assets/img/Fuchsia New millenium.JPG)
 
 ![Svaiende Cosmos hører sommeren til.]({{site.baseurl}}/assets/img/Cosmos.JPG)
