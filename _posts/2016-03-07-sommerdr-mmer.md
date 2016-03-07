@@ -22,7 +22,7 @@ Jeg gleder meg til å rusle rundt i hagen og kjenne solen varme og se sollyset s
 
 <!--more--> 
 
-Jeg gleder meg til å se igjen kjente og kjære planter og å se frø bli til blomster. 
+Jeg gleder meg til å se igjen kjente og kjære planter og se frø bli til blomster. 
 
 ![Svaiende Cosmos hører sommeren til.]({{site.baseurl}}/assets/img/Cosmos hører sommeren til.JPG)
 
