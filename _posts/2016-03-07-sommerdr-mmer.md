@@ -32,7 +32,7 @@ Jeg gleder meg til å se igjen kjente og kjære planter og se frø bli til bloms
 
 ![Valmuer i solskinn.]({{site.baseurl}}/assets/img/Valmuer i solskinn.JPG)
 
-Jeg gleder meg til å kjenne lukten av blomster og nyslått gress, og jeg gleder meg til å høre summende humler og se sommerfugler flagre fra blomst til blomst. Det er ikke lenge igjen nå.
+Jeg gleder meg til å kjenne duften av blomster og nyslått gress, og jeg gleder meg til å høre summende humler og se sommerfugler flagre fra blomst til blomst. Det er ikke lenge igjen nå.
 
 ![En duft av sommer.]({{site.baseurl}}/assets/img/Roseduft.JPG)
 
