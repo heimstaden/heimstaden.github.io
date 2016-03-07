@@ -1,12 +1,11 @@
 ---
 layout: post
-thumbnail: "![Rosa%20astilbe%20med%20ammi%20majus%20slyngende%20rundt%20seg.JPG]"
+thumbnail: "Ammi%20Majus%20%20og%20astilbe.JPG"
 description: "Noen planter kler hverandre. Noen ganger er det planlagt, mens andre ganger er det helt tilfeldig. Ta en titt på disse bildene!"
-published: false
+published: true
 title: Gode naboer
 ---
 
-## A New Post
 
 Når plantene står tett i tett, kan det dukke opp mange fine kombinasjoner, både med hensyn til blomster og bladverk. Mange planter har flotte dekorative blader, som for eksempel hosta, alunrot, lammeøre, lønn, oktoberbergknapp, bronseblad, astilber og bregner. 
 
@@ -22,23 +21,16 @@ Trykk på bildet for å se alle bildene!
 
 ![Bronseblad og Saxifraga urbium]({{site.baseurl}}/assets/img/Bronseblad og saxifraga umbrosa.JPG)
 
- ![Hvit astilbe sammen med hosta og skjoldbronseblad]({{site.baseurl}}/assets/img/Hvit astilbe sammen med hosta og skjoldbronseblad .JPG)
+![Hvit astilbe sammen med hosta og skjoldbronseblad]({{site.baseurl}}/assets/img/Hvit astilbe sammen med hosta og skjoldbronseblad .JPG)
  
- ![Primula Vialii, roser, hosta, alunrot og mye mer]({{site.baseurl}}/assets/img/Frodig.JPG)
+![Primula Vialii, roser, hosta, alunrot og mye mer]({{site.baseurl}}/assets/img/Frodig.JPG)
  
- ![Akeleie og rødkattebusk]({{site.baseurl}}/assets/img/Aquilegia vulgaris clematiflora.JPG)
+![Akeleie og rødkattebusk]({{site.baseurl}}/assets/img/Aquilegia vulgaris clematiflora.JPG)
  
- ![Pieris og Black hero tulipan]({{site.baseurl}}/assets/img/Pieris 'Forest Flame' og tulipanen Black hero.JPG)
+![Pieris og tulipan Black Hero]({{site.baseurl}}/assets/img/Pieris%20'Forest%20Flame'%20og%20tulipanen%20Black%20hero.JPG)
 
 ![Saxifraga igjen med rosa løytnantshjerte]({{site.baseurl}}/assets/img/Saxifraga umbrosa og løytnantshjerte.JPG)
 
 ![Tulipaner og hosta]({{site.baseurl}}/assets/img/Tulipa China Town og hosta.JPG)
 
 ![Tulipaner og lønn]({{site.baseurl}}/assets/img/Tulipaner og lønn.JPG)
-
-
- 
- 
-
-
-
