@@ -6,6 +6,7 @@ published: false
 title: Sommerdrømmer
 ---
 
+
 ## A New Post
 
 I vårt langstrakte land er det store variasjoner på denne tiden. Noen steder er det vårstemning, andre steder klorer vinteren seg fast. http://www.moseplassen.no/ inviterer hagebloggere til å dele sine sommerdrømmer og få vinteren på avstand.
@@ -14,7 +15,8 @@ I vårt langstrakte land er det store variasjoner på denne tiden. Noen steder e
 
 Jeg gleder meg til å rusle rundt i hagen og kjenne solen varme og se sollyset som får blomstene til å gløde. 
 
-![Velkommen vår.]({{site.baseurl}}/assets/img/Velkommen vår.JPG)
+![Velkommen er dere.]({{site.baseurl}}/assets/img/Velkommen er dere..JPG)
+
 
 ![Klematis i sol.]({{site.baseurl}}/assets/img/klematis i sol.JPG)
 
@@ -33,6 +35,3 @@ Jeg gleder meg til å kjenne lukten av blomster og nyslått gress, og jeg gleder
 ![En duft av sommer.]({{site.baseurl}}/assets/img/En%20duft%20av%20sommer.JPG)
 
 ![Sommerfugl i sommerland.]({{site.baseurl}}/assets/img/Sommerfugl i sommerland.JPG)
-
-
-
