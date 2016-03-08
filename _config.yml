@@ -16,6 +16,11 @@ prose:
           element: "hidden"
           value: "post"
       
+      - name: "date"
+        field:
+          element: "hidden"
+          value: "CURRENT_DATETIME"
+          
       - name: "title"
         field:
           element: "text"
