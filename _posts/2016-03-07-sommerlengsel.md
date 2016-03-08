@@ -20,6 +20,8 @@ Jeg gleder meg til å rusle rundt i hagen og kjenne solen varme og se sollyset s
 
 ![Velkommen er dere.]({{site.baseurl}}/assets/img/Velkommen er dere..JPG)
 
+Trykk på bildet for å se alle bildene!
+
 ![Klematis i sol.]({{site.baseurl}}/assets/img/klematis i sol.JPG)
 
 ![Klatrende roser i solskinn.]({{site.baseurl}}/assets/img/Klatrende roser.JPG)
