@@ -48,6 +48,16 @@ Andre planter som tåler halvskygge er stormarikåpe, bergenia, primula, forglem
 
 Som bunndekkere har jeg i dette bedet blå vårkjærmine, bispelue, krypjonsokkoll, lungeurt og flekktvetann. Hasselurt er også en bunndekker som egner seg.
 
+![Flekktvetann.JPG]({{site.baseurl}}/assets/img/Flekktvetann.JPG)
+
+![Julrose, løytnantshjerte og vårkjærmine.JPG]({{site.baseurl}}/assets/img/Julrose,
+løytnantshjerte og vårkjærmine.JPG)
+
+![Lungeurt og julerose.JPG]({{site.baseurl}}/assets/img/Lungeurt og julerose.JPG)
+
+
+
+
 
 
 
