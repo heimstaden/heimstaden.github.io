@@ -28,7 +28,7 @@ Trykk på et av bildene for å se alle bildene!
 
 ![Hosta Abiqua Drinking Gourd]({{site.baseurl}}/assets/img/Hosta .JPG)
 
-![Ukjent hosta]({{site.baseurl}}/assets/img/Hosta%20(2).JPG)
+![Ukjent hosta.JPG]({{site.baseurl}}/assets/img/Ukjent hosta.JPG)
 
 ![Blomstrende hosta.JPG]({{site.baseurl}}/assets/img/Blomstrende hosta.JPG)
 
