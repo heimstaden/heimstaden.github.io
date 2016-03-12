@@ -1,11 +1,12 @@
 ---
 date: "2016-03-12 16:49 +0100"
 layout: post
-thumbnail: ""
-description: ""
+thumbnail: Planter der solen ikke kommer til.JPG
+description: "De fleste hager har områder som kan være litt utfordrende. Enten det er for mye sol, for lite sol, for tørt, for fuktig osv. Her får du noen tips til planter som trives i skygge."
 published: false
 title: Der solen ikke kommer til
 ---
+
 
 Jeg har en skråning på nordsiden av huset med mye skygge og til dels mye fuktighet. Det tok tid å finne ut hvilke planter som kunne trives her. Her er derfor noen tips til andre som har samme utfordringer. I bedet blomstrer det fra tidlig vår til sen høst.
 Her er skråningen mot nord etter noen år med utprøving av planter. 
