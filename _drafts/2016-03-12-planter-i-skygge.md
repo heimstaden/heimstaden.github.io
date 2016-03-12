@@ -38,7 +38,6 @@ Rodgersia eller bronseblad er også en som ruver litt etter noen år. Den tåler
 
 ![Blomst på bronseblad.]({{site.baseurl}}/assets/img/Utsnitt av nordbed.JPG)
 
-
 Se bloggposten om gode naboer. Fra midten av bedet og utover mot høyre kommer solen mer til, her er det halvskygge. Her har jeg iris, juleroser, buskbom, rosa løytnantshjerte, hvit fredløs, oktoberbergknapp, storkenebb, hortensia, rhododendron, stjerneskjerm, orientvalmue, oppstammet beinved, bregner, og hvit phlox. 
 
 ![Resten av skråningen.PNG]({{site.baseurl}}/assets/img/Nordsiden crop.PNG)
