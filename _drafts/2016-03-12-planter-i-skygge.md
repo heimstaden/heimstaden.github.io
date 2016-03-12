@@ -9,12 +9,15 @@ title: Planter som ikke står i solen
 
 
 
+
 Jeg har en skråning på nordsiden av huset med mye skygge og til dels mye fuktighet. Det tok tid å finne ut hvilke planter som kunne trives her. Her er derfor noen tips til andre som har samme utfordringer. I bedet blomstrer det fra tidlig vår til sen høst.
 Her er skråningen mot nord etter noen år med utprøving av planter. 
 
 ![Blomsterbed på nordsiden.]({{site.baseurl}}/assets/img/Planter%20for%20skygge.JPG)
 
+
 <!--more-->
+
 
 Alle plantene du ser på venstre side av bildet tåler skygge godt. De helt til venstre er Hosta eller bladliljer på norsk. På denne plassen får de ikke et eneste solgløtt. De tåler å stå i sol også, men blir finest i halvskygge. Hosta blir større og større for hvert år, og du kan fint dele dem etter 3-4 år, slik at du får flere. De finnes i mange varianter, store, små, noen er hvite og grønne, noen er blålige. Noen kan også være gulaktige. De med blålige og litt tykkere blader er lettere å få til hvis du har problemer med snegler. På disse plantene er det først og fremt bladene som er i fokus. De kommer med blomster i hvitt eller lilla. Det kan være smart å fjerne blomstene raskt etter blomstring for da holder bladene seg finere. 
 
