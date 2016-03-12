@@ -13,7 +13,8 @@ title: Planter der solen ikke kommer til.
 Jeg har en skråning på nordsiden av huset med mye skygge og til dels mye fuktighet. Det tok tid å finne ut hvilke planter som kunne trives her. Her er derfor noen tips til andre som har samme utfordringer. I bedet blomstrer det fra tidlig vår til sen høst.
 Her er skråningen mot nord etter noen år med utprøving av planter. 
 
-![Blomsterbed på nordsiden.]({{site.baseurl}}/assets/img/Planter%20for%20skygge.JPG)
+![Planter der solen ikke kommer til.JPG]({{site.baseurl}}/assets/img/Planter der solen ikke kommer til.JPG)
+
 
 
 <!--more-->
