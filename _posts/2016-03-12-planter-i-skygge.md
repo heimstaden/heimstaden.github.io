@@ -1,8 +1,8 @@
 ---
 date: "2016-03-12 14:10 +0100"
 layout: post
-thumbnail: ""
-description: ""
+thumbnail: Planter der solen ikke kommer til.JPG
+description: "De fleste hager har områder som kan være litt utfordrende. Enten det er for mye sol, for lite sol, for tørt, for fuktig osv. Her er noen eksempler på hva som kan trives."
 published: false
 title: Der solen ikke kommer til.
 ---
@@ -14,8 +14,6 @@ Jeg har en skråning på nordsiden av huset med mye skygge og til dels mye fukti
 Her er litt av skråningen mot nord etter noen år med utprøving av planter. 
 
 ![Planter der solen ikke kommer til.JPG]({{site.baseurl}}/assets/img/Planter der solen ikke kommer til.JPG)
-
-
 
 Alle plantene du ser på venstre side av bildet tåler skygge godt. De helt til venstre er Hosta eller bladliljer. På denne plassen får de ikke et eneste solgløtt. De tåler å stå i sol også, men blir finest i halvskygge. Hosta blir større og større for hvert år, og du kan fint dele dem etter 3-4 år, slik at du får flere. De finnes i veldig mange varianter; små, mellomstore og veldig store. Fargene varierer også mye, noen er hvite og grønne, noen er blålige og noen kan også være gulaktige. De med blålige og litt tykkere blader er lettere å få til hvis du har problemer med snegler. På disse plantene er det først og fremt bladene som er i fokus, men de kommer også med blomster i hvitt eller lilla. Det kan være smart å fjerne blomstene raskt etter blomstring for da holder bladene seg finere. 
 
@@ -46,7 +44,7 @@ Rodgersia eller bronseblad er også en som ruver litt etter noen år. Den tåler
 
 I resten av skråningen er det halvskygge. Her har jeg iris, juleroser, buskbom, rosa løytnantshjerte, hvit fredløs, oktoberbergknapp, storkenebb, hortensia, rhododendron, stjerneskjerm, orientvalmue, oppstammet beinved, bregner, og hvit phlox. 
 
-Andre planter som tåler halvskygge er stormarikåpe, bergenia, primula, forglemmegeisøster, trebladgillenia, klaseormedrue og klaseskumblomst. En del typer av storkenebb kan også tåle en del skygge. Av klatrende planter er klatrehortensia og viticella clematis planter som tåler en del skygge.
+Andre planter som tåler halvskygge er stormarikåpe, bergenia, primula, forglemmegeisøster, trebladgillenia, klaseormedrue og klaseskumblomst. En del typer av storkenebb kan også tåle en del skygge. Av klatrende planter er klatrehortensia og viticella clematis planter som tåler en del skygge. og det finnes sikkert mange flere.
 
 Som bunndekkere har jeg i dette bedet blå vårkjærmine, bispelue, krypjonsokkoll, lungeurt og flekktvetann. Hasselurt er også en bunndekker som egner seg.
 
