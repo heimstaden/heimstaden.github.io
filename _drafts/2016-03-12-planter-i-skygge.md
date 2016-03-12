@@ -11,13 +11,13 @@ title: Planter i skygge
 Jeg har en skråning på nordsiden av huset med mye skygge og til dels mye fuktighet. Jeg brukte lang tid på å finne ut hvilke planter som kunne trives her. Her en noen tips til andre som har samme utfordringer.
 Her er skråningen mot nord etter noen år med utprøving av planter.
 
-![Planter i skygge]({{site.baseurl}}/assets/img/Planter%20for%20skygge.JPG)
+![Planter i skygge.]({{site.baseurl}}/assets/img/Planter%20for%20skygge.JPG)
 
 Alle plantene du ser på venstre side av bildet tåler skygge godt. De helt til venstre er Hosta eller bladliljer på norsk. På denne plassen får de ikke et eneste solgløtt. De tåler å stå i sol også, men blir finest i halvskygge. Hosta blir større og større for hvert år, og du kan fint dele dem etter 3-4 år, slik at du får flere. De finnes i mange varianter, store, små, noen er hvite og grønne, noen er blålige. Noen kan også være gulaktige. De med blålige og litt tykkere blader er lettere å få til hvis du har problemer med snegler. På disse plantene er det først og fremt bladene som er i fokus. De kommer med blomster i hvitt eller lilla. Det kan være smart å fjerne blomstene raskt etter blomstring for da holder bladene seg finere. 
 
 <!--more-->
 
-![Noen typer hosta]({{site.baseurl}}/assets/img/Hosta%20med%20mer.JPG)
+![Noen typer hosta.]({{site.baseurl}}/assets/img/Hosta%20med%20mer.JPG)
 
 Trykk på et av bildene for å se alle bildene!
 
@@ -33,6 +33,16 @@ I tillegg har jeg astilber eller spir her. De finnes også i mange ulike farger 
 
 ![Hvit astilbe sammen med hosta]({{site.baseurl}}/assets/img/Hvit astilbe sammen med hosta.JPG)
 
+Planten med de store grønne bladene heter astilboides tabularis eller skjoldbronseblad. Bladene blir enorme og planten skyter opp lange stengler med hvite blomster. Denne planten tar etter hvert stor plass.
+Rodgersia eller bronseblad er også en som ruver litt etter noen år. Den tåler også skygge godt. Den finnes i litt forskjellige typer og fargen kan variere på både blader og blomster. På bildet mitt finner du bronseblad med de høye flikete bladene i fra midten på bildet og utover. Blomstene på mine planter ser du på bildet nedenfor godt støttet til en revebjelle, som også kan stå i halvskygge. Det hvite sløret nederst kommer fra saxifraga urbium eller skyggesildre. Den danner vintergrønne rosetter og i juni og juli blomstrer de med nydelige hvite slør som passer sammen med mange planter.
+
+![Blomst på bronseblad.]({{site.baseurl}}/assets/img/Utsnitt av nordbed.JPG)
+
+
+Se bloggposten om gode naboer. Fra midten av bedet og utover mot høyre kommer solen mer til, her er det halvskygge. Her har jeg iris, juleroser, buskbom, rosa løytnantshjerte, hvit fredløs, oktoberbergknapp, storkenebb, hortensia, rhododendron, stjerneskjerm, orientvalmue, oppstammet beinved, bregner, og hvit phlox. 
+Andre planter som tåler halvskygge er stormarikåpe, bergenia, primula, forglemmegeisøster, trebladgillenia, klaseormedrue og klaseskumblomst. En del typer av storkenebb kan også tåle en del skygge. Av klatrende planter er klatrehortensia og viticella clematis planter som tåler en del skygge.
+
+Som bunndekkere har jeg i dette bedet blå vårkjærmine, bispelue, krypjonsokkoll, lungeurt og flekktvetann. Hasselurt er også en bunndekker som egner seg.
 
 
 
