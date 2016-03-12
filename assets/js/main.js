@@ -9,7 +9,7 @@ $(document).ready(function(){
         $(this).wrap('<a href="' + src + '" data-lightbox="' + postTitle + '" data-title="' + alt + '"></a>');
 });
         
-        $("article img:gt(1)").hide();
+        // $("article img:gt(1)").hide(); //
 
         
         lightbox.option({
