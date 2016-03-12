@@ -1,13 +1,11 @@
 ---
 date: "2016-03-12 14:10 +0100"
 layout: post
-thumbnail: "Planter%20der%20solen%20ikke%20kommer%20til.JPG"
+thumbnail: ""
 description: ""
 published: false
 title: Der solen ikke kommer til.
 ---
-
-
 
 
 
