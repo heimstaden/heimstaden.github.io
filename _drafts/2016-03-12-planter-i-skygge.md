@@ -36,15 +36,15 @@ I tillegg har jeg astilber eller spir her. De finnes også i mange ulike farger 
 ![Hvit astilbe sammen med hosta]({{site.baseurl}}/assets/img/Hvit astilbe sammen med hosta.JPG)
 
 Planten med de store grønne bladene heter astilboides tabularis eller skjoldbronseblad. Bladene blir enorme og planten skyter opp lange stengler med hvite blomster. Denne planten tar etter hvert stor plass.
-Rodgersia eller bronseblad er også en som ruver litt etter noen år. Den tåler også skygge godt. Den finnes i litt forskjellige typer og fargen kan variere på både blader og blomster. På bildet mitt finner du bronseblad med de høye flikete bladene i fra midten på bildet og utover. Blomstene på mine planter ser du på bildet nedenfor godt støttet til en revebjelle, som også kan stå i halvskygge. Det hvite sløret nederst kommer fra saxifraga urbium eller skyggesildre. Den danner vintergrønne rosetter og i juni og juli blomstrer de med nydelige hvite slør som er nydelig sammen med mange forskjellige planter.
+Rodgersia eller bronseblad er også en som ruver litt etter noen år. Den tåler også skygge godt. Den finnes i litt forskjellige typer og fargen kan variere på både blader og blomster. Blomstene på mine planter ser du på bildet nedenfor godt støttet til en revebjelle, som også kan stå i halvskygge. Det hvite sløret nederst kommer fra saxifraga urbium eller skyggesildre. Den danner vintergrønne rosetter og i juni og juli blomstrer de med nydelige hvite slør som er nydelig sammen med mange forskjellige planter.
 
 ![Blomst på bronseblad.]({{site.baseurl}}/assets/img/Utsnitt av nordbed.JPG)
 
 ![Koreabronseblad.JPG]({{site.baseurl}}/assets/img/Koreabronseblad.JPG)
 
-Fra midten av bedet og utover mot høyre kommer solen mer til, her er det halvskygge. Her har jeg iris, juleroser, buskbom, rosa løytnantshjerte, hvit fredløs, oktoberbergknapp, storkenebb, hortensia, rhododendron, stjerneskjerm, orientvalmue, oppstammet beinved, bregner, og hvit phlox. 
-
 ![Resten av skråningen.PNG]({{site.baseurl}}/assets/img/Nordsiden crop.PNG)
+
+I resten av skråningen er det halvskygge. Her har jeg iris, juleroser, buskbom, rosa løytnantshjerte, hvit fredløs, oktoberbergknapp, storkenebb, hortensia, rhododendron, stjerneskjerm, orientvalmue, oppstammet beinved, bregner, og hvit phlox. 
 
 Andre planter som tåler halvskygge er stormarikåpe, bergenia, primula, forglemmegeisøster, trebladgillenia, klaseormedrue og klaseskumblomst. En del typer av storkenebb kan også tåle en del skygge. Av klatrende planter er klatrehortensia og viticella clematis planter som tåler en del skygge.
 
