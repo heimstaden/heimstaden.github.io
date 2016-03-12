@@ -55,8 +55,8 @@ Som bunndekkere har jeg i dette bedet blå vårkjærmine, bispelue, krypjonsokko
 
 ![Flekktvetann.JPG]({{site.baseurl}}/assets/img/Flekktvetann.JPG)
 
-![Julrose med naboer.JPG]({{site.baseurl}}/assets/img/Julrose,
-løytnantshjerte og vårkjærmine.JPG)
+![Julerose med naboer.]({{site.baseurl}}/assets/img/Julerose med naboer.JPG)
+
 
 ![Lungeurt og julerose.JPG]({{site.baseurl}}/assets/img/Lungeurt og julerose.JPG)
 
