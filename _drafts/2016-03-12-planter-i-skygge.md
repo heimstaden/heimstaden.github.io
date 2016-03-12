@@ -18,7 +18,7 @@ Her er skråningen mot nord etter noen år med utprøving av planter.
 
 Alle plantene du ser på venstre side av bildet tåler skygge godt. De helt til venstre er Hosta eller bladliljer på norsk. På denne plassen får de ikke et eneste solgløtt. De tåler å stå i sol også, men blir finest i halvskygge. Hosta blir større og større for hvert år, og du kan fint dele dem etter 3-4 år, slik at du får flere. De finnes i mange varianter, store, små, noen er hvite og grønne, noen er blålige. Noen kan også være gulaktige. De med blålige og litt tykkere blader er lettere å få til hvis du har problemer med snegler. På disse plantene er det først og fremt bladene som er i fokus. De kommer med blomster i hvitt eller lilla. Det kan være smart å fjerne blomstene raskt etter blomstring for da holder bladene seg finere. 
 
-![Hosta med mer.]({{site.baseurl}}/assets/img/Hosta%20med%20mer.JPG)
+![Hosta med naboer i et annet bed.]({{site.baseurl}}/assets/img/Hosta%20med%20mer.JPG)
 
 Trykk på et av bildene for å se alle bildene!
 
