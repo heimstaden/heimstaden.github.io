@@ -11,6 +11,7 @@ title: Der solen ikke kommer til
 
 
 
+
 Jeg har en skråning på nordsiden av huset med mye skygge og til dels mye fuktighet. Det tok tid å finne ut hvilke planter som kunne trives her. Her er derfor noen tips til andre som har samme utfordringer. I bedet blomstrer det fra tidlig vår til sen høst.
 Her er skråningen mot nord etter noen år med utprøving av planter. 
 
@@ -27,14 +28,14 @@ Alle plantene du ser på venstre side av bildet tåler skygge godt. De helt til 
 
 ![Blomstrende hosta.JPG]({{site.baseurl}}/assets/img/Blomstrende hosta.JPG)
 
-Den oransje planten på bildet er en Geum eller Prakthumleblomst. Den legger seg fint rundt og innimellom de andre plantene. Oransje er jo ikke en farge som lett matcher i bed, men her synes jeg den lyser fint opp.
+Den oransje planten på bildet er en Geum eller Prakthumleblomst. Den legger seg fint rundt og innimellom de andre plantene. Oransje er jo ikke en farge som lett passer inn,  men her synes jeg den lyser fint opp.
 
-I tillegg har jeg astilber eller spir her. De finnes også i mange ulike farger og høyder. De jeg har i dette skyggebedet er hvite, og de passer godt sammen med hosta. Her i skyggen blomstrer de ikke før i juli, men får de mer sol, kommer blomstringen i juni. Disse hvite blir ikke mer enn 30-40 cm, andre kan bli høyere. Disse blir også større og større for hvert år og kan også deles etter 3-4 år. Disse finnes også i farger med ulike rosavarianter til mørke rød. 
+I tillegg har jeg astilber eller spir her. De finnes også i mange ulike farger og høyder. De jeg har i dette skyggebedet er hvite, og de passer godt sammen med hosta. Her i skyggen blomstrer de ikke før i juli, men får de mer sol, kommer blomstringen tidligere. Disse hvite blir ikke mer enn 30-40 cm, men andre kan bli høyere. De blir også større og større for hvert år og kan også deles etter 3-4 år. Disse finnes og i forskjellige rosatoner og kan gå helt over i mørk rød.
 
 ![Hvit astilbe sammen med hosta]({{site.baseurl}}/assets/img/Hvit astilbe sammen med hosta.JPG)
 
-Planten med de store grønne bladene heter astilboides tabularis eller skjoldbronseblad. Bladene blir enorme og planten skyter opp lange stengler med hvite blomster. Denne planten tar etter hvert stor plass.
-Rodgersia eller bronseblad er også en som ruver litt etter noen år. Den tåler også skygge godt. Den finnes i litt forskjellige typer og fargen kan variere på både blader og blomster. På bildet mitt finner du bronseblad med de høye flikete bladene i fra midten på bildet og utover. Blomstene på mine planter ser du på bildet nedenfor godt støttet til en revebjelle, som også kan stå i halvskygge. Det hvite sløret nederst kommer fra saxifraga urbium eller skyggesildre. Den danner vintergrønne rosetter og i juni og juli blomstrer de med nydelige hvite slør som er nydelig sammen med mange forskjellige planter.
+Planten med de store grønne bladene på det første bildet heter astilboides tabularis eller skjoldbronseblad. Bladene blir enorme og planten skyter opp lange stengler med hvite blomster. Denne planten tar etter hvert stor plass.
+Rodgersia eller bronseblad er også en som ruver litt etter noen år. Den tåler også skygge godt. Den finnes i litt forskjellige typer og fargen kan variere på både blader og blomster. Blomstene på mine planter ser du på bildet nedenfor godt støttet til en revebjelle, som også kan stå i halvskygge. Det hvite sløret nederst kommer fra saxifraga urbium eller skyggesildre. Den danner vintergrønne rosetter og i juni og juli blomstrer de med nydelige hvite slør som er nydelig sammen med mange forskjellige planter.
 
 ![Blomst på bronseblad.]({{site.baseurl}}/assets/img/Utsnitt av nordbed.JPG)
 
