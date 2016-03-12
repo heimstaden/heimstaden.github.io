@@ -17,7 +17,7 @@ Alle plantene du ser på venstre side av bildet tåler skygge godt. De helt til 
 
 <!--more-->
 
-![Noen typer hosta.]({{site.baseurl}}/assets/img/Hosta%20med%20mer.JPG)
+![Hosta med mer.]({{site.baseurl}}/assets/img/Hosta%20med%20mer.JPG)
 
 Trykk på et av bildene for å se alle bildene!
 
