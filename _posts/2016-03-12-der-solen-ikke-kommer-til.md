@@ -3,7 +3,7 @@ date: "2016-03-12 16:49 +0100"
 layout: post
 thumbnail: Planter der solen ikke kommer til.JPG
 description: "De fleste hager har områder som kan være litt utfordrende. Enten det er for mye sol, for lite sol, for tørt, for fuktig osv. Her får du noen tips til planter som trives i skygge."
-published: false
+published: true
 title: Der solen ikke kommer til
 ---
 
