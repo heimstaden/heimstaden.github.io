@@ -41,7 +41,7 @@ Rodgersia eller bronseblad er også en som ruver litt etter noen år. Den tåler
 
 Se bloggposten om gode naboer. Fra midten av bedet og utover mot høyre kommer solen mer til, her er det halvskygge. Her har jeg iris, juleroser, buskbom, rosa løytnantshjerte, hvit fredløs, oktoberbergknapp, storkenebb, hortensia, rhododendron, stjerneskjerm, orientvalmue, oppstammet beinved, bregner, og hvit phlox. 
 
-![Nordsiden crop.PNG]({{site.baseurl}}/assets/img/Nordsiden crop.PNG)
+![Resten av skråningen.PNG]({{site.baseurl}}/assets/img/Nordsiden crop.PNG)
 
 Andre planter som tåler halvskygge er stormarikåpe, bergenia, primula, forglemmegeisøster, trebladgillenia, klaseormedrue og klaseskumblomst. En del typer av storkenebb kan også tåle en del skygge. Av klatrende planter er klatrehortensia og viticella clematis planter som tåler en del skygge.
 
