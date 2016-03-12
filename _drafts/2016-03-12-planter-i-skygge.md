@@ -8,14 +8,15 @@ title: Planter som ikke står i solen
 ---
 
 
-Jeg har en skråning på nordsiden av huset med mye skygge og til dels mye fuktighet. Jeg brukte lang tid på å finne ut hvilke planter som kunne trives her. Her en noen tips til andre som har samme utfordringer.
-Her er skråningen mot nord etter noen år med utprøving av planter.
+
+Jeg har en skråning på nordsiden av huset med mye skygge og til dels mye fuktighet. Jeg brukte lang tid på å finne ut hvilke planter som kunne trives her. Her en noen tips til andre som har samme utfordringer. Her er det noe som blomstrer fra tidlig vår til sen høst.
+Her er skråningen mot nord etter noen år med utprøving av planter. 
 
 ![Blomsterbed på nordsiden.]({{site.baseurl}}/assets/img/Planter%20for%20skygge.JPG)
 
-Alle plantene du ser på venstre side av bildet tåler skygge godt. De helt til venstre er Hosta eller bladliljer på norsk. På denne plassen får de ikke et eneste solgløtt. De tåler å stå i sol også, men blir finest i halvskygge. Hosta blir større og større for hvert år, og du kan fint dele dem etter 3-4 år, slik at du får flere. De finnes i mange varianter, store, små, noen er hvite og grønne, noen er blålige. Noen kan også være gulaktige. De med blålige og litt tykkere blader er lettere å få til hvis du har problemer med snegler. På disse plantene er det først og fremt bladene som er i fokus. De kommer med blomster i hvitt eller lilla. Det kan være smart å fjerne blomstene raskt etter blomstring for da holder bladene seg finere. 
-
 <!--more-->
+
+Alle plantene du ser på venstre side av bildet tåler skygge godt. De helt til venstre er Hosta eller bladliljer på norsk. På denne plassen får de ikke et eneste solgløtt. De tåler å stå i sol også, men blir finest i halvskygge. Hosta blir større og større for hvert år, og du kan fint dele dem etter 3-4 år, slik at du får flere. De finnes i mange varianter, store, små, noen er hvite og grønne, noen er blålige. Noen kan også være gulaktige. De med blålige og litt tykkere blader er lettere å få til hvis du har problemer med snegler. På disse plantene er det først og fremt bladene som er i fokus. De kommer med blomster i hvitt eller lilla. Det kan være smart å fjerne blomstene raskt etter blomstring for da holder bladene seg finere. 
 
 ![Hosta med mer.]({{site.baseurl}}/assets/img/Hosta%20med%20mer.JPG)
 
@@ -54,10 +55,3 @@ Som bunndekkere har jeg i dette bedet blå vårkjærmine, bispelue, krypjonsokko
 løytnantshjerte og vårkjærmine.JPG)
 
 ![Lungeurt og julerose.JPG]({{site.baseurl}}/assets/img/Lungeurt og julerose.JPG)
-
-
-
-
-
-
-
