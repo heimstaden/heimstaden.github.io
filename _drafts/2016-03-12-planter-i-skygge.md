@@ -9,7 +9,7 @@ title: Planter som ikke står i solen
 
 
 
-Jeg har en skråning på nordsiden av huset med mye skygge og til dels mye fuktighet. Jeg brukte lang tid på å finne ut hvilke planter som kunne trives her. Her en noen tips til andre som har samme utfordringer. Her er det noe som blomstrer fra tidlig vår til sen høst.
+Jeg har en skråning på nordsiden av huset med mye skygge og til dels mye fuktighet. Det tok tid å finne ut hvilke planter som kunne trives her. Her er derfor noen tips til andre som har samme utfordringer. I bedet blomstrer det fra tidlig vår til sen høst.
 Her er skråningen mot nord etter noen år med utprøving av planter. 
 
 ![Blomsterbed på nordsiden.]({{site.baseurl}}/assets/img/Planter%20for%20skygge.JPG)
@@ -55,3 +55,5 @@ Som bunndekkere har jeg i dette bedet blå vårkjærmine, bispelue, krypjonsokko
 løytnantshjerte og vårkjærmine.JPG)
 
 ![Lungeurt og julerose.JPG]({{site.baseurl}}/assets/img/Lungeurt og julerose.JPG)
+
+![Planter i skygge.]({{site.baseurl}}/assets/img/Planter%20for%20skygge.JPG)
