@@ -3,7 +3,7 @@ date: "2016-03-12 14:10 +0100"
 layout: post
 thumbnail: Planter der solen ikke kommer til.JPG
 description: "De fleste hager har områder som kan være litt utfordrende. Enten det er for mye sol, for lite sol, for tørt, for fuktig osv. Her er noen eksempler på hva som kan trives."
-published: true
+published: false
 title: Der solen ikke kommer til.
 ---
 
