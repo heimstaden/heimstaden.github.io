@@ -14,7 +14,6 @@ I løpet av den siste uken har vi endelig begynt å merke våren. Snøklokkene h
 
 ![Det er vår!]({{site.baseurl}}/assets/img/Klokker.JPG)
 
-
 I år dukket det opp en dobbel snøklokke i hagen. Den skal få ny plass når den er avblomstret. Aner ikke hvordan den har havnet i hagen her, men riktig velkommen er den.
 
 ![Dobbel.JPG]({{site.baseurl}}/assets/img/Dobbel.JPG)
