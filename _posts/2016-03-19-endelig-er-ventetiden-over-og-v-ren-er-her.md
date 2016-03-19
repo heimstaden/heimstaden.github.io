@@ -1,9 +1,9 @@
 ---
 date: "2016-03-19 16:45 +0100"
 layout: post
-thumbnail: "Snøklokkene%20 blomstrer.JPG"
+thumbnail: "Klokkene%20 blomstrer.JPG"
 description: "Jippi, det er vår"
-published: true
+published: false
 title: "Ønsker alle en riktig god vårpåske!"
 ---
 
