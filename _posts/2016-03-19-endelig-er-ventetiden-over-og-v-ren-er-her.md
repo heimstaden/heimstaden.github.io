@@ -9,6 +9,7 @@ title: "Ønsker alle en riktig god vårpåske!"
 
 
 
+
 I løpet av den siste uken har vi endelig begynt å merke våren. Snøklokkene har poppet opp av jorden og strekt seg mot solen. Her på Vestlandet trives de godt i litt fuktige omgivelser.  
 
 ![Snøklokkene blomstrer.]({{site.baseurl}}/assets/img/Klokker.JPG)
@@ -32,5 +33,3 @@ Våririsen er på vei og førstemann ut i år, som i fjor, er nydelige Iris 'Kat
 Lyngen har begynt å få farge igjen og den står i blomst i flere måneder. Det skjer nesten noe nytt fra dag til dag. Gleder meg til fortsettelsen, men først er det en etterlengtet påskeferie.
 
 ![Rosa lyng]({{site.baseurl}}/assets/img/Rosa lyng.JPG)
-
-
