@@ -8,13 +8,15 @@ title: Endelig er ventetiden over.
 ---
 
 
+
 I løpet av den siste uken har vi endelig begynt å merke våren. Snøklokkene har poppet opp av jorden og strekt seg mot solen. Her på Vestlandet trives de godt i litt fuktige omgivelser.  
 
 ![Snøklokkene blomstrer.]({{site.baseurl}}/assets/img/Sn%C3%B8klokker.JPG)
 
 For to år siden oppdaget jeg en dobbel snøklokke i plenen. Den ble omhyggelig flyttet og pleiet og er i år blitt til en liten tue. I år dukket det opp enda en dobbel snøklokke på omtrent samme sted.  Den skal også få ny plass når den er avblomstret. Aner ikke hvordan de har havnet i hagen her.
 
-![Ikke lett å ta bilde av.]({{site.baseurl}}/assets/img/Dobbel%20sn%C3%B8klokke.JPG)
+![Dobbel.JPG]({{site.baseurl}}/assets/img/Dobbel.JPG)
+
 
 <!--more-->
 
@@ -33,10 +35,3 @@ Lyngen har begynt å få farge igjen og den står i blomst i flere måneder.  De
 ![Rosa lyng]({{site.baseurl}}/assets/img/Rosa lyng.JPG)
 
 Ønsker alle en god påskeferie!
-
-
-
-
-
-
-
