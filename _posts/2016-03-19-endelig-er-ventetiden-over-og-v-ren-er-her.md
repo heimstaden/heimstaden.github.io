@@ -29,7 +29,7 @@ Våririsen er på vei og førstemann ut i år, som i fjor, er nydelige Iris 'Kat
 
 ![Iris 'Katharine Hodgkin'.  ]({{site.baseurl}}/assets/img/Iris Katharine Hodgkin.JPG)
 
-Lyngen har begynt å få farge igjen og den står i blomst i flere måneder.  Det skjer nesten noe nytt fra dag til dag. Gleder meg til fortsettelsen. 
+Lyngen har begynt å få farge igjen og den står i blomst i flere måneder. Det skjer nesten noe nytt fra dag til dag. Gleder meg til fortsettelsen, men først er det en etterlengtet påskeferie.
 
 ![Rosa lyng]({{site.baseurl}}/assets/img/Rosa lyng.JPG)
 
