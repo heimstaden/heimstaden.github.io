@@ -18,7 +18,6 @@ For to år siden oppdaget jeg en dobbel snøklokke i plenen. Den ble omhyggelig 
 
 ![Dobbel.JPG]({{site.baseurl}}/assets/img/Dobbel.JPG)
 
-
 <!--more-->
 
 Ser at mange allerede har fått krokuser i blomst. Her tar det nok en liten stund før alle står i full blomst. Noen har imidlertid våget seg forsiktig frempå.  
