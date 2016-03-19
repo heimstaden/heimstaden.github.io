@@ -1,10 +1,12 @@
 ---
+date: "2016-03-19 16:58 +0100"
 layout: post
 thumbnail: Sommerdag.JPG
 description: Dagene har blitt lysere og lengre. Snart er våren og sommeren her.
 published: true
 title: Sommerlengsel
 ---
+
 
 
 
