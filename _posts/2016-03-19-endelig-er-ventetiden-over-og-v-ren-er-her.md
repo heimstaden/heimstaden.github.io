@@ -2,7 +2,7 @@
 date: "2016-03-19 16:45 +0100"
 layout: post
 thumbnail: "Klokkene%20 blomstrer.JPG"
-description: "Jippi, det er vår"
+description: "Jippi, det er vår."
 published: true
 title: "Ønsker alle en riktig god vårpåske!"
 ---
@@ -12,7 +12,8 @@ title: "Ønsker alle en riktig god vårpåske!"
 
 I løpet av den siste uken har vi endelig begynt å merke våren. Snøklokkene har poppet opp av jorden og strekt seg mot solen. Her på Vestlandet trives de godt i litt fuktige omgivelser.  
 
-![Snøklokkene blomstrer.]({{site.baseurl}}/assets/img/Klokker.JPG)
+![Det er vår!]({{site.baseurl}}/assets/img/Klokker.JPG)
+
 
 I år dukket det opp en dobbel snøklokke i hagen. Den skal få ny plass når den er avblomstret. Aner ikke hvordan den har havnet i hagen her, men riktig velkommen er den.
 
