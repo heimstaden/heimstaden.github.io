@@ -4,9 +4,8 @@ layout: post
 thumbnail: "Snøklokkene%20 blomstrer.JPG"
 description: "Jippi, det er vår"
 published: false
-title: Endelig er ventetiden over.
+title: "Ønsker alle en riktig god vårpåske!"
 ---
-
 
 
 
@@ -14,7 +13,7 @@ I løpet av den siste uken har vi endelig begynt å merke våren. Snøklokkene h
 
 ![Snøklokkene blomstrer.]({{site.baseurl}}/assets/img/Klokker.JPG)
 
-For to år siden oppdaget jeg en dobbel snøklokke i plenen. Den ble omhyggelig flyttet og pleiet og er i år blitt til en liten tue. I år dukket det opp enda en dobbel snøklokke på omtrent samme sted.  Den skal også få ny plass når den er avblomstret. Aner ikke hvordan de har havnet i hagen her.
+I år dukket det opp en dobbel snøklokke i hagen. Den skal få ny plass når den er avblomstret. Aner ikke hvordan den har havnet i hagen her, men riktig velkommen er den.
 
 ![Dobbel.JPG]({{site.baseurl}}/assets/img/Dobbel.JPG)
 
@@ -30,8 +29,8 @@ Våririsen er på vei og førstemann ut i år, som i fjor, er nydelige Iris 'Kat
 
 ![Iris 'Katharine Hodgkin'.  ]({{site.baseurl}}/assets/img/Iris Katharine Hodgkin.JPG)
 
-Lyngen har begynt å få farge igjen og den står i blomst i flere måneder.  Det skjer nesten noe nytt fra dag til dag.  Gleder meg til fortsettelsen. 
+Lyngen har begynt å få farge igjen og den står i blomst i flere måneder.  Det skjer nesten noe nytt fra dag til dag. Gleder meg til fortsettelsen. 
 
 ![Rosa lyng]({{site.baseurl}}/assets/img/Rosa lyng.JPG)
 
-Ønsker alle en god påskeferie!
+
