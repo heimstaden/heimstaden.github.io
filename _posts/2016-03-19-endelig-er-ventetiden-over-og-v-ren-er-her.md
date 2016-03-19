@@ -1,8 +1,8 @@
 ---
 date: "2016-03-19 16:45 +0100"
 layout: post
-thumbnail: Klokkeneblomstrer.JPG
-description: "Jippi, det er vår."
+thumbnail: "Klokkene%20blomstrer.JPG"
+description: "Jippi, det er ferie."
 published: true
 title: Endelig er ventetiden over .
 ---
