@@ -29,7 +29,7 @@ Ser at mange allerede har fått krokuser i blomst. Her tar det nok en liten stun
 
 Våririsen er på vei og førstemann ut i år, som i fjor, er nydelige Iris 'Katharine Hodgkin'.  
 
-![Iris 'Katharine Hodgkin'.]({{site.baseurl}}/assets/img/Iris 'Katharine Hodgkin'.JPG)
+![Iris Katharine Hodgkin.]({{site.baseurl}}/assets/img/Iris 'Katharine Hodgkin'.JPG)
 
 Lyngen har begynt å få farge igjen og den står i blomst i flere måneder.  Det skjer nesten noe nytt fra dag til dag.  Gleder meg til fortsettelsen. 
 
