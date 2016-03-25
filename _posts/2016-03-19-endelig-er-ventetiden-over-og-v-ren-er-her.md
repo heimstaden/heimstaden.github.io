@@ -4,7 +4,7 @@ layout: post
 thumbnail: Klokker.JPG
 description: Klokkene blomstrer.
 published: true
-title: Endelig er ventetiden over .
+title: Endelig er ventetiden over.
 ---
 
 
