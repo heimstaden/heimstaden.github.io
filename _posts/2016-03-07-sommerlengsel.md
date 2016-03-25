@@ -1,5 +1,4 @@
 ---
-date: "2016-03-19 16:58 +0100"
 layout: post
 thumbnail: Sommerdag.JPG
 description: Dagene har blitt lysere og lengre. Snart er våren og sommeren her.
@@ -9,6 +8,10 @@ title: Sommerlengsel
 
 
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> parent of 71089ed... Updated 2016-03-07-sommerlengsel.md
 I vårt langstrakte land er det store variasjoner på denne tiden. Noen steder er det vårstemning, andre steder klorer vinteren seg fast. [Moseplassen](http://www.moseplassen.no/)
 inviterer hagebloggere til å dele sine sommerdrømmer og få vinteren på avstand.
 
