@@ -3,9 +3,10 @@ date: "2016-03-30 22:27 +0200"
 layout: post
 thumbnail: "Crocus%20chrysanthus%20advance.JPG"
 description: Når krokusen blomstrer er vinteren over.
-published: false
+published: true
 title: "Krokus, iris og annet snacks"
 ---
+
 
 
 Etter en deilig påskeferie, er det godt å komme tilbake til hagen og se forandringene.
@@ -33,27 +34,3 @@ Stemor og påskeliljer har kommet på plass i potter. De tåler noen minusgrader
 Våren er absolutt kommet!
 
 ![Krukker.JPG]({{site.baseurl}}/assets/img/Krukker.JPG)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
