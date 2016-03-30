@@ -31,7 +31,6 @@ Det er kommet opp flere våriris, blant annet Iris Frank Elder, Iris George og I
 
 ![Iris.JPG]({{site.baseurl}}/assets/img/Iris.JPG)
 
-
 Stemor og påskeliljer har kommet på plass i potter. De tåler noen minusgrader. 
 Våren er absolutt kommet!
 
