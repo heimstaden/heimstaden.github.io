@@ -9,10 +9,11 @@ title: "Krokus, iris og annet snacks"
 
 
 
+
 Etter en deilig påskeferie, er det godt å komme tilbake til hagen og se forandringene.
 En dag med sol og krokusen stråler. Det er rett og slett herlig å se humla som bader i pollen.
 
-![Crocus chrysanthus advance2..JPG]({{site.baseurl}}/assets/img/Crocus chrysanthus advance2.JPG)
+![Crocus chrysanthus advance2.JPG]({{site.baseurl}}/assets/img/Crocus chrysanthus advance2.JPG)
 
 
 ![Hvit krokus.]({{site.baseurl}}/assets/img/Hvite%20krokus.JPG)
