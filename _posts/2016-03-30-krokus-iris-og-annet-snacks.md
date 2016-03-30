@@ -13,8 +13,7 @@ title: "Krokus, iris og annet snacks"
 Etter en deilig påskeferie, er det godt å komme tilbake til hagen og se forandringene.
 En dag med sol og krokusen stråler. Det er rett og slett herlig å se humla som bader i pollen.
 
-![Crocus chrysanthus advance2.JPG]({{site.baseurl}}/assets/img/Crocus chrysanthus advance2.JPG)
-
+![Gledesspreder.JPG]({{site.baseurl}}/assets/img/Gledesspreder.JPG)
 
 ![Hvit krokus.]({{site.baseurl}}/assets/img/Hvite%20krokus.JPG)
 
@@ -30,7 +29,7 @@ Det er kommet opp flere våriris, blant annet Iris Frank Elder, Iris George og  
 
 ![Iris George.]({{site.baseurl}}/assets/img/Iris%20George.JPG)
 
-![Iris .JPG]({{site.baseurl}}/assets/img/Iris.JPG)
+![Iris.JPG]({{site.baseurl}}/assets/img/Iris.JPG)
 
 Stemor og påskeliljer har kommet på plass i potter. De tåler noen minusgrader. 
 Våren er absolutt kommet!
