@@ -1,7 +1,7 @@
 ---
 date: "2016-03-30 22:27 +0200"
 layout: post
-thumbnail: "Crocus%20chrysanthus%20advance.JPG"
+thumbnail: Gledesspreder.JPG
 description: Når krokusen blomstrer er vinteren over.
 published: true
 title: "Krokus, iris og annet snacks"
