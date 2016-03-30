@@ -23,13 +23,14 @@ En dag med sol og krokusen stråler. Det er rett og slett herlig å se humla som
 
 ![Humla bader i pollen.]({{site.baseurl}}/assets/img/Humla%20bader%20i%20pollen.JPG)
 
-Det er kommet opp flere våriris, blant annet Iris Frank Elder, Iris George og  Iris Reticulata.
+Det er kommet opp flere våriris, blant annet Iris Frank Elder, Iris George og Iris Reticulata.
 
 ![Iris Frank Elder.JPG]({{site.baseurl}}/assets/img/Iris Frank Elder.JPG)
 
 ![Iris George.]({{site.baseurl}}/assets/img/Iris%20George.JPG)
 
 ![Iris.JPG]({{site.baseurl}}/assets/img/Iris.JPG)
+
 
 Stemor og påskeliljer har kommet på plass i potter. De tåler noen minusgrader. 
 Våren er absolutt kommet!
