@@ -21,6 +21,11 @@ En dag med sol og krokusen stråler. Det er rett og slett herlig å se humla som
 
 ![Humla bader i pollen.]({{site.baseurl}}/assets/img/Humla%20bader%20i%20pollen.JPG)
 
+Det er kommet opp flere våriris, blant annet Iris Frank Elder, Iris George og  Iris Reticulata.
+
+
+
+
 
 
 
