@@ -9,6 +9,7 @@ title: Innehaging i dag
 
 
 
+
 I dag har jeg tatt frem frø av erteblomstene. Disse er etterlengtede sommerblomster, først og fremst fordi de lukter så godt, men også fordi de kommer i et vell av farger.  
 
 ![Ettårige erteblomster.]({{site.baseurl}}/assets/img/Erteblomster.JPG)
@@ -16,6 +17,8 @@ I dag har jeg tatt frem frø av erteblomstene. Disse er etterlengtede sommerblom
 Jeg har flere ganger opplevd at det bare er noen få frø som spirer, men i fjor kom jeg over en metode som førte til at nesten alle frøene spirte. Jeg legger litt tørkepapir i en plastboks, heller på litt vann slik at papiret suger til seg vannet, legger frøene på papiret og setter på lokket. Etter noen dager starter frøene å spire.  Da er det bare å få dem i jorda og sørge for at de har noe å klatre i etter hvert som de vokser. Jeg planter dem ut når det har blitt stabilt i været og faren for nattefrost er helt over. 
 
 ![Frø av erteblomster.]({{site.baseurl}}/assets/img/Frø av erteblomster.JPG)
+
+<!--more-->
 
 Erteblomster finnes også som stauder. Den hvite du ser under er Lathyrus latifolius, og den har rene hvite blomster som minner mye om de ettårige erteblomstene. Planten visner ned om høsten og kommer igjen til neste år. Den sprer seg etter hvert, men ikke plagsomt mye. Denne finnes også i rosa. Den er fin å se på, men den lukter ingenting.
 
