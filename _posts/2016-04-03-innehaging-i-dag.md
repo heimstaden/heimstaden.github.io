@@ -11,6 +11,7 @@ title: Innehaging i dag
 
 
 
+
 I dag har jeg tatt frem frø av erteblomstene. Disse er etterlengtede sommerblomster, først og fremst fordi de lukter så godt, men også fordi de kommer i et vell av farger.  
 
 ![Ettårige erteblomster.]({{site.baseurl}}/assets/img/Erteblomster.JPG)
@@ -25,6 +26,6 @@ Erteblomster finnes også som stauder. Den hvite du ser under er Lathyrus latifo
 
 ![Staude erteblomst.]({{site.baseurl}}/assets/img/Staudeerteblomster.JPG)
 
-Det siste bildet viser en annen staudevariant, vårerteknapp eller Lathyrus vernus. Den blomstrer her i mai. Den er lav, mellom 10- 40 cm høy med purpurrøde eller dypt mørk-rosa blomster. Denne mangler også den gode duften som vi forbinder med erteblomster. På det siste bilde her ser du den sammen med blader fra hvit løytnantshjerte, Dicentra spectabalis alba. De gjør seg godt sammen.
+Det siste bildet viser en annen staudevariant, vårerteknapp eller Lathyrus vernus. Den blomstrer her i mai. Den er lav, mellom 10- 40 cm høy med purpurrøde eller dypt mørk-rosa blomster. Denne mangler også den gode duften som vi forbinder med erteblomstene. På det siste bilde her ser du den sammen med blader fra hvit løytnantshjerte, Dicentra spectabalis alba. De gjør seg godt sammen.
 
 ![Lathyrus vernus.]({{site.baseurl}}/assets/img/Lathyrus%20vernus.JPG)
