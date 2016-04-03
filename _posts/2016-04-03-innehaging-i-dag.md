@@ -3,9 +3,10 @@ date: "2016-04-03 19:01 +0200"
 layout: post
 thumbnail: Erteblomster.JPG
 description: Erteblomster hører sommeren til og må sås hvert år. Men det finnes også erteblomster som er stauder som kommer igjen år etter år.
-published: false
+published: true
 title: Innehaging i dag
 ---
+
 
 
 I dag har jeg tatt frem frø av erteblomstene. Disse er etterlengtede sommerblomster, først og fremst fordi de lukter så godt, men også fordi de kommer i et vell av farger.  
@@ -21,13 +22,3 @@ Erteblomster finnes også som stauder. Den hvite du ser under er Lathyrus latifo
 ![Staude erteblomst.]({{site.baseurl}}/assets/img/Staudeerteblomster.JPG)
 
 Det siste bildet viser en annen staudevariant, vårerteknapp eller Lathyrus vernus. Den blomstrer her i mai. Den er lav, mellom 10- 40 cm høy med purpurrøde eller dypt mørk-rosa blomster. Denne mangler også den gode duften som vi forbinder med erteblomster. På det siste bilde her ser du den sammen med blader fra hvit løytnantshjerte, Dicentra spectabalis alba. De gjør seg godt sammen.
-
-
-
-
-
-
-
-
-
-
