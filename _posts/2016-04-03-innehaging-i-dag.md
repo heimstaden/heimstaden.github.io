@@ -13,7 +13,7 @@ I dag har jeg tatt frem frø av erteblomstene. Disse er etterlengtede sommerblom
 
 ![Ettårige erteblomster.]({{site.baseurl}}/assets/img/Erteblomster.JPG)
 
-Jeg har flere ganger opplevd at det bare er noen få frø som spirer, men i fjor kom jeg over en metode som førte til at neste alle frøene spirte. Jeg legger litt tørkepapir i en plastboks, heller på litt vann slik at papiret suger til seg vannet, legger frøene på papiret og setter på lokket. Etter noen dager starter frøene å spire.  Da er det bare å få dem i jorda og sørge for at de har noe å klatre i etter hvert som de vokser. Jeg planter dem ut når det har blitt stabilt i været og faren for nattefrost er helt over. 
+Jeg har flere ganger opplevd at det bare er noen få frø som spirer, men i fjor kom jeg over en metode som førte til at nesten alle frøene spirte. Jeg legger litt tørkepapir i en plastboks, heller på litt vann slik at papiret suger til seg vannet, legger frøene på papiret og setter på lokket. Etter noen dager starter frøene å spire.  Da er det bare å få dem i jorda og sørge for at de har noe å klatre i etter hvert som de vokser. Jeg planter dem ut når det har blitt stabilt i været og faren for nattefrost er helt over. 
 
 ![Frø av erteblomster.]({{site.baseurl}}/assets/img/Frø av erteblomster.JPG)
 
