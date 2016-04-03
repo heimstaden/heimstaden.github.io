@@ -13,6 +13,7 @@ layout: null
       {% unless post.link %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
+        <image>{{ post.thumbnail | xml_escape }}</image>
         {% if post.excerpt %}
           <description>{{ post.excerpt | xml_escape }}</description>
         {% else %}
