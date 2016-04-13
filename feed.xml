@@ -13,7 +13,7 @@ layout: null
       {% unless post.link %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
-        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{site.baseurl}}/assets/img/{{post.thumbnail}}" width="150" height="100" />
+        <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{site.baseurl}}/assets/img/{{post.thumbnail}}?w=150" width="150" />
         {% if post.description %}
           <description>{{ post.description | xml_escape }}</description>
         {% else %}
