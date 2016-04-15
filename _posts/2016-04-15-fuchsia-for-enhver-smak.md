@@ -8,7 +8,7 @@ title: Fuchsia for enhver smak
 ---
 
 
-Fuchsia, kristi blodsdråpe, dråpe eller tåre, kjært barn har mange navn. Dette er en blomst som virkelig passer godt i vestlandsklimaet. Den trives selv i regn og mange trives også i halvskygge.  Det finnes utrolig mange sorter i en rekke farger, med enkle, fylte eller lange og smale blomster. Noen kan ha veldig små blomster, mens andre kan bli ganske store til fuchsia å være. Alle bildene er fra tidligere år.
+Fuchsia, kristi blodsdråpe, dråpe eller tåre, kjært barn har mange navn. Dette er en blomst som virkelig passer godt i vestlandsklimaet. Den trives selv i regn og mange trives også i halvskygge.  Det finnes utrolig mange sorter i en rekke farger, med enkle, fylte eller lange og smale blomster. Noen kan ha veldig små blomster, mens andre kan bli ganske store til fuchsia å være. Alle bildene er fra tidligere år. Trykker du inn på bildene, får du litt mer informasjon.
 
 ![Fuchsia Magellanica var. Corallina]({{site.baseurl}}/assets/img/Fuchsia Magellanica var. Corallina i front.JPG)
 
