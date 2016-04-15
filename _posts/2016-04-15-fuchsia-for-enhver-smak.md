@@ -3,7 +3,7 @@ date: "2016-04-15 17:29 +0200"
 layout: post
 thumbnail: Fuchsiakroken.JPG
 description: "Fuchsia er en meget blomstervillig plante som holder det gående hele sommeren fram til frosten kommer. Men får man først dilla på disse, er det gjort. Da vil man bare ha flere og flere. Her er et lite utvalg av ulike sorter."
-published: false
+published: true
 title: Fuchsia for enhver smak
 ---
 
@@ -35,11 +35,3 @@ Det beste med Fuchsia er rett og slett at de blomstrer hele sommeren.  De får e
 ![Ukjent fuchsia]({{site.baseurl}}/assets/img/Ukjent Fuchsia.JPG)
 
 ![Fuchsia New Millenium.]({{site.baseurl}}/assets/img/Fuchsia New Millenium.JPG)
-
-
-
-
-
-
-
-
