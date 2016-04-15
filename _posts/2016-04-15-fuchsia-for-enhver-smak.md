@@ -22,7 +22,7 @@ Problemet med disse plantene er overvintringen. De tåler ikke frost, men må he
 
 ![Charlie Dimmock.]({{site.baseurl}}/assets/img/Charlie Dimmock.JPG)
 
-![Fuchsia Boliviana.]({{site.baseurl}}/assets/img/Fuchsia Boliviana.JPG)
+![Fuchsia Boliviana.]({{site.baseurl}}/assets/img/Fuchsia%20Boliviana%20.JPG)
 
 ![Delicate white.]({{site.baseurl}}/assets/img/Delicate%20white%20.JPG)
 
