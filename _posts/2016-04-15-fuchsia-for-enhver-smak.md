@@ -28,11 +28,14 @@ Problemet med disse plantene er overvintringen. De tåler ikke frost, men må he
 
 Nå har stiklingene vokst mye og noen har begynt å blomstre forsiktig. De er snart klare for å komme ut i nye krukker. De overvintrede har ikke våknet enda for jeg har rett og slett ikke plass til å ta dem inn.  Jeg ser at noen er grønne under barken når jeg skraper på greinen, så det er liv her også. Ideelt sett bør de tas fram og vekkes i februar-mars. 
 
-
+![Fuchsia.]({{site.baseurl}}/assets/img/Fuchsia.JPG)
 
 Det beste med Fuchsia er rett og slett at de blomstrer hele sommeren.  De får en god porsjon kugjødselkompost, litt hønsegjødsel og noen kuler langtidsgjødsel blandet med krukkejord. Da klarer de seg selv hele sommeren, bortsett fra vann. 
 
-![Fuchsia Paula Jane.]({{site.baseurl}}/assets/img/Fuchsia Paula Jane.JPG)
+![Ukjent fuchsia]({{site.baseurl}}/assets/img/Ukjent Fuchsia.JPG)
+
+![Fuchsia New Millenium.]({{site.baseurl}}/assets/img/Fuchsia New Millenium.JPG)
+
 
 
 
