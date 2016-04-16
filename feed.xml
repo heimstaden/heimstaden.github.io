@@ -14,6 +14,9 @@ layout: null
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="{{site.baseurl}}/assets/img/{{post.thumbnail}}?w=150" width="150" />
+        <media:content url="{{site.baseurl}}/assets/img/{{post.thumbnail}}?w=150" medium="image">
+			<media:title type="html">{{post.thumbnail}}</media:title>
+		</media:content>
         {% if post.description %}
           <description>{{ post.description | xml_escape }}</description>
         {% else %}
