@@ -36,4 +36,4 @@ Det beste med Fuchsia er rett og slett at de blomstrer hele sommeren.  De får e
 
 ![Ukjent fuchsia]({{site.baseurl}}/assets/img/Ukjent Fuchsia.JPG)
 
-![Fuchsia New Millenium.]({{site.baseurl}}/assets/img/Fuchsia New Millenium.JPG)
+![Fuchsia New Millenium.]({{site.baseurl}}/assets/img/Fuchsia%20New%20Millenium.JPG)
