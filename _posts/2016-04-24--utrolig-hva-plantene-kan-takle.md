@@ -24,7 +24,7 @@ Det finnes utrolig mange flotte typer primula. Noen blomstrer på våren, andre 
 
 ![Hvit kuleprimula.]({{site.baseurl}}/assets/img/Primula denticulate hvit .JPG)
 
-![Primula Julia hybrid Wanda.]({{site.baseurl}}/assets/img/Primula Julia hybrid Wanda.JPG)
+![Primula.]({{site.baseurl}}/assets/img/Primula%20Julia%20hybrid%20Wanda.%20.JPG)
 
 Lungeurten danner også fine tepper på våren. Denne er også lett å dele opp selv om den ikke har rosetter. Bare pass på å få med noen røtter, så har du raskt flere planter av disse også.
 
