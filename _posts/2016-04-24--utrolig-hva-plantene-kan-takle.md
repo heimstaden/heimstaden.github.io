@@ -3,7 +3,7 @@ date: "2016-04-24 18:35 +0200"
 layout: post
 thumbnail: ""
 description: ""
-published: false
+published: true
 title: " Utrolig hva plantene kan takle"
 ---
 
@@ -39,13 +39,3 @@ De første narcissene har åpnet seg, men mange flere kommer. Disse kan du også
 De første tulipanene har forsiktig begynt å åpne seg, men det får bli et annet innlegg! 
 
 Ha en fin ny uke!
-
-
-
-
-
-
-
-
-
-
