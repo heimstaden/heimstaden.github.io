@@ -1,9 +1,9 @@
 ---
 date: "2016-04-24 18:35 +0200"
 layout: post
-thumbnail: ""
-description: ""
-published: true
+thumbnail: "Langs%20plenen.JPG"
+description: "Vårplantene er i full gang med blomstringen, noen er også allerede avblomstret. Da er det på tide å dele dem slik at man kan få flere.  Dette får du tips om her."
+published: false
 title: " Utrolig hva plantene kan takle"
 ---
 
