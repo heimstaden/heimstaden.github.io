@@ -12,6 +12,8 @@ Snøklokker, iris og krokus har sagt takk for seg for i år, men nye blomster ha
 Du kan få kjøpt dem som løk på høsten, men vær oppmerksom på at de skal plantes ferske. Det er derfor smartere å spørre noen om å få noen løker nå som de er avblomstret, enn å ta sjansen på løker til høsten. 
 Primula, russeblåstjerner og perleblomster lar seg heller ikke stoppe av litt kjølig vårvær. Både perleblomster og russeblåstjerner er løk som kan deles på samme måte som snøklokker, men de trenger ikke å være ferske.
 
+Bildene blir større hvis du klikker inn på dem.
+
 ![Perleblomster.]({{site.baseurl}}/assets/img/Muscari%2C%20perleblomst.JPG)
 
 ![Scilla, Russeblåstjerne.]({{site.baseurl}}/assets/img/Scilla.JPG)
