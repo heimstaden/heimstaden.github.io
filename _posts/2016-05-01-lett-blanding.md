@@ -3,7 +3,7 @@ date: "2016-05-01 18:27 +0200"
 layout: post
 thumbnail: "Narsissus%20Professor%20Einstein.JPG"
 description: Stadig nye blomster dukker opp. Her er de som har åpnet seg i helgen.
-published: false
+published: true
 title: Lett blanding
 ---
 
@@ -31,14 +31,3 @@ Maria nøkleblom kommer trofast igjen år etter år. Den må også få være med
 Sistemann ut i dag er hvit kubjelle som forsiktig har åpnet seg.
 
 ![Pulsatilla.]({{site.baseurl}}/assets/img/Pulsatilla.JPG)
-
-
-
-
-
-
-
-
-
-
-
