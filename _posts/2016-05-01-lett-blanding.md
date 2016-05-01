@@ -7,7 +7,7 @@ published: false
 title: Lett blanding
 ---
 
-Det blåser friskt ute i dag og temperaturen er ikke akkurat noe å rope hurra for. Hagen lar seg ikke affisere av det, for stadig dukker det nye blomster. Påskeliljer og pinseliljer prøver å overgå hverandre og tulipanene har meldt seg på i konkurransen.
+Det blåser friskt ute i dag og temperaturen er ikke akkurat noe å rope hurra for. Hagen lar seg ikke affisere av det, for stadig dukker det opp nye blomster. Påskeliljer og pinseliljer prøver å overgå hverandre og tulipanene har meldt seg på i konkurransen.
 
 ![Fylte Narcisser]({{site.baseurl}}/assets/img/Narcisser.JPG)
 
@@ -28,7 +28,7 @@ Maria nøkleblom kommer trofast igjen år etter år. Den må også få være med
 
 ![Primula veris.]({{site.baseurl}}/assets/img/Primula veris, Maria nøkleblom.JPG)
 
-Sistemann ut i dag er hvit kubjelle som forsiktig har åpnet seg litt.
+Sistemann ut i dag er hvit kubjelle som forsiktig har åpnet seg.
 
 ![Pulsatilla.]({{site.baseurl}}/assets/img/Pulsatilla.JPG)
 
