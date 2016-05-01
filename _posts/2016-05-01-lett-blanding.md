@@ -7,4 +7,11 @@ published: false
 title: Lett blanding
 ---
 
-Det blåser friskt ute i dag og temperaturen er ikke akkurat noe å rope hurra for. Hagen lar seg ikke affisere av det, for stadig dukker det nye blomster. Påskeliljer og pinseliljer prøver å overgå hverandre
+Det blåser friskt ute i dag og temperaturen er ikke akkurat noe å rope hurra for. Hagen lar seg ikke affisere av det, for stadig dukker det nye blomster. Påskeliljer og pinseliljer prøver å overgå hverandre og tulipanene har også meldt seg på i den konkurransen.
+
+![Påskeliljer.JPG]({{site.baseurl}}/assets/img/Påskeliljer.JPG)
+
+
+
+
+
