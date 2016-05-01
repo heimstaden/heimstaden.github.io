@@ -2,7 +2,7 @@
 date: "2016-05-01 18:27 +0200"
 layout: post
 thumbnail: "Narsissus%20Professor%20Einstein.JPG"
-description: Stadig nye blomster dukker opp. Her er de som har kommet frem i helgen.
+description: Stadig nye blomster dukker opp. Her er de som har åpnet seg i helgen.
 published: false
 title: Lett blanding
 ---
