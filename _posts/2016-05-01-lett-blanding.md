@@ -1,8 +1,8 @@
 ---
 date: "2016-05-01 18:27 +0200"
 layout: post
-thumbnail: ""
-description: ""
+thumbnail: "Narsissus%20Professor%20Einstein.JPG"
+description: Stadig nye blomster dukker opp. Her er de som har kommet frem i helgen.
 published: false
 title: Lett blanding
 ---
@@ -24,7 +24,7 @@ Ruteliljene og den blå hvitveisen klarer også å fange oppmerksomheten.
 
 ![Anemone nemorosa blue queen.]({{site.baseurl}}/assets/img/Anemone nemorosa blue queen.JPG)
 
-Maria nøkleblom kommer trofast igjen år etter år. Den må også få være med i dag selv om den har blomstret en stund.
+Maria nøkleblom kommer trofast igjen år etter år. Den må også få være med i dag.
 
 ![Primula veris.]({{site.baseurl}}/assets/img/Primula veris, Maria nøkleblom.JPG)
 
