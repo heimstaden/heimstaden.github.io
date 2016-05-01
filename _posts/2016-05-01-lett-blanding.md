@@ -13,7 +13,7 @@ Det blåser friskt ute i dag og temperaturen er ikke akkurat noe å rope hurra f
 
 ![Narcissus Professor Einstein]({{site.baseurl}}/assets/img/Narsissus Professor Einstein.JPG)
 
-![Tulipan Apricot Beauty.]({{site.baseurl}}/assets/img/Tulipan Apricot beauty.JPG)
+![Tulipan Apricot Beauty]({{site.baseurl}}/assets/img/Tulipan Apricot beauty.JPG)
 
 <!--more-->
 
