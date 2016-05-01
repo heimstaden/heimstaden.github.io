@@ -13,7 +13,7 @@ Det blåser friskt ute i dag og temperaturen er ikke akkurat noe å rope hurra f
 
 ![Narcissus Professor Einstein]({{site.baseurl}}/assets/img/Narsissus Professor Einstein.JPG)
 
-![Tulipan Apricot Beauty.]({{site.baseurl}}/assets/img/Tulipan Apricot beauty .JPG)
+![Tulipan Apricot Beauty.]({{site.baseurl}}/assets/img/Tulipan Apricot beauty.JPG)
 
 <!--more-->
 
@@ -31,3 +31,7 @@ Maria nøkleblom kommer trofast igjen år etter år. Den må også få være med
 Sistemann ut i dag er hvit kubjelle som forsiktig har åpnet seg.
 
 ![Pulsatilla.]({{site.baseurl}}/assets/img/Pulsatilla.JPG)
+
+Trykker du på bildene får du litt mer informasjon.
+
+Ønsker alle en fin ny uke!
