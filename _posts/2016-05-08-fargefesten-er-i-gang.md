@@ -4,7 +4,7 @@ layout: post
 published: true
 title: Fargefesten er i gang
 thumbnail: "Japansk%20hengekirsebær.JPG"
-description: "Endelig blomstrer kirsebærtreet.  Tulipanene har startet showet og stadig nye åpner seg i solen.  Noen kommer igjen år etter år, mens andre er resultatet fra høstens fristelser. "
+description: "Endelig blomstrer kirsebærtreet og Rhododenron. Tulipanene har startet showet og stadig nye åpner seg i solen.  Noen kommer igjen år etter år, mens andre er resultatet fra høstens fristelser. "
 ---
 
 Sommeren er kommet og med temperaturer over 20 grader eksploderer det i hagen.
