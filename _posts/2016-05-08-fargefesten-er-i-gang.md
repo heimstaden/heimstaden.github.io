@@ -29,5 +29,7 @@ Hvitveisen lager fine hvite tepper rundt omkring.
 
 ![Hvitveiseng]({{site.baseurl}}/assets/img/Hvitveiseng.JPG)
 
+Ønsker alle en fin ny uke!
+
 
 
