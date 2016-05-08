@@ -1,7 +1,7 @@
 ---
 date: "2016-05-08 18:58 +0200"
 layout: post
-published: false
+published: true
 title: Fargefesten er i gang
 thumbnail: "Japansk%20hengekirsebær.JPG"
 description: "Endelig blomstrer kirsebærtreet.  Tulipanene har startet showet og stadig nye åpner seg i solen.  Noen kommer igjen år etter år, mens andre er resultatet fra høstens fristelser. "
@@ -30,6 +30,3 @@ Hvitveisen lager fine hvite tepper rundt omkring.
 ![Hvitveiseng]({{site.baseurl}}/assets/img/Hvitveiseng.JPG)
 
 Ønsker alle en fin ny uke!
-
-
-
