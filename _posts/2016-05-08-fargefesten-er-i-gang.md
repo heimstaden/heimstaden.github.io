@@ -15,7 +15,9 @@ Sommeren er kommet og med temperaturer over 20 grader eksploderer det i hagen.
 
 ![Hvit tulipan i motlys.]({{site.baseurl}}/assets/img/Hvit tulipan.JPG)
 
+Den første Rhododendron gir et skikkelig fargekick.
 
+![Rhododendron.]({{site.baseurl}}/assets/img/Rhododendron.JPG)
 
 De gode temperaturene får en kanskje til å ta noen sjanser. Vi får lyst til å plante i krukker og kar og fylle verandakassene med all slags herligheter. Planterommet har vært fullt  av planter som har ventet på å komme ut. Jeg har tatt sjansen på å sette ut fuchsia og engletrompeter, men de blir stående en ukes tid i skyggen slik at de ikke blir brent av solen.
 
