@@ -9,5 +9,7 @@ I fire år har jeg hatt en blåregn i hagen. Hvert eneste år har jeg kikket nø
 
 Men plutselig er den der. Ja det er kun en, men en er bedre enn ingen!
 
+![Første blomsterknupp på blåregn.]({{site.baseurl}}/assets/img/Blåregn.JPG)
 
+Denne
 
