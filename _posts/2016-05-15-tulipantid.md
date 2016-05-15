@@ -10,7 +10,7 @@ Nå er det høysessong for tulipanene. De er blikkfang i hagen på denne tiden o
 
 ![Tulipaner.]({{site.baseurl}}/assets/img/Tulipaner.JPG)
 
-![Ny av året.]({{site.baseurl}}/assets/img/Tulipan%20cape%20town.JPG)
+![Fargerik tulipan.]({{site.baseurl}}/assets/img/Fargerik tulipan .JPG)
 
 <!--more-->
 
