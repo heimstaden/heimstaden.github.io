@@ -1,7 +1,7 @@
 ---
 date: "2016-05-15 21:05 +0200"
 layout: post
-published: false
+published: true
 title: Tulipantid
 thumbnail: Tulipaner.JPG
 description: Tulipanene er tilbake. Her er noen av dem som blomstrer for tiden.
@@ -23,8 +23,3 @@ Må nok få satt ned noen flere tulipaner til høsten. Mange kom ikke tilbake i 
 ![Tulipan.]({{site.baseurl}}/assets/img/Tulipan.JPG)
 
 ![Hvite tulipaner.]({{site.baseurl}}/assets/img/Hvite tulipaner.JPG)
-
-
-
-
-
