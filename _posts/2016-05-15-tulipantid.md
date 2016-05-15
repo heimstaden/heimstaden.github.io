@@ -1,7 +1,7 @@
 ---
 date: "2016-05-15 21:05 +0200"
 layout: post
-published: true
+published: false
 title: Tulipantid
 thumbnail: Tulipaner.JPG
 description: Tulipanene er tilbake. Her er noen av dem som blomstrer for tiden.
@@ -10,7 +10,7 @@ Nå er det høysessong for tulipanene. De er blikkfang i hagen på denne tiden o
 
 ![Tulipaner.]({{site.baseurl}}/assets/img/Tulipaner.JPG)
 
-![Tulipam cape town.]({{site.baseurl}}/assets/img/Tulipan%20cape%20town.JPG)
+![Tulipan cape town.]({{site.baseurl}}/assets/img/Tulipan%20cape%20town.JPG)
 
 <!--more-->
 
