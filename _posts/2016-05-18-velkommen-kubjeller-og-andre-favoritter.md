@@ -17,10 +17,10 @@ Kubjellene eller Pulsatilla er også en av favorittene på våren. Her var den h
 
 <!--more-->
 
-Den andre favoritten i dag er den fylte hvitveisen som sammen med lyngen ble et blikkfang.
+Den andrefavoritten i dag er den fylte hvitveisen som sammen med lyngen ble et blikkfang.
 
 ![Fylt hvitveis med lyng.]({{site.baseurl}}/assets/img/Fylt hvitveis.JPG)
 
-Den tredje favoritten i dag er valmuesøster. Ikke lenge til den spretter ut nå, men det blir et annet innlegg.
+Den tredje av favorittene i dag er valmuesøster. Ikke lenge til den spretter ut nå, men det blir et annet innlegg.
 
 ![Favoritt.]({{site.baseurl}}/assets/img/Favoritt.JPG)
