@@ -1,7 +1,7 @@
 ---
 date: "2016-05-18 20:23 +0200"
 layout: post
-published: false
+published: true
 title: Velkommen kubjeller og andre favoritter
 thumbnail: Kubjelle.JPG
 description: " Nå er det kubjellenes tid til å være favoritter i hagen. De kommer i flere farger med et utrolig flott bladverk.  "
