@@ -4,6 +4,7 @@ layout: post
 published: false
 title: Velkommen kubjeller og andre favoritter
 ---
+
 Kubjellene eller Pulsatilla er også en av favorittene på våren. Her var den hvite førstemann ut, deretter kom den lilla og til slutt den røde. Både blomster og blader er så søte og så utrolig fotogene. 
 
 ![Hvit kubjelle.]({{site.baseurl}}/assets/img/Hvit kubjelle.JPG)
