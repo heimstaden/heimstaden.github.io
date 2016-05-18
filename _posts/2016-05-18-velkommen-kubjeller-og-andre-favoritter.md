@@ -21,6 +21,6 @@ Den andre favoritten i dag er den fylte hvitveisen som sammen med lyngen ble et 
 
 ![Fylt hvitveis med lyng.]({{site.baseurl}}/assets/img/Fylt hvitveis.JPG)
 
-Den tredje av favorittene i dag er valmuesøster. Ikke lenge til den spretter ut nå, men det blir et annet innlegg.
+Den tredje favoritten i dag er valmuesøster. Ikke lenge til den spretter ut nå, men det blir et annet innlegg.
 
 ![Favoritt.]({{site.baseurl}}/assets/img/Favoritt.JPG)
