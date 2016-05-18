@@ -1,7 +1,7 @@
 ---
 date: "2016-05-18 20:55 +0200"
 layout: post
-published: false
+published: true
 title: Velkommen kubjeller og andre favoritter
 thumbnail: Kubjelle.JPG
 description: "Kubjellene er absolutt en av favorittene for tiden, men favorittene står i kø."
