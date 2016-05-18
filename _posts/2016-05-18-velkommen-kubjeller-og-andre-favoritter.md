@@ -17,7 +17,7 @@ Kubjellene eller Pulsatilla er også favoritter på våren. Her var den hvite f�
 
 <!--more-->
 
-Den andrefavoritten i dag er den fylte hvitveisen som sammen med lyngen ble et blikkfang.
+Den andre favoritten i dag er den fylte hvitveisen som sammen med lyngen ble et blikkfang.
 
 ![Fylt hvitveis med lyng.]({{site.baseurl}}/assets/img/Fylt hvitveis.JPG)
 
