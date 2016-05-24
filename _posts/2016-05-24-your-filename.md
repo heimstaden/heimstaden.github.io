@@ -11,6 +11,7 @@ Så er søstrene tilbake i år også, med litt flere blomster enn i fjor. Bare n
 
 ![Meconopsis Lingholm.]({{site.baseurl}}/assets/img/Meconopsis Lingholm.JPG)
 
-![Blå valmuesøster.]({{site.baseurl}}/assets/img/Bl%C3%A5%20valmues%C3%B8ster.JPG)
+![Meconopsis.]({{site.baseurl}}/assets/img/Meconopsis.JPG)
+
 
 De lukter av sommer!
