@@ -1,7 +1,7 @@
 ---
 date: "2016-05-24 22:23 +0200"
 layout: post
-published: false
+published: true
 title: "Her er vi igjen!"
 thumbnail: "\"Meconopsis Lingholm.JPG​\""
 description: "Endelig er tiden inne for valmuesøstrene igjen. De blå har startet blomstringen, og snart kommer de hvite og forhåpentligvis de lilla."
