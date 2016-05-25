@@ -17,5 +17,5 @@ Nestemann ut er en selvsådd akeleie som plutselig dukket opp. Jeg har mange ake
 
 ![Selvsådd akeleie.]({{site.baseurl}}/assets/img/Første akeleie.JPG)
 
-Sistemann ut i dag er løytnantshjerte. Herlig former og farger
+Sistemann ut i dag er løytnantshjerte med sin herlige former og farger.
 
