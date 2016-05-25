@@ -1,7 +1,7 @@
 ---
 date: "2016-05-25 21:52 +0200"
 layout: post
-published: false
+published: true
 title: Dagens elegante nykommere
 thumbnail: Gudeblom.JPG
 description: Dagens innlegg handler om grasiøse blomster.
@@ -22,5 +22,3 @@ Nestemann ut er en selvsådd akeleie som plutselig dukket opp. Jeg har mange ake
 Sistemann ut i dag er løytnantshjerte med sine herlige former og farger.
 
 ![Løytnantshjerte.]({{site.baseurl}}/assets/img/Løytnantshjerte.JPG)
-
-
