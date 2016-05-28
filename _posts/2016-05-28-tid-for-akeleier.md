@@ -1,7 +1,7 @@
 ---
 date: "2016-05-28 17:40 +0200"
 layout: post
-published: false
+published: true
 title: Tid for akeleier
 thumbnail: "Rosa%20akeleie.jpg"
 description: Når akeleiene blomstrer har sommeren startet. Her er de jeg har i hagen for tiden.
@@ -30,5 +30,3 @@ Akeleier kan du så selv, eller la plantene få frøså seg selv. Men hvis du ik
 ![Fylt akeleie.]({{site.baseurl}}/assets/img/Fylt akeleie.JPG)
 
 ![Blå akeleie.]({{site.baseurl}}/assets/img/Blå akeleie.JPG)
-
-
