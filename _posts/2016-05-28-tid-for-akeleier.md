@@ -14,7 +14,7 @@ Har du akeleier i hagen, krysser de seg lett med hverandre og sår seg selv. Det
 
 De blomstrer i slutten av mai og begynnelsen av juni her hos oss. Akeleier trives i både sol og halvskygge. Noen er lave mens andre kan bli opp mot 80- 90 cm. 
 
-![Aquilegia vulgaris Pink petticoat.]({{site.baseurl}}/assets/img/Aquilegia vulgaris 'Pink Petticoat.JPG)
+![Aquilegia vulgaris Pink Petticoat.]({{site.baseurl}}/assets/img/Aquilegia vulgaris Pink Petticoat.JPG)
 
 <!--more-->
 
