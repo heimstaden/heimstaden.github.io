@@ -4,13 +4,16 @@ layout: post
 published: false
 title: Hagens nykommere og noen gamle bekjente
 thumbnail: Meconopsis%20grandis%20Burgundy.JPG
+description: >-
+  Med den varmen som har vært i den siste uken spretter det ut nye blomster hver
+  dag. Noen har jeg ventet lenge på, mens andre  er gledelige gjensyn.
 ---
 
 Etter to og et halvt år med tålmodighet, er ventetiden over. Meconopsis Racemosa, en liten skjønnhet på ca. 20 cm har endelig vist seg frem. Ikke røre, bare se, for den er full av spisse, stikkende pigger.
 
 ![Meconopsis Racemosa.]({{site.baseurl}}/assets/img/Meconopsis Racemosa.JPG)
 
-Neste nykommer er Meconopsis Grandis Burgundy med en nydelig farge.
+Neste nykommer er Meconopsis Grandis Burgundy med en nydelig farge. Litt mer lilla enn bildet viser.
 
 ![Meconopsis grandis Burgundy]({{site.baseurl}}/assets/img/Meconopsis grandis Burgundy.JPG)
 
@@ -26,7 +29,6 @@ Den første Iris Germanica har åpnet seg og den er like fin som i fjor.
 
 ![Iris Germanica.]({{site.baseurl}}/assets/img/iris Germanica.JPG)
 
-Ny ukjent iris er sistemann ut i dag. 
+Sist, men ikke minst: Den ene knuppen på Blåregnen har begynt å åpne seg. 
 
-![Ukjent iris.]({{site.baseurl}}/assets/img/Ny ukjent iris.JPG)
 
