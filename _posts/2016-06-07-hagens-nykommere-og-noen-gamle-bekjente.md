@@ -17,6 +17,8 @@ Etter to og et halvt år med tålmodighet har Meconopsis Racemosa endelig vist s
 
 ![Meconopsis Racemosa.]({{site.baseurl}}/assets/img/Meconopsis Racemosa.JPG)
 
+<!--more-->
+
 Neste nykommer er Meconopsis Grandis Burgundy med en nydelig farge. 
 
 ![Meconopsis grandis Burgundy]({{site.baseurl}}/assets/img/Meconopsis grandis Burgundy.JPG)
