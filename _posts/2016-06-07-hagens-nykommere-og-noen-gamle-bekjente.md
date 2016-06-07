@@ -1,0 +1,32 @@
+---
+date: '2016-06-07 15:26 +0200'
+layout: post
+published: false
+title: Hagens nykommere og noen gamle bekjente
+thumbnail: Meconopsis%20grandis%20Burgundy.JPG
+---
+
+Etter to og et halvt år med tålmodighet, er ventetiden over. Meconopsis Racemosa, en liten skjønnhet på ca. 20 cm har endelig vist seg frem. Ikke røre, bare se, for den er full av spisse, stikkende pigger.
+
+![Meconopsis Racemosa.]({{site.baseurl}}/assets/img/Meconopsis Racemosa.JPG)
+
+Neste nykommer er Meconopsis Grandis Burgundy med en nydelig farge.
+
+![Meconopsis grandis Burgundy]({{site.baseurl}}/assets/img/Meconopsis grandis Burgundy.JPG)
+
+Hvit valmuesøster har etablert seg godt og kommer igjen år etter år. 
+
+![Hvit valmuesøster.]({{site.baseurl}}/assets/img/Hvit%20valmues%C3%B8ster.JPG)
+
+Den neste nykommeren er akeleiefrøstjerne. Ligner veldig på akeleie i bladene, men blomstene er helt annerledes.
+
+![Akeleiefrøstjerne.]({{site.baseurl}}/assets/img/Akeleiefrøstjerne.JPG)
+
+Den første Iris Germanica har åpnet seg og den er like fin som i fjor.
+
+![Iris Germanica.]({{site.baseurl}}/assets/img/iris Germanica.JPG)
+
+Ny ukjent iris er sistemann ut i dag. 
+
+![Ukjent iris.]({{site.baseurl}}/assets/img/Ny ukjent iris.JPG)
+
