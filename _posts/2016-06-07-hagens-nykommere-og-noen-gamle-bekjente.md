@@ -6,7 +6,7 @@ title: Hagens nykommere og noen gamle bekjente
 thumbnail: Meconopsis%20grandis%20Burgundy.JPG
 description: >-
   Med den varmen som har vært i den siste uken spretter det ut nye blomster hver
-  dag. Noen har jeg ventet lenge på, mens andre  er gledelige gjensyn.
+  dag. Noen har jeg ventet lenge på, mens andre  kommer tilbake år etter år.
 ---
 
 Etter fire år med tålmodighet har Blåregnen begynt å åpne seg og den lukter nydelig.
