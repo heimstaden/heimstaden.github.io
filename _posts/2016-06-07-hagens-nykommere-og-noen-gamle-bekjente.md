@@ -21,7 +21,7 @@ Neste nykommer er Meconopsis Grandis Burgundy med en nydelig farge.
 
 ![Meconopsis grandis Burgundy]({{site.baseurl}}/assets/img/Meconopsis grandis Burgundy.JPG)
 
-Hvit valmuesøster har etablert seg godt og kommer igjen år etter år og litt flere blomster hvert år.
+Hvit valmuesøster har etablert seg godt og kommer igjen år etter år.
 
 ![Hvit Meconopsis.]({{site.baseurl}}/assets/img/Hvit Meconopsis.JPG)
 
