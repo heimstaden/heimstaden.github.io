@@ -10,8 +10,7 @@ description: >-
 ---
 
 Etter fire år med tålmodighet har Blåregnen begynt å åpne seg og den lukter nydelig.
-
-![Wisteria Floribunda Naga Noda.]({{site.baseurl}}/assets/img/Wisteria%20Floribunda%20Naga%20Noda.JPG)
+![Nykommer.]({{site.baseurl}}/assets/img/Nykommer.JPG)![Nykommer.JPG]({{site.baseurl}}/assets/img/Nykommer.JPG)
 
 Etter to og et halvt år med tålmodighet har Meconopsis Racemosa endelig vist seg frem. Ikke røre, bare se, for den er full av spisse, stikkende pigger.
 
