@@ -1,7 +1,7 @@
 ---
 date: '2016-06-07 15:26 +0200'
 layout: post
-published: false
+published: true
 title: Hagens nykommere og noen gamle bekjente
 thumbnail: Nykommer.JPG
 description: >-
