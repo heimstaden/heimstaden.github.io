@@ -1,7 +1,7 @@
 ---
 date: '2016-06-07 15:26 +0200'
 layout: post
-published: false
+published: true
 title: Hagens nykommere og noen gamle bekjente
 thumbnail: Meconopsis%20grandis%20Burgundy.JPG
 description: >-
@@ -32,6 +32,3 @@ Den neste nykommeren er akeleiefrøstjerne. Ligner veldig på akeleie i bladene,
 Den første Iris Germanica har åpnet seg og den er like fin i år som i fjor.
 
 ![Iris Germanica.]({{site.baseurl}}/assets/img/iris Germanica.JPG)
-
-
-
