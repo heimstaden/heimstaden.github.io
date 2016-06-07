@@ -17,13 +17,13 @@ Etter to og et halvt år med tålmodighet har Meconopsis Racemosa endelig vist s
 
 ![Meconopsis Racemosa.]({{site.baseurl}}/assets/img/Meconopsis Racemosa.JPG)
 
-Neste nykommer er Meconopsis Grandis Burgundy med en nydelig farge. Litt mer lilla enn bildet viser. 
+Neste nykommer er Meconopsis Grandis Burgundy med en nydelig farge. 
 
 ![Meconopsis grandis Burgundy]({{site.baseurl}}/assets/img/Meconopsis grandis Burgundy.JPG)
 
 Hvit valmuesøster har etablert seg godt og kommer igjen år etter år og litt flere blomster hvert år.
 
-![Hvit valmuesøster.]({{site.baseurl}}/assets/img/Hvit%20valmues%C3%B8ster.JPG)
+![Hvit Meconopsis.]({{site.baseurl}}/assets/img/Hvit Meconopsis.JPG)
 
 Den neste nykommeren er akeleiefrøstjerne. Ligner veldig på akeleie i bladene, men blomstene er helt annerledes.
 
