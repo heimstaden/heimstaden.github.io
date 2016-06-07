@@ -3,7 +3,7 @@ date: '2016-06-07 15:26 +0200'
 layout: post
 published: false
 title: Hagens nykommere og noen gamle bekjente
-thumbnail: Meconopsis%20grandis%20Burgundy.JPG
+thumbnail: Nykommer.JPG
 description: >-
   Med den varmen som har vært i den siste uken spretter det ut nye blomster hver
   dag. Noen har jeg ventet lenge på, mens andre  kommer tilbake år etter år.
