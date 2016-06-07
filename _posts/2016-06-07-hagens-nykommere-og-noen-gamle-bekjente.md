@@ -9,11 +9,15 @@ description: >-
   dag. Noen har jeg ventet lenge på, mens andre  er gledelige gjensyn.
 ---
 
-Etter to og et halvt år med tålmodighet, er ventetiden over. Meconopsis Racemosa, en liten skjønnhet på ca. 20 cm har endelig vist seg frem. Ikke røre, bare se, for den er full av spisse, stikkende pigger.
+Etter fire år med tålmodighet har Blåregnen begynt å åpne seg og den lukter nydelig.
+
+![Wisteria Floribunda Naga Noda.]({{site.baseurl}}/assets/img/Wisteria%20Floribunda%20Naga%20Noda.JPG)
+
+Etter to og et halvt år med tålmodighet har Meconopsis Racemosa endelig vist seg frem. Ikke røre, bare se, for den er full av spisse, stikkende pigger.
 
 ![Meconopsis Racemosa.]({{site.baseurl}}/assets/img/Meconopsis Racemosa.JPG)
 
-Neste nykommer er Meconopsis Grandis Burgundy med en nydelig farge. Litt mer lilla enn bildet viser.
+Neste nykommer er Meconopsis Grandis Burgundy med en nydelig farge. Litt mer lilla enn bildet viser. 
 
 ![Meconopsis grandis Burgundy]({{site.baseurl}}/assets/img/Meconopsis grandis Burgundy.JPG)
 
@@ -25,10 +29,9 @@ Den neste nykommeren er akeleiefrøstjerne. Ligner veldig på akeleie i bladene,
 
 ![Akeleiefrøstjerne.]({{site.baseurl}}/assets/img/Akeleiefrøstjerne.JPG)
 
-Den første Iris Germanica har åpnet seg og den er like fin som i fjor.
+Den første Iris Germanica har åpnet seg og den er like fin i år som i fjor.
 
 ![Iris Germanica.]({{site.baseurl}}/assets/img/iris Germanica.JPG)
 
-Sist, men ikke minst: Den ene knuppen på Blåregnen har begynt å åpne seg. 
 
 
