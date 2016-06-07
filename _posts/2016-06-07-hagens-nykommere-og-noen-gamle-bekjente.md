@@ -10,7 +10,8 @@ description: >-
 ---
 
 Etter fire år med tålmodighet har Blåregnen begynt å åpne seg og den lukter nydelig.
-![Nykommer.]({{site.baseurl}}/assets/img/Nykommer.JPG)![Nykommer.JPG]({{site.baseurl}}/assets/img/Nykommer.JPG)
+
+![Nykommer.]({{site.baseurl}}/assets/img/Nykommer.JPG)
 
 Etter to og et halvt år med tålmodighet har Meconopsis Racemosa endelig vist seg frem. Ikke røre, bare se, for den er full av spisse, stikkende pigger.
 
@@ -20,7 +21,7 @@ Neste nykommer er Meconopsis Grandis Burgundy med en nydelig farge. Litt mer lil
 
 ![Meconopsis grandis Burgundy]({{site.baseurl}}/assets/img/Meconopsis grandis Burgundy.JPG)
 
-Hvit valmuesøster har etablert seg godt og kommer igjen år etter år. 
+Hvit valmuesøster har etablert seg godt og kommer igjen år etter år og litt flere blomster hvert år.
 
 ![Hvit valmuesøster.]({{site.baseurl}}/assets/img/Hvit%20valmues%C3%B8ster.JPG)
 
