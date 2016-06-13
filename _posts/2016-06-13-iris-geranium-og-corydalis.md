@@ -19,7 +19,7 @@ Det er ikke noen hemmelighet at jeg er svært glad i Iris og hvert år har jeg n
 
 <!--more-->
 
-Geranium eller storknebb er en annen favoritt som finnes i uendelig mange farger, høyder og størrelser. Noen er tøffe og robuste, andre sarte og yndige. Noen blomster også hele sommeren, hvis man klipper de ned når blomstene er visne. 
+Geranium eller storknebb er en annen favoritt som finnes i uendelig mange farger, høyder og størrelser. Noen er tøffe og robuste, andre sarte og yndige. Noen blomstrer også hele sommeren hvis man klipper de ned når blomstene er visne. 
 
 ![Ukjent Geranium.]({{site.baseurl}}/assets/img/Ukjent geranium.JPG)
 
