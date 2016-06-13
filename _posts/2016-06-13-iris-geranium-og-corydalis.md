@@ -2,7 +2,7 @@
 date: '2016-06-13 21:36 +0200'
 layout: post
 published: true
-title: 'Iris, Geranium og corydalis'
+title: 'Iris, Geranium og Corydalis'
 thumbnail: Iris%20chrysographes.JPG
 description: >-
   Det er høysesong for Iris,  Storknebb og Lerkespore. De kappes om å fange
