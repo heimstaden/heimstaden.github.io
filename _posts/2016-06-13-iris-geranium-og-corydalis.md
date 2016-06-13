@@ -1,7 +1,7 @@
 ---
 date: '2016-06-13 21:36 +0200'
 layout: post
-published: false
+published: true
 title: 'Iris, Geranium og corydalis'
 thumbnail: Iris%20sibirica%20Rikugi%20Sakura.JPG
 description: >-
@@ -30,8 +30,3 @@ Siste finalist i kveld er Lerkesporen Corydalis Panda. En liten skjønnhet med e
 ![Corydalis Panda.]({{site.baseurl}}/assets/img/Corydalis panda.JPG)
 
 Jeg klarer ikke å plukke ut en vinner, men kanskje får du en favoritt.
-
-
-
-
-
