@@ -29,6 +29,8 @@ Siste finalist i kveld er Lerkesporen Corydalis Panda. En liten skjønnhet med e
 
 ![Corydalis Panda.]({{site.baseurl}}/assets/img/Corydalis panda.JPG)
 
+Jeg klarer ikke å plukke ut en vinner, men kanskje får du en favoritt.
+
 
 
 
