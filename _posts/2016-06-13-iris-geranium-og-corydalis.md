@@ -3,7 +3,7 @@ date: '2016-06-13 21:36 +0200'
 layout: post
 published: false
 title: 'Iris, Geranium og corydalis'
-thumbnail: Iris%20sibirica%20Rikugi%20Sakura.JPG
+thumbnail: Iris%20chrysographes.JPG
 description: >-
   Det er høysesong for Iris,  Storknebb og Lerkespore. De kappes om å fange
   oppmerksomheten med sine farger og former. Her er kveldens finalister.
