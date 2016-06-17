@@ -10,8 +10,7 @@ description: >-
   er noen av de første.
 ---
 
-Det er høysommer og de første rosene, klematisene og riddersporene har startet blomstringen. Bladverket har holdt seg friskt og fint på rosene i år siden det har regnet så lite. Et angrep av roseskuddveps på noen av rosene ble raskt avverget med en dusj av vann, grønnsåpe og rødsprit. I tillegg ble alle angrepne skudd fjernet. I år har jeg flyttet mange av rosene, så de er nok litt senere enn vanlig. Foreløpig er det  
-ikke så mange, men velkomne er de første.
+Det er høysommer og de første rosene, klematisene og riddersporene har startet blomstringen. Bladverket har holdt seg friskt og fint på rosene i år siden det har regnet så lite. Et angrep av roseskuddveps på noen av rosene ble raskt avverget med en dusj av vann, grønnsåpe og rødsprit. I tillegg ble alle angrepne skudd fjernet. I år har jeg flyttet mange av rosene, så de er nok litt senere enn vanlig. Foreløpig er det ikke så mange, men velkomne er de første.
 
 Trykker du inn på bildene får du opp navnene på blomstene.
 
