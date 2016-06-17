@@ -1,7 +1,7 @@
 ---
 date: '2016-06-17 18:41 +0200'
 layout: post
-published: false
+published: true
 title: 'Roser, klematis og riddersporer'
 thumbnail: Sympathie.JPG
 description: >-
@@ -30,9 +30,3 @@ Riddersporene har også startet showet nå, og flere er på gang. Disse høyreis
 ![Delphinium King Arthur.]({{site.baseurl}}/assets/img/Delphinium King Arthur .JPG)
 
 ![Ukjent Delphinium.]({{site.baseurl}}/assets/img/Ukjent Delphinium.JPG)
-
-
-
-
-
-
