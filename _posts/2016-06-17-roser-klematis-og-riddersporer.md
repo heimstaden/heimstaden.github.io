@@ -3,6 +3,11 @@ date: '2016-06-17 18:41 +0200'
 layout: post
 published: false
 title: 'Roser, klematis og riddersporer'
+thumbnail: Sympathie.JPG
+description: >-
+  Når roser, klematis og riddersporer er kommet i gang med blomstringen er det
+  høysommer her hos oss. Vakre farger og deilige dufter møter oss hver dag.  Her
+  er noen av de første.
 ---
 
 Det er høysommer og de første rosene, klematisene og riddersporene har startet blomstringen. Bladverket har holdt seg friskt og fint på rosene i år siden det har regnet så lite. Et angrep av roseskuddveps på noen av rosene ble raskt avverget med en dusj av vann, grønnsåpe og rødsprit. I tillegg ble alle angrepne skudd fjernet. I år har jeg flyttet mange av rosene, så de er nok litt senere enn vanlig. Foreløpig er det  
