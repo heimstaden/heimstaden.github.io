@@ -19,13 +19,13 @@ ikke så mange, men velkomne er de første.
 
 <!--more-->
 
-Clematis Piilu er førstemann ut av klematisene. Den er litt spesiell, for de første blomstene som kommer er store og fylte. Deretter nøyer den seg med enkle blomster. Arabella er en som blomstrer fra mai til frosten kommer her hos oss. Begge to er nydelige sammen med rosene som de er plantet sammen med. Flere bilder av dette litt senere.
+Clematis Piilu er førstemann ut av klematisene. Den er litt spesiell, for de første blomstene som kommer er store og fylte. Deretter nøyer den seg med enkle blomster. Arabella er en som blomstrer fra mai til frosten kommer her hos oss. Begge to er nydelige sammen med rosene og riddersporene som de er plantet sammen med. Flere bilder av dette litt senere.
 
 ![Clematis Piilu.]({{site.baseurl}}/assets/img/Clematis Piilu.JPG)
 
 ![Clematis Arabella. ]({{site.baseurl}}/assets/img/Clematis Arabella.JPG)
 
-Riddersporene har også startet showet nå, og flere er på gang. Disse høyreiste og fargerike blomstene er blikkfang i hagen. Det blir nok flere bilder av disse etterhvert. 
+Riddersporene har også startet showet nå, og flere er på gang. Disse høyreiste og fargerike blomstene er blikkfang i hagen. Det blir nok flere bilder av disse etterhvert også. 
 
 ![Delphinium King Arthur.]({{site.baseurl}}/assets/img/Delphinium King Arthur .JPG)
 
