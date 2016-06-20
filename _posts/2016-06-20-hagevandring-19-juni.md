@@ -23,7 +23,7 @@ Det finnes mange primulaer i hagen her. Før trodde jeg at de kun var vårblomst
 
 ![Ukjent etasjeprimula.]({{site.baseurl}}/assets/img/Ukjent etasjeprimula.JPG)
 
-Primula vialii er en artig primula som virkelig klarer å vise seg frem. 
+Primula vialii er en artig primula som virkelig klarer å vise seg frem med sin rosa og røde farge. 
 
 ![Primula vialii.]({{site.baseurl}}/assets/img/Primula vialii.JPG)
 
