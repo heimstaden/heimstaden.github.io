@@ -15,9 +15,9 @@ I dag kom endelig regnet og det trengtes virkelig. Her er trepionen avblomstret,
 
 <!--more-->
 
-Humlene surrer godt rundt omkring og storkenebbene er særlig omsvermet. 
+Humlene surrer godt rundt omkring og storkenebbene er særlig omsvermet. Her  
 
-![Ukjent Geranium.]({{site.baseurl}}/assets/img/Ukjent Geranium.JPG)
+![Humlemagnet.]({{site.baseurl}}/assets/img/Humlemagnet.JPG)
 
 Det finnes mange primulaer i hagen her. Før trodde jeg at de kun var vårblomster, men det finnes visst mange ulike typer som blomstrer utover sommeren og høsten også. Her er en etasjeprimula som blomstrer nå. 
 
