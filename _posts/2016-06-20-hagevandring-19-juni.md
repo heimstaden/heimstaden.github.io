@@ -15,7 +15,7 @@ I dag kom endelig regnet og det trengtes virkelig. Her er trepionen avblomstret,
 
 <!--more-->
 
-Humlene surrer godt rundt omkring og storkenebbene er særlig omsvermet. Her  
+Humlene surrer godt rundt omkring og storkenebbene er særlig omsvermet.   
 
 ![Humlemagnet.]({{site.baseurl}}/assets/img/Humlemagnet.JPG)
 
