@@ -1,7 +1,7 @@
 ---
 date: '2016-06-20 15:43 +0200'
 layout: post
-published: false
+published: true
 title: Hagevandring i juni.
 thumbnail: Silkepion.JPG
 description: Her er noen bilder fra hagen i juni. Det meste blomstrer akkurat nå.
@@ -36,13 +36,3 @@ I vår gjorde jeg noen endringer i rosebedet. Plantet inn noen hvite bunndekkros
 ![Veronica og White Cover.]({{site.baseurl}}/assets/img/Veronica og rose.JPG)
 
 Ha en fin ny uke!
-
-
-
-
-
-
-
-
-
-
