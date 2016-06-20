@@ -2,10 +2,12 @@
 date: '2016-06-20 15:43 +0200'
 layout: post
 published: false
-title: Hagevandring 19. juni
+title: Hagevandring i juni.
+thumbnail: Silkepion.JPG
+description: Her er noen bilder fra hagen i juni. Det meste blomstrer akkurat nå.
 ---
 
-I dag kom endelig regnet og det trengtes virkelig. Her er trepionen avblomstret, men silkepionen har åpnet sine enorme blomster. Har egentlig ikke brydd meg så mye med å ha pioner i hagen tidligere, for jeg trodde de var så vanskelig å få de til. Men da jeg først fikk en i blomst, ble det straks litt mer spennende. Fortsatt er det noen som ikke har blomstret, men jeg er tålmodig og håper de kommer til neste år. Trykker du inn på bildene får du opp navnene på de plantenavnene jeg kjenner.
+I dag kom endelig regnet og det trengtes virkelig. Her er trepionen avblomstret, men silkepionen har åpnet sine enorme blomster. Har egentlig ikke brydd meg så mye med å ha pioner i hagen tidligere, for jeg trodde de var så vanskelig å få de til. Men da jeg først fikk en i blomst, ble det straks mer spennende. Fortsatt er det noen som ikke har blomstret, men jeg er tålmodig og håper de kommer til neste år. Trykker du inn på bildene får du opp navnene på de plantenavnene jeg kjenner.
 
 ![Paeonia Suffruticosa, trepion.]({{site.baseurl}}/assets/img/Trepion.JPG)
 
