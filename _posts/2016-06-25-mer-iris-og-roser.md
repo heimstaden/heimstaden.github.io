@@ -3,6 +3,8 @@ date: '2016-06-25 13:59 +0200'
 layout: post
 published: false
 title: 'Mer iris og roser '
+thumbnail: Iris%20sibirica%20Gulls%20wing.JPG
+description: 'Nye iris og roser er i gang etter en god rotbløyte den siste tiden.  '
 ---
 
 Hagen har fått noen forfriskende regndråper den siste uken og det lukter deilig ute. Flere iris viser seg fram og her kommer noen bilder av dem. Trykker du inn på bildene, får du opp navnet på planten.
