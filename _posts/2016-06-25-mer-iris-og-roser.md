@@ -17,7 +17,7 @@ Hagen har fått noen forfriskende regndråper den siste uken og det lukter deili
 
 <!--more-->
 
-Noen av rosene i hagen dufter helt vidunderlig. Den moderne buskrosen Rhapsody in Blue er en av dem. Den har en forholdsvis mørk farge når den er nyutsprunget, slik som den på bildet her, men etterhvert blir den blassere og mer blågrå i fargen. Vakker er den i alle stadier. Alle rosene jag har er remonterende, det vil si at de fortsetter å blomstre gjennom sommeren. Regnes som middels hardfør av mange og blir 1- 1,5 meter høy.
+Noen av rosene i hagen dufter helt vidunderlig. Den moderne buskrosen Rhapsody in Blue er en av dem. Den har en forholdsvis mørk farge når den er nyutsprunget, slik som den på bildet her, men etterhvert blir den blassere og mer blågrå i fargen. Vakker er den i alle stadier. Alle rosene jeg har er remonterende, det vil si at de fortsetter å blomstre gjennom sommeren. Regnes som middels hardfør av mange og blir 1- 1,5 meter høy.
 
 ![Nyutsprunget Rhapsody in Blue.]({{site.baseurl}}/assets/img/Nyutsprunget Rhapsody in Blue.JPG)
 
