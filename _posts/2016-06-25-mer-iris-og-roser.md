@@ -1,7 +1,7 @@
 ---
 date: '2016-06-25 13:59 +0200'
 layout: post
-published: false
+published: true
 title: 'Mer iris og roser '
 thumbnail: Iris%20sibirica%20Gulls%20wing.JPG
 description: 'Nye iris og roser er i gang etter en god rotbløyte den siste tiden.  '
@@ -32,15 +32,3 @@ Sistemann ut i dag er buskrosen Stanwell Perpetual som stadig har blitt flyttet 
 Nå letter skydekket ute, kanskje vi får et gløtt av solen igjen.
 
 Ha en fin helg!
-
-
-
-
-
-
-
-
-
-
-
-
