@@ -1,7 +1,7 @@
 ---
 date: '2016-06-28 16:06 +0200'
 layout: post
-published: false
+published: true
 title: Fine sammen
 thumbnail: Rhododendron%20og%20akeleie.JPG
 description: >-
@@ -36,14 +36,3 @@ På neste bilde er det fra venstre klokkebusk, apenes skrekk, daglilje, hosta og
 Tett i tett er det også her. Jeg synes hosta er fantastiske planter som er veldig praktiske å ha i nærheten av tulipaner og påskeliljer. Når løkene er avblomstret, breier hostaen sine blader ut og gjemmer alle de visne bladene. Mer om hostaer og andre fine bladplanter kommer nok i et annet blogginnlegg.
 
 ![Hosta med gode naboer.]({{site.baseurl}}/assets/img/Hosta med gode naboer.JPG)
-
-
-
-
-
-
-
-
-
-
-
