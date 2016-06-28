@@ -29,7 +29,7 @@ Mirakelblomst eller Mirabilis jalapa sådde jeg for flere år siden. Blomstene �
 
 ![Mirabilis jalapa og hosta.]({{site.baseurl}}/assets/img/Mirabilis jalapa og hosta.JPG)
 
-På neste bilde er det fra venstre klokkebusk, apenes skrekk, daglilje, hosta og avblomstret lyng i forkant. Jeg prøver å plante tett i tett for da blir det mindre ugress. 
+På neste bilde er det fra høyre klokkebusk, apenes skrekk, daglilje, hosta og avblomstret lyng i forkant. Jeg prøver å plante tett i tett for da blir det mindre ugress. 
 
 ![Tett i tett.]({{site.baseurl}}/assets/img/Tett i tett.JPG)
 
