@@ -13,7 +13,7 @@ Juni er snart over og mye har skjedd i hagen i løpet av denne måneden. Jeg tar
 
 ![Rhododendron og akeleier.]({{site.baseurl}}/assets/img/Rhododendron og akeleie.JPG)
 
-Jeg er så glad i alle vamuesøstrene mine og får visst aldri nok av dem. Det blir derfor et par bilder av dem igjen.
+Jeg er så glad i alle valmuesøstrene mine og får visst aldri nok av dem. Det blir derfor et par bilder av dem igjen.
 
 ![Meconopsis Betonicifolia Alba.]({{site.baseurl}}/assets/img/Meconopsis betonicifolia Alba og iris.JPG)
 
