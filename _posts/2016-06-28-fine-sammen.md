@@ -3,6 +3,10 @@ date: '2016-06-28 16:06 +0200'
 layout: post
 published: false
 title: Fine sammen
+thumbnail: Rhododendron%20og%20akeleie.JPG
+description: >-
+  Noen ganger oppstår det fine samplantinger uten at man har planlagt det på
+  forhånd.
 ---
 
 Juni er snart over og mye har skjedd i hagen i løpet av denne måneden. Jeg tar derfor et tilbakeblikk på blomstringen i juni. Noen har dere sett glimt av før, men kanskje ikke sammen med akkurat disse naboene. 
