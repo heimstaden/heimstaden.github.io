@@ -1,7 +1,7 @@
 ---
 date: '2016-07-03 15:56 +0200'
 layout: post
-published: false
+published: true
 title: Fargerik start på juli
 thumbnail: Clematis%20og%20riddersporer.JPG
 description: 'Klematis og riddersporer har jeg lovet flere bilder av og her kommer de. '
@@ -28,12 +28,3 @@ Flere av liljene er i startgropen og førstemann ut er Martagonliljen Arabian Kn
 En annen som er fargerik er klaserosen Gebruder Grimm. Den er virkelig en frisk og fin rose. Blomstene er fylte med ulike nyanser av orange, rosa og gult. Flere bilder kommer nok etterhvert som flere av blomstene spretter ut. Det er ikke akkurat så mange klaser med roser enda. 
 
 ![Rosen Gebruder Grimm.]({{site.baseurl}}/assets/img/Gebruder Grimm.JPG)
-
-
-
-
-
-
-
-
-
