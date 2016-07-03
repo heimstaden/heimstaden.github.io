@@ -9,7 +9,9 @@ description: 'Klematis og riddersporer har jeg lovet flere bilder av og her komm
 
 Selv om regnet har øst ned over vestlandet i to uker nå har plantene klart seg relativt bra. Noen har takket for seg for i år mens andre er i startgropen. Fortsatt er det lenge igjen av sommeren.
 
-Clematis og riddersporer holder seg fortsatt fine. Jeg blir visst aldri lei av å ta bilder av dem. Men nå venter jeg veldig på at den hvite klatrerosen skal sprette ut sammen med dem. Den har ikke likt alt regnet de siste ukene. Trykker du inn på bildene får du opp navnet på plantene.
+Clematis og riddersporer holder seg fortsatt fine. Jeg blir visst aldri lei av å ta bilder av dem. Men nå venter jeg veldig på at den hvite klatrerosen skal sprette ut sammen med dem. Den har ikke likt alt regnet de siste ukene. Den mørkeblå riddersporen på det første bildet er Delphinium x elatum ‘Black Eyed Beauty. Den lyseblå heter Delphinium pacific Summer Skies. 
+
+Trykker du inn på bildene får du opp navnet på plantene.
 
 ![Clematis Piilu og ulike riddersporer.]({{site.baseurl}}/assets/img/Clematis og riddersporer.JPG)
 
