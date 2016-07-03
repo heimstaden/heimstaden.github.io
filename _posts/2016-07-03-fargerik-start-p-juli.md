@@ -11,7 +11,7 @@ Selv om regnet har øst ned over vestlandet i to uker nå har plantene klart seg
 
 Clematis og riddersporer holder seg fortsatt fine. Jeg blir visst aldri lei av å ta bilder av dem. Men nå venter jeg veldig på at den hvite klatrerosen skal sprette ut sammen med dem. Den har ikke likt alt regnet de siste ukene. Trykker du inn på bildene får du opp navnet på plantene.
 
-![Clematis og riddersporer.]({{site.baseurl}}/assets/img/Clematis og riddersporer.JPG)
+![Clematis Piilu og ulike riddersporer.]({{site.baseurl}}/assets/img/Clematis og riddersporer.JPG)
 
 ![Hvit ridderspore med klatrerosen New Dawn.]({{site.baseurl}}/assets/img/Hvit Ridderspore med klatrerosen New Dawn.JPG)
 
