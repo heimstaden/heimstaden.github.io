@@ -1,7 +1,7 @@
 ---
 date: '2016-07-03 15:56 +0200'
 layout: post
-published: true
+published: false
 title: Fargerik start på juli
 thumbnail: Clematis%20og%20riddersporer.JPG
 description: 'Klematis og riddersporer har jeg lovet flere bilder av og her kommer de. '
@@ -9,7 +9,7 @@ description: 'Klematis og riddersporer har jeg lovet flere bilder av og her komm
 
 Selv om regnet har øst ned over vestlandet i to uker nå har plantene klart seg relativt bra. Noen har takket for seg for i år mens andre er i startgropen. Fortsatt er det lenge igjen av sommeren.
 
-Clematis og riddersporer holder seg fortsatt fine. Jeg blir visst aldri lei av å ta bilder av dem. Men nå venter jeg veldig på at den hvite klatrerosen skal sprette ut sammen med dem. Den har ikke likt alt regnet de siste ukene. 
+Clematis og riddersporer holder seg fortsatt fine. Jeg blir visst aldri lei av å ta bilder av dem. Men nå venter jeg veldig på at den hvite klatrerosen skal sprette ut sammen med dem. Den har ikke likt alt regnet de siste ukene. Trykker du inn på bildene får du opp navnet på plantene.
 
 ![Clematis og riddersporer.]({{site.baseurl}}/assets/img/Clematis og riddersporer.JPG)
 
@@ -19,7 +19,7 @@ Clematis og riddersporer holder seg fortsatt fine. Jeg blir visst aldri lei av �
 
 ![Delphinium elatum Green Twist.]({{site.baseurl}}/assets/img/Delphinium elatum Green Twist.JPG)
 
-![Clematis det Preseident med knupper av riddersporer.]({{site.baseurl}}/assets/img/Clematis The President.JPG)
+![Clematis det President med knupper av riddersporer.]({{site.baseurl}}/assets/img/Clematis The President.JPG)
 
 Flere av liljene er i startgropen og førstemann ut er Martagonliljen Arabian Knight. I år er det bare en stilk for de andre knakk i vinden her. Men det er mange blomster på den og med den fargen lyser den opp lang vei. 
 
