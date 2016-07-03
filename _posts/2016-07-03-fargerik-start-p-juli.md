@@ -17,7 +17,7 @@ Clematis og riddersporer holder seg fortsatt fine. Jeg blir visst aldri lei av Ã
 
 <!--more-->
 
-![Delphinium elatum Green Twist.]({{site.baseurl}}/assets/img/Delphinium elatum Green Twist.JPG)
+![Riddersporen Delphinium elatum Green Twist.]({{site.baseurl}}/assets/img/Delphinium elatum Green Twist.JPG)
 
 ![Clematis det President med knupper av riddersporer.]({{site.baseurl}}/assets/img/Clematis The President.JPG)
 
