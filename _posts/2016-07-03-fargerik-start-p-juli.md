@@ -7,7 +7,7 @@ thumbnail: Clematis%20og%20riddersporer.JPG
 description: 'Klematis og riddersporer har jeg lovet flere bilder av og her kommer de. '
 ---
 
-Selv om regnet har øst ned over vestlandet i to uker uker nå har plantene klart seg relativt bra. Noen har takket for seg for i år mens andre er i startgropen. Fortsatt er det lenge igjen av sommeren.
+Selv om regnet har øst ned over vestlandet i to uker nå har plantene klart seg relativt bra. Noen har takket for seg for i år mens andre er i startgropen. Fortsatt er det lenge igjen av sommeren.
 
 Clematis og riddersporer holder seg fortsatt fine. Jeg blir visst aldri lei av å ta bilder av dem. 
 
