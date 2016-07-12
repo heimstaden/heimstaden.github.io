@@ -25,7 +25,7 @@ Man blir rett og slett glad av disse blomstene, og selv om hver blomst ikke vare
 
 ![Fylt valmue.]({{site.baseurl}}/assets/img/Fylt valmue.JPG)
 
-Det finnes mange forskjellige sorter valmuer og de finnes som både stauder og ettåringer. De fleste jeg viser her er en eller annen variant av Papaver somniferum, peonvalmuer og den røde Papaver rhoeas eller kornvalmue. 
+Det finnes mange forskjellige sorter valmuer og de finnes som både stauder og ettåringer. De fleste jeg viser her er en eller annen variant av Papaver somniferum, peonvalmuer og den røde Papaver rhoeas eller kornvalmue. Alle disse er ettårige, men de gir massevis av frø som du kan plante på nytt igjen, eller la dem frø seg selv. Da lar du bare frøhodene stå på til de er modne og da sprer dem seg ut selv. Vil du ha litt mer kontroll, tar du vare på frøene når de er blitt modne. Jeg oppbevarer dem i konvolutter. 
 
 ![Valmuemix.]({{site.baseurl}}/assets/img/Valmuemix.JPG)
 
