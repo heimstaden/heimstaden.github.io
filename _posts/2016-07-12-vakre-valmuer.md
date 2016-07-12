@@ -1,7 +1,7 @@
 ---
 date: '2016-07-12 19:47 +0200'
 layout: post
-published: false
+published: true
 title: Vakre valmuer
 thumbnail: Rosa%20peonvalmue.JPG
 description: >-
@@ -36,12 +36,3 @@ Nå som sommeren har glimret med sitt fravær her i vest, får valmuene fra i fj
 ![Sommerfølelse.]({{site.baseurl}}/assets/img/Et glimt av sommer.JPG)
 
 Ønsker alle en god sommeruke!
-
-
-
-
-
- 
- 
- 
- 
