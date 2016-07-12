@@ -17,7 +17,7 @@ Dette er bilder fra fjorårets blomstring, for i år har jeg ikke fått til diss
  
  <!--more-->
  
-Man blir rett og slett glad av disse blomstene, og selv om hver blomst ikke varer lenge, så kommer det flere blomster på hver plante. Sommerfølelse får man i hvert fall av disse plantene og alt på dem er dekorative; bladverk, knupper, blomster og frøhoder. Det er helt utrolig hvor mye som får plass inne i knuppen.
+Man blir rett og slett glad av disse blomstene, og selv om hver blomst ikke varer lenge, så kommer det flere blomster på hver plante. Sommerfølelse får man i hvert fall av disse plantene og alt på dem er dekorativt; bladverk, knupper, blomster og frøhoder. Det er helt utrolig hvor mye som får plass inne i knuppen.
 
 ![Peonvalmue i alle stadier.]({{site.baseurl}}/assets/img/Peonvalmue i alle stadier.JPG)
 
@@ -25,7 +25,7 @@ Man blir rett og slett glad av disse blomstene, og selv om hver blomst ikke vare
 
 ![Fylt valmue.]({{site.baseurl}}/assets/img/Fylt valmue.JPG)
 
-Det finnes mange forskjellige sorter valmuer og de finnes som både stauder og ettåringer. De fleste jeg viser her er vel en eller annen variant av Papaver somniferum, peonvalmuer og den røde Papaver rhoeas eller kornvalmue. 
+Det finnes mange forskjellige sorter valmuer og de finnes som både stauder og ettåringer. De fleste jeg viser her er en eller annen variant av Papaver somniferum, peonvalmuer og den røde Papaver rhoeas eller kornvalmue. 
 
 ![Valmuemix.]({{site.baseurl}}/assets/img/Valmuemix.JPG)
 
