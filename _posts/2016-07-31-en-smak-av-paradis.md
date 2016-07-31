@@ -10,6 +10,7 @@ description: >-
 ---
 
 Så ble det endelig en tur til Flor og Fjære utenfor Stavanger i år også. En sanseopplevelse utenom det vanlige. Her er det så mye vakkert å se på at man blir helt målløs. Man vandrer rett og slett rundt blant 50000 sommerblomster, fossefall, dammer og en rekke eksotiske palmer og planter. Dette må rett og slett oppleves, for det er ikke mulig å beskrive det rettferdig med hverken ord eller bilder. 
+Trykker du inn på bildene blir de større.
 
 ![Bilde1]({{site.baseurl}}/assets/img/1.JPG)
 
