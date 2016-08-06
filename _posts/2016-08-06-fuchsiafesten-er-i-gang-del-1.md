@@ -1,7 +1,7 @@
 ---
 date: '2016-08-06 15:44 +0200'
 layout: post
-published: false
+published: true
 title: 'Fuchsiafesten er i gang, del 1'
 thumbnail: Fuchsia.JPG
 description: 'Her kommer noen bilder av fuchsiaplantene som blomstrer nå. '
@@ -26,6 +26,3 @@ På bildene med en og en plante får du opp navnet på planten når du trykker i
 ![Fuchsia Rohees Denebola]({{site.baseurl}}/assets/img/Fuchsia Rohees Denebola.JPG)
 
 ![Fuchsia Billy Green]({{site.baseurl}}/assets/img/Billy%20Green.JPG)
-
-
-
