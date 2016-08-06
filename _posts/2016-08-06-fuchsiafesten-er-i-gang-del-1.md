@@ -3,6 +3,8 @@ date: '2016-08-06 15:44 +0200'
 layout: post
 published: false
 title: 'Fuchsiafesten er i gang, del 1'
+thumbnail: Fuchsia.JPG
+description: 'Her kommer noen bilder av fuchsiaplantene som blomstrer nå. '
 ---
 
 Det er godt at det er noen som trives med alt regnet denne sommeren. Det har tatt litt tid, men nå er fuchsiablomstringen virkelig i gang. Så utrolig mange forskjellige former og farger det er på disse plantene. Jeg må dele dette innlegget i flere deler for ellers blir det altfor mange bilder.
