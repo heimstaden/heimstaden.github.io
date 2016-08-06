@@ -1,7 +1,7 @@
 ---
 date: '2016-08-06 15:44 +0200'
 layout: post
-published: true
+published: false
 title: 'Fuchsiafesten er i gang, del 1'
 thumbnail: Fuchsia.JPG
 description: 'Her kommer noen bilder av fuchsiaplantene som blomstrer nå. '
