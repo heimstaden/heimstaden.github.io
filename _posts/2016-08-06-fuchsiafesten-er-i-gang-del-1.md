@@ -9,9 +9,9 @@ description: 'Her kommer noen bilder av fuchsiaplantene som blomstrer nå. '
 
 Det er godt at det er noen som trives med alt regnet denne sommeren. Det har tatt litt tid, men nå er fuchsiablomstringen virkelig i gang. Så utrolig mange forskjellige former og farger det er på disse plantene. Jeg må dele dette innlegget i flere deler for ellers blir det altfor mange bilder.
 
-![Noen av årets fuchsiaer.]({{site.baseurl}}/assets/img/Fuchsia.JPG)
-
 ![Fuchsia tett i tett.]({{site.baseurl}}/assets/img/Fuchsia 3.JPG)
+
+![Noen av årets fuchsiaer]({{site.baseurl}}/assets/img/Fuchsia 4.JPG)
 
 På bildene med en og en plante får du opp navnet på planten når du trykker inn på bildet.
 
