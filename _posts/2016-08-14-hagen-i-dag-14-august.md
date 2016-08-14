@@ -35,4 +35,4 @@ Sistemann ut i dag, som har blomstret fint hele sommeren, er løvemunn. Den sår
 
 ![Løvemunn.]({{site.baseurl}}/assets/img/Løvemunn (2).JPG)
 
-Ønsker alle en fin ny uke.
+Ønsker alle en fin ny uke! 
