@@ -17,7 +17,7 @@ Engletrompetene har overlevd både regn og vind i år og førstemann ut i blomst
 
 <!--more-->
 
-Gazania har endelig fått litt sol og titter endelig frem. De er veldig sene i år. Håper på en god og varm høst slik at enda flere får vist seg frem.
+Gazania har fått litt sol og titter endelig frem. De er veldig sene i år. Håper på en god og varm høst slik at enda flere får vist seg frem.
 ![Gazania.]({{site.baseurl}}/assets/img/Gazania.JPG)
 
 Hvert år sår jeg også Rudbeckia, en fin sommerblomst i ulike fargenyanser. Noen ganger overlever de også vinteren. Den blomstrer helt fram til frosten kommer, så denne har man glede av lenge.
