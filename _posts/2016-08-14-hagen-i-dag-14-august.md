@@ -3,7 +3,7 @@ date: '2016-08-14 15:37 +0200'
 layout: post
 published: true
 title: Hagen i dag 14. august
-thumbnail: Nydelig lukt om kvelden.JPG
+thumbnail: Nydelig%20lukt%20om%20kvelden.JPG
 description: >-
   Sensommeren er over oss og heldigvis er det mange planter som liker seg på
   denne tiden også. Her er litt fra dagens hagerunde.
