@@ -1,7 +1,7 @@
 ---
 date: '2016-08-14 15:37 +0200'
 layout: post
-published: false
+published: true
 title: Hagen i dag 14. august
 thumbnail: Nydelig lukt om kvelden.JPG
 description: >-
@@ -35,8 +35,4 @@ Sistemann ut i dag, som har blomstret fint hele sommeren, er løvemunn. Den sår
 
 ![Løvemunn.]({{site.baseurl}}/assets/img/Løvemunn (2).JPG)
 
-Ønsker alle en fin ny uke. 
-
-
-
-
+Ønsker alle en fin ny uke.
