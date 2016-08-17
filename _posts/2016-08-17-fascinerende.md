@@ -3,6 +3,10 @@ date: '2016-08-17 19:44 +0200'
 layout: post
 published: false
 title: Fascinerende
+thumbnail: Brugmansia%20Angel%20Fantasy.JPG
+description: >-
+  Denne engletrompeten er et syn når den åpner seg. Skulle bare ønske jeg kunne
+  legge ved lukten også.
 ---
 
 Et lite innlegg i kveld. Må bare vise denne.
