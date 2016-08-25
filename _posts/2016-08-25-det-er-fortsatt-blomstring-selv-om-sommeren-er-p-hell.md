@@ -40,6 +40,3 @@ Sistemann ut i dag er Rudbeckia. Den må jeg ha hvert år for den gir flott blom
 Flere Rudbeckia har jeg bilder av hvis du går inn på linken nedenfor.
 
 [Praktsolhatt - Rudbeckia](http://heimstaden.no/2016/02/01/rudbeckia-praktsolhatt.html)
-
-
-
