@@ -1,7 +1,7 @@
 ---
 date: '2016-08-25 20:17 +0200'
 layout: post
-published: false
+published: true
 title: Det er fortsatt blomstring selv om sommeren er på hell
 thumbnail: Ukjent%20lilje.
 description: >-
