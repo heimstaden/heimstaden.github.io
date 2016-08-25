@@ -5,7 +5,7 @@ published: false
 title: Det er fortsatt blomstring selv om sommeren er på hell
 ---
 
-Vi går inn i siste uke av august. Litt sol og varme den siste tiden har fått plantene i hagen til å rette seg opp og spre litt sommerfølelse. Liljene er veldig sene i år og de har ikke vært mange. Fine er de likevel.
+Vi går inn i siste uke av august. Litt sol og varme den siste tiden har fått plantene i hagen til å rette seg opp og spre litt etterlengtet sommerfølelse. Liljene er veldig sene i år og de har ikke vært mange. Fine er de likevel.
 
 ![Ukjent lilje.]({{site.baseurl}}/assets/img/Ukjent%20lilje.JPG)
 
@@ -36,7 +36,6 @@ Sistemann ut i dag er Rudbeckia. Den må jeg ha hvert år for den gir flott blom
 Flere Rudbeckia har jeg bilder av hvis du går inn på linken nedenfor.
 
 [Praktsolhatt - Rudbeckia](http://heimstaden.no/2016/02/01/rudbeckia-praktsolhatt.html)
-
 
 
 
