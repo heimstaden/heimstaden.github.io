@@ -23,7 +23,7 @@ I tillegg begynner de høstblomstrende plantene å vise seg frem. Høstfloksen f
 
 Astersen delte jeg i fjor og den har allerede vokst seg stor igjen. Denne buskastersen gir utrolig mye blomster. 
 
-![Asters]({{site.baseurl}}/assets/img/Aster dumosus Early Blue.JPG)
+![Asters.]({{site.baseurl}}/assets/img/Asters.JPG)
 
 Den neste er jeg litt usikker på.Tror det er kattehale. Noen som vet?
 
