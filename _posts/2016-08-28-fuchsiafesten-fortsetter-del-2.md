@@ -1,7 +1,7 @@
 ---
 date: '2016-08-28 16:02 +0200'
 layout: post
-published: false
+published: true
 title: 'Fuchsiafesten fortsetter, del 2'
 thumbnail: Fuchsia%20New%20Millenium%202.
 description: Her kommer det mer Fuchsia for de som liker denne sommerblomsten.
