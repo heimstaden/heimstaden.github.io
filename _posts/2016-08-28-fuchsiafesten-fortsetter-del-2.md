@@ -1,9 +1,9 @@
 ---
 date: '2016-08-28 16:02 +0200'
 layout: post
-published: true
+published: false
 title: 'Fuchsiafesten fortsetter, del 2'
-thumbnail: Fuchsia%20New%20Millenium.JPG
+thumbnail: Fuchsia%20New%20Millenium%202.
 description: Her kommer det mer Fuchsia for de som liker denne sommerblomsten.
 ---
 
@@ -19,7 +19,7 @@ August er måneden da mine Fuchsia virkelig slår ut håret. Det bugner av bloms
 
 ![Fuchsia Harry Grey.]({{site.baseurl}}/assets/img/Fuchsia Harry Grey.JPG)
 
-![Fuchsia New Millenium.]({{site.baseurl}}/assets/img/Fuchsia%20New%20Millenium.JPG)
+![Fuchsia New Millenium 2]({{site.baseurl}}/assets/img/Fuchsia New Millenium 2.JPG)
 
 ![Fuchsia Tangerine.]({{site.baseurl}}/assets/img/Fuchsia Tangerine.JPG)
 
