@@ -21,7 +21,6 @@ August er måneden da mine Fuchsia virkelig slår ut håret. Det bugner av bloms
 
 ![New Millenium.]({{site.baseurl}}/assets/img/New Millenium.JPG)
 
-
 ![Fuchsia Tangerine.]({{site.baseurl}}/assets/img/Fuchsia Tangerine.JPG)
 
 ![Fuchsia Winston Churchill.]({{site.baseurl}}/assets/img/Fuchsia Winston Churchill.JPG)
