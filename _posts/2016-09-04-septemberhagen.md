@@ -1,9 +1,8 @@
 ---
 date: '2016-09-04 19:07 +0200'
 layout: post
-published: true
+published: false
 title: Septemberhagen
-thumbnail: Lysimachia%20clethroides.JPG
 description: >-
   Vi har gått over i september og fått litt etterlengtet sol og varme. Mange
   flotte planter som blomstrer om høsten også.
