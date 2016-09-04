@@ -17,6 +17,8 @@ En annen som våkner opp på høsten er Gentiana Makinoi Royal Blue.
 
 ![Gentiana Makinoi Royal Blue. ]({{site.baseurl}}/assets/img/Gentiana makinoi Royal Blue.JPG)
 
+<!--more-->
+
 Hjortetrøst er også en spennende høstplante. Finnes litt forskjellige typer. Jeg er ikke helt sikker på hvem jeg har. Den er ca. 1,50 høy. Elsket av sommerfugler og humler. Det var selvfølgelig ingen på besøk når jeg tok bildet.
 
 ![Eupatorium.]({{site.baseurl}}/assets/img/Eupatorium .JPG)
