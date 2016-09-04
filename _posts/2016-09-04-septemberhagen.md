@@ -26,7 +26,7 @@ Hjortetrøst er også en spennende høstplante. Det finnes litt forskjellige typ
 
 ![Eupatorium.]({{site.baseurl}}/assets/img/Eupatorium.JPG)
 
-Sedum har jeg flere typer av. Akkurat nå er det mørkbladet Sedum som er kommet lengst med fine høstfarger.
+Sedum har jeg flere typer av. Akkurat nå er det mørkbladet Sedum som er kommet lengst i blomst.
 
 ![Mørkbladet Sedum.]({{site.baseurl}}/assets/img/Mørkbladet Sedum.JPG)
 
