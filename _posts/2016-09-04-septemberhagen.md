@@ -38,7 +38,7 @@ Søyleblomst er også elsket av sommerfugler og humler. Her var jeg heldig å f�
 
 ![Liatris spicata.]({{site.baseurl}}/assets/img/Liatris spicata.JPG)
 
-Hortensia har jeg ikke vært særlig heldig med tidligere så derfor har det ikke vært mange av dem i hagen. I fjor kom jeg over denne Syrinhortensiaen og da var det gjort. Nå er det plutselig 4 nye her, men kun to som blomstrer i år.    
+Hortensia har jeg ikke vært særlig heldig med tidligere, så derfor har det ikke vært mange av dem i hagen. I fjor kom jeg over denne Syrinhortensiaen og da var det gjort. Nå er det plutselig 4 nye her, men kun to som blomstrer i år.    
 
 ![Hydranges paniculata Limelight.]({{site.baseurl}}/assets/img/Hydrangea paniculata  Limelight.JPG)
 
