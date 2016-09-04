@@ -1,7 +1,7 @@
 ---
 date: '2016-09-04 19:07 +0200'
 layout: post
-published: false
+published: true
 title: Septemberhagen
 thumbnail: Lysimachia%20clethroides.JPG
 description: >-
@@ -46,11 +46,3 @@ Hortensia har jeg ikke vært særlig heldig med tidligere så derfor har det ikk
 ![Hydrangea Macrophylla White in red.]({{site.baseurl}}/assets/img/Hydrangea Macrophylla White in red.JPG)
 
 Ha en fin ny uke!
-
-
-
-
-
-
-
-
