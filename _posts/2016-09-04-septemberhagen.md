@@ -45,7 +45,7 @@ Hortensia har jeg ikke vært særlig heldig med tidligere så derfor har det ikk
 
 ![Hydrangea Macrophylla White in red.]({{site.baseurl}}/assets/img/Hydrangea Macrophylla White in red.JPG)
 
-Ha en fin uke!
+Ha en fin ny uke!
 
 
 
