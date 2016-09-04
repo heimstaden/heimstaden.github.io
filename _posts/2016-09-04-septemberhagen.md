@@ -1,7 +1,7 @@
 ---
 date: '2016-09-04 19:07 +0200'
 layout: post
-published: false
+published: true
 title: Septemberhagen
 description: >-
   Vi har gått over i september og fått litt etterlengtet sol og varme. Mange
