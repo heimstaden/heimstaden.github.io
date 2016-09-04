@@ -30,9 +30,9 @@ Sedum har jeg flere typer av. Akkurat nå er det mørkbladet Sedum som er kommet
 
 ![Mørkbladet Sedum.]({{site.baseurl}}/assets/img/Mørkbladet Sedum.JPG)
 
-Duehode står også i full blomst på denne tiden. Den finnes også i hvit.
+Duehode,Chelone obliqua står også i full blomst på denne tiden. Den finnes også i hvit.
 
-![Chelone obliqua.]({{site.baseurl}}/assets/img/Chelone%20obliqua.JPG)
+![Duehode.]({{site.baseurl}}/assets/img/Duehode.JPG)
 
 Søyleblomst er også elsket av sommerfugler og humler. Her var jeg heldig å få besøk mens kamera var framme. Denne finnes også i hvit. 
 
@@ -40,7 +40,7 @@ Søyleblomst er også elsket av sommerfugler og humler. Her var jeg heldig å f�
 
 Hortensia har jeg ikke vært særlig heldig med tidligere så derfor har det ikke vært mange av dem i hagen. I fjor kom jeg over denne Syrinhortensiaen og da var det gjort. Nå er det plutselig 4 nye her, men kun to som blomstrer i år.    
 
-![Hydrangea paniculata Limelight.]({{site.baseurl}}/assets/img/Hydrangea paniculata Limelight.JPG)
+![Hydranges paniculata Limelight.]({{site.baseurl}}/assets/img/Hydrangea paniculata  Limelight.JPG)
 
 ![Hydrangea Macrophylla White in red.]({{site.baseurl}}/assets/img/Hydrangea Macrophylla White in red.JPG)
 
