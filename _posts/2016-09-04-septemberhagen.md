@@ -11,9 +11,7 @@ thumbnail: Liatris%20spicata.JPG
 ---
 
 Så er august over og vi går inn i den første skikkelige høstmåneden. Men hva skjer? Nå kommer solen med sommervarme og blå himmel. Det er bare å nyte.
-
 Det er helt utrolig at det finnes planter igjen som ikke har gitt opp. Høstblomstrende stauder forlenger sesongen og lyser opp.
-
 Hvitfredløs blomstrer med nikkende blomster. Den tar etterhvert stor plass, så den må passes litt på slik at den ikke tar overhånd i bedet. 
 
 ![Lysimachia clethroides.]({{site.baseurl}}/assets/img/Lysimachia clethroides.JPG)
