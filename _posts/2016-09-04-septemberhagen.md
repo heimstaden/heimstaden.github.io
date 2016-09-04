@@ -6,6 +6,7 @@ title: Septemberhagen
 description: >-
   Vi har gått over i september og fått litt etterlengtet sol og varme. Mange
   flotte planter som blomstrer om høsten også.
+thumbnail: Lysimachia%20clethroides.JPG
 ---
 
 Så er august over og vi går inn i den første skikkelige høstmåneden. Men hva skjer? Nå kommer solen med sommervarme og blå himmel. Det er bare å nyte.
