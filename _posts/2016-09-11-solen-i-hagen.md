@@ -1,7 +1,7 @@
 ---
 date: '2016-09-11 20:42 +0200'
 layout: post
-published: false
+published: true
 title: Solen i hagen
 thumbnail: Gazania%201.JPG
 description: >-
@@ -33,15 +33,3 @@ Den trives best i sol. I sommer har det vært lite sol og det er sikkert derfor 
 ![Gazania Sunshine Mix.]({{site.baseurl}}/assets/img/Gazania 6.JPG)
 
 Ha en flott ny høstuke.
-
-
-
-
-
-
-
-
-
-
-
-
