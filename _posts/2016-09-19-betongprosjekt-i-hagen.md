@@ -20,6 +20,22 @@ Først blandet jeg tørrbetong med vann for å få en passe konsistens som ikke 
 Betongen fikk tørke et par dager før jeg tok de ut av formene og fjernet restene av bladene. Deretter skulle de herde. Jeg lot de ligge ute slik at de fikk regn på seg og på solfylte dager dusjet jeg dem med vann.
 Her er resultatet så langt. 
 
+![Betonghelle med Ricinusblad.]({{site.baseurl}}/assets/img/Betonghelle med Ricinusblad.JPG)
+
+![Betonghelle med Marikåpeblader.]({{site.baseurl}}/assets/img/Betonghelle med marikåpe.JPG)
+
+![Betonghelle med hostablad.]({{site.baseurl}}/assets/img/Betonghelle med hostablad.JPG)
+
+![Betongheller.]({{site.baseurl}}/assets/img/Betongheller.JPG)
+
+Av restene laget jeg også en blomsterpotte av et gammelt kjøkkenhåndkle. Jeg gned betongen godt over hele håndkle og la det til tørk over en plastbøtte i et par dager. Vips så fikk jeg en ny potte. 
+
+![Betongpotte.]({{site.baseurl}}/assets/img/Betongpotte av gamle filler.JPG)
+
+Dette var utrolig gøy og jeg gleder meg til å lage flere. 
+
+
+
 
 
 
