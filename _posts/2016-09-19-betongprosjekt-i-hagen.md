@@ -13,7 +13,15 @@ Først blandet jeg tørrbetong med vann for å få en passe konsistens som ikke 
 
 ![Plastikkbalje med hostablad.]({{site.baseurl}}/assets/img/Plastikkbalje med hostablad.JPG)
 
+![Form av vaskebalje i plastikk.]({{site.baseurl}}/assets/img/Form av vaskebalje.JPG)
+
 <!--more-->
+
+Betongen fikk tørke et par dager før jeg tok de ut av formene og fjernet restene av bladene. Deretter skulle de herde. Jeg lot de ligge ute slik at de fikk regn på seg og på solfylte dager dusjet jeg dem med vann.
+Her er resultatet så langt. 
+
+
+
 
 
 
