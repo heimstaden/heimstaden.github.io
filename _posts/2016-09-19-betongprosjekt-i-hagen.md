@@ -1,7 +1,7 @@
 ---
 date: '2016-09-19 19:58 +0200'
 layout: post
-published: false
+published: true
 title: Betongprosjekt i hagen
 thumbnail: Betonghelle%20med%20Ricinusblad.JPG
 description: >-
@@ -36,13 +36,4 @@ Av restene laget jeg også en blomsterpotte av et gammelt kjøkkenhåndkle. Jeg 
 
 ![Betongpotte.]({{site.baseurl}}/assets/img/Betongpotte av gamle filler.JPG)
 
-Dette var utrolig gøy og jeg gleder meg til å lage flere. 
-
-
-
-
-
-
-
-
-
+Dette var utrolig gøy og jeg gleder meg til å lage flere.
