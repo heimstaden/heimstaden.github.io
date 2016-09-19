@@ -11,4 +11,10 @@ Først blandet jeg tørrbetong med vann for å få en passe konsistens som ikke 
 
 ![Blanding av betong.]({{site.baseurl}}/assets/img/Blanding%20av%20betong.JPG)
 
+![Plastikkbalje med hostablad.]({{site.baseurl}}/assets/img/Plastikkbalje med hostablad.JPG)
+
+<!--more-->
+
+
+
 
