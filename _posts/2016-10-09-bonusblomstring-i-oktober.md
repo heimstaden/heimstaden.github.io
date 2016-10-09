@@ -3,6 +3,11 @@ date: '2016-10-09 20:44 +0200'
 layout: post
 published: false
 title: Bonusblomstring i oktober
+thumbnail: Engletrompet.JPG
+description: >-
+  Høsten er her for fullt og da kommer gjerne noen av staudene med en ekstra
+  blomstring. Nå er det snart på tide å ta inn overvintringsplantene, og jeg
+  venter bare litt til.
 ---
 
 Vi har allerede kommet en uke inn i oktober og for en uke. Sol og blå himmel hver eneste dag og det skal vare langt ut i neste uke.  Det passer meg bra for da er jeg så heldig å ha høstferie. 
