@@ -5,9 +5,9 @@ published: false
 title: Bonusblomstring i oktober
 thumbnail: Engletrompet.JPG
 description: >-
-  Høsten er her for fullt og da kommer gjerne noen av staudene med en ekstra
-  blomstring. Nå er det snart på tide å ta inn overvintringsplantene, og jeg
-  venter bare litt til.
+  Høsten er her for fullt og det er høstblomstenes tid.  Da kommer også noen av
+  staudene med en ekstra blomstring. Nå er det snart på tide å ta inn
+  overvintringsplantene, og jeg venter bare litt til.
 ---
 
 Vi har allerede kommet en uke inn i oktober og for en uke. Sol og blå himmel hver eneste dag og det skal vare langt ut i neste uke.  Det passer meg bra for da er jeg så heldig å ha høstferie. 
@@ -32,6 +32,7 @@ Så er det også noen som kommer med en ny runde med blomster på høsten. Roser
 ![Gjenblomstring på Gebruder Grimm.]({{site.baseurl}}/assets/img/Gjenblomstring på Rose Gebruder Grimm.JPG)
 
 ![Astrantia Venice.]({{site.baseurl}}/assets/img/Astrantia Venice.JPG)
+
 
 ![Geranium Rozanne.]({{site.baseurl}}/assets/img/Geranium Rozanne.JPG)
 
