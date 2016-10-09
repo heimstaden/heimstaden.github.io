@@ -14,6 +14,7 @@ Vi har allerede kommet en uke inn i oktober og for en uke. Sol og blå himmel hv
 Nå er de fleste Fuchsia tatt inn og potter og kar er vasket og ryddet vekk. De andre inn - og ut plantene skal snart få komme i hus. Klarer ikke å ta inn engletrompeter som står i blomst riktig enda. Trykker du inn på bildene få du opp navnene på plantene.
 
 ![Brugmansia Salmon Perfection.]({{site.baseurl}}/assets/img/Engletrompet.JPG)
+
 Nå skal hagen klargjøres til vinteren og løk skal plantes. Stauder har blitt delt og noen bed har fått seg en ansiktsløfting. Men fortsatt kan vi nyte høstblomstene. En av dem som jeg synes er blant de fineste på denne tiden er oktoberbergknapp eller Sedum Spectabile. Den er elsket av alle insekter og på denne tiden summer det godt her. 
 
 ![Sedum Spectabile.]({{site.baseurl}}/assets/img/Oktoberbergknapp.JPG)
