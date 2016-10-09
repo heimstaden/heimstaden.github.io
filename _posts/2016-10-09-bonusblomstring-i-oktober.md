@@ -1,7 +1,7 @@
 ---
 date: '2016-10-09 20:44 +0200'
 layout: post
-published: false
+published: true
 title: Bonusblomstring i oktober
 ---
 
@@ -33,11 +33,4 @@ Det er jo også noen sommerblomster som ikke har gitt opp. Cosmos i motlys gir j
 
 ![Cosmos.]({{site.baseurl}}/assets/img/Cosmos.JPG)
 
-Ønsker alle en fin ny høstuke. 
-
-
-
-
-
-
-
+Ønsker alle en fin ny høstuke.
