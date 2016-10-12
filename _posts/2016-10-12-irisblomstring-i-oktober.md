@@ -1,7 +1,7 @@
 ---
 date: '2016-10-12 18:09 +0200'
 layout: post
-published: false
+published: true
 title: Irisblomstring i oktober
 description: >-
   Dette må kalles bonusblomstring utenom det vanlige. Iris er en av mine
@@ -25,7 +25,3 @@ En oppstammet Fuchsia har også fått lov til å bli igjen ute noen dager til. H
 Den har jeg hatt i mange år nå, og den blir større og større for hvert år.
 
 ![Fuchsia Walz Jubelteen.]({{site.baseurl}}/assets/img/Fuchsia Walz Jubelteen.JPG)
-
-
-
-
