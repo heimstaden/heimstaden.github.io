@@ -5,7 +5,7 @@ published: false
 title: Irisblomstring i oktober
 ---
 
-Dette var da en gledelig overraskelse som virkelig må kalles bonusblomstring utenom det vanlige.  Navnet er Iris germanica Night Owl. Kjøpt På Keukenhof i Nederland i 2015. Jeg hadde et håp om blomstring i år, men når juni, juli og august var over glemte jeg alt som het iris. De fantastiske ukene med fint vær i september og oktober har kanskje gitt den en følelse av sommer. Jeg har ventet spent noen dager nå for å se om den klarte å åpne seg før frosten satte inn. Bare noen hundere meter unna har frosten gjort sitt inntog. Alltid gøy med nye planter som blomstrer for første gang.
+Dette var da en gledelig overraskelse. Navnet er Iris germanica Night Owl. Kjøpt På Keukenhof i Nederland i 2015. Jeg hadde et håp om blomstring i år, men når juni, juli og august var over glemte jeg alt som het iris. De fantastiske ukene med fint vær i september og oktober har kanskje gitt den en følelse av sommer. Jeg har ventet spent noen dager nå for å se om den klarte å åpne seg før frosten satte inn. Bare noen hundere meter unna har frosten gjort sitt inntog. Alltid gøy med nye planter som blomstrer for første gang.
 
 ![Iris germanica Night Owl.]({{site.baseurl}}/assets/img/Iris germanica Night Owl.JPG)
 
