@@ -22,6 +22,6 @@ En oppstammet Fuchsia har også fått lov til å bli igjen ute noen dager til. H
 
 ![Oppstammet Fuchsia med høstblomster.]({{site.baseurl}}/assets/img/Oppstammet%20Fuchsia%20sammen%20med%20h%C3%B8stblomster.JPG)
 
-Den har jeg hatt i mange år nå, og den blir større og større for hvert år.
+Denne Fuchsiaen har jeg hatt i mange år nå, og den blir større og større for hvert år.
 
 ![Fuchsia Walz Jubelteen.]({{site.baseurl}}/assets/img/Fuchsia Walz Jubelteen.JPG)
