@@ -17,7 +17,7 @@ etter blomstring kommer de med en ny blomstring på høsten. De står lenge og e
 ![Hvit Astrantia Major.]({{site.baseurl}}/assets/img/Hvit stjerneskjerm.JPG)
 <!--more-->
 Geranium pleier også å komme igjen på nytt på høsten. Det har det vært dårlig med i år og det savner jeg. De gjør mye av seg.
-![Ukjent Geranium.]({{site.baseurl}}/assets/img/Ukjent%20Geranium.JPG)
+
 Høstphlox er en staude som kommer i mange ulike farger og mange lukter godt av en krydderaktig duft. 
 ![Phlox Purple Eye Flame.]({{site.baseurl}}/assets/img/Phlox Purple Eye Flame.JPG)
 Dahlia er en sommerblomst som jeg liker godt. I år har den vært sen med å blomstre.  Men noen har vist seg fram. 
