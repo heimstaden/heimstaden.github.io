@@ -17,7 +17,7 @@ Stjerneskjermene Astrantia Major har også blomstret fint i forskjellige farger.
 <!--more-->
 Storknebb er en av favorittene som ofte blir vist fram. 
 ![Ukjent Geranium.]({{site.baseurl}}/assets/img/Storknebb.JPG)
-Høstphlox er en staude som kommer i mange ulike farger og mange lukter godt av en krydderaktig duft. 
+Høstphlox er en staude som kommer i mange ulike farger og har en krydderaktig duft. 
 ![Phlox Purple Eye Flame.]({{site.baseurl}}/assets/img/Phlox Purple Eye Flame.JPG)
 Dahlia er en sommerblomst som jeg liker godt. I år har den vært sen med å blomstre.  Men noen har vist seg fram. 
 ![Ukjent Dahlia.]({{site.baseurl}}/assets/img/Dahlia uten navn.JPG)
