@@ -1,7 +1,7 @@
 ---
 date: '2016-10-20 19:09 +0200'
 layout: post
-published: false
+published: true
 title: Tilbakeblikk
 thumbnail: Hvit%20stjerneskjerm.JPG
 description: >-
@@ -24,9 +24,3 @@ Dahlia er en sommerblomst som jeg liker godt. I år har den vært sen med å blo
 ![Ukjent Dahlia.]({{site.baseurl}}/assets/img/Dahlia uten navn.JPG)
 ![Dahlia Arabian Night.]({{site.baseurl}}/assets/img/Dahlia Arabian night.JPG)
 ![Dahlia Famosa.]({{site.baseurl}}/assets/img/Dahlia Famosa.JPG)
-
-
-
-
-
-
