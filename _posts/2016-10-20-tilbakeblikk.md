@@ -5,7 +5,7 @@ published: false
 title: Tilbakeblikk
 thumbnail: Hvit%20stjerneskjerm.JPG
 description: >-
-  Solhatt, phlox og Dahlia er planter som blomstrer langt utover høsten. Er du
+  Solhatt, Phlox og Dahlia er planter som blomstrer langt utover høsten. Er du
   heldig får du også en nytt flor av stjerneskjerm og storknebb.
 ---
 Sommeren er over for denne gang, men bildene av sommerens blomster er godt lagret og kan hentes fram når som helst.  Favorittene har en tendens til å bli hentet fram mange ganger, mens andre har ikke blitt vist fram en eneste gang. De fortjener nå å komme fram i dagens lys. 
