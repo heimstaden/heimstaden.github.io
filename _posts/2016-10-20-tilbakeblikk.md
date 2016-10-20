@@ -1,7 +1,7 @@
 ---
 date: '2016-10-20 19:09 +0200'
 layout: post
-published: true
+published: false
 title: Tilbakeblikk
 thumbnail: Hvit%20stjerneskjerm.JPG
 description: >-
