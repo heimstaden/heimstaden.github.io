@@ -10,27 +10,28 @@ prose:
   media: 'assets/img'
   metadata:
     _posts:
-        
+
       - name: "layout"
         field:
           element: "hidden"
           value: "post"
-      
+
       - name: "date"
         field:
           element: "hidden"
           value: "CURRENT_DATETIME"
-          
+
       - name: "title"
         field:
           element: "text"
           label: "title"
-          
+
       - name: "thumbnail"
         field:
           element: "text"
           label: "Thumbnail file name"
-          
+          media: "assets/img/tn"
+
       - name: "description"
         field:
           element: "text"
