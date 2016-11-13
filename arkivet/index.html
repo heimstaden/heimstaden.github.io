@@ -6,12 +6,12 @@ description: "Her i arkivet finner du alle de gamle bloggpostene."
 thumbnail: "Rosen%20Goldelse%20sammen%20med%20primula%20vialii.JPG"
 ---
 <article class="archive">
-    
+
 <header class="post-header">
 <h1 class="post-title" itemprop="name headline">{{ page.title }}</h1>
 <p class="post-meta"><time datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">{{ page.date | date: "%b %-d, %Y" }}</time>{% if page.author %} • <span itemprop="author" itemscope itemtype="http://schema.org/Person"><span itemprop="name">{{ page.author }}</span></span>{% endif %}</p>
   </header>
-    
+
 <!--<div class="archive-content">
 
   <h2>&Aring;rets poster</h2>
@@ -31,18 +31,18 @@ thumbnail: "Rosen%20Goldelse%20sammen%20med%20primula%20vialii.JPG"
   {% endfor %}
   </ul>
     </div>-->
-    
+
     <div class="arkivet">
             {%for post in site.posts %}
         <div class="kort"><a href="{{post.url}}">
-            <div style="background-image:url('/assets/img/{{post.thumbnail}}')"></div>
+            <div style="background-image:url('/assets/img/tn/{{post.thumbnail}}')"></div>
             <h3>{{post.title}}</h3>
             <p><time>{{ post.date | date:"%d %b, %Y" }}</time></p>
             <p>{{post.description}}</p>
-            
+
     </a></div>
         {% endfor %}
-            
+
     </div>
-    
+
 </article>
