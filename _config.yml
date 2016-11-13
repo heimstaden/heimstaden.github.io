@@ -30,7 +30,6 @@ prose:
         field:
           element: "text"
           label: "Thumbnail file name"
-          media: "assets/img/tn"
 
       - name: "description"
         field:
