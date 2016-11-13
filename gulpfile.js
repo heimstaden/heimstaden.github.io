@@ -60,19 +60,28 @@ gulp.task('sass', function () {
 });
 
 // Images
-// resize and compress 
+// resize and compress
 
-gulp.task('images', function () {
+gulp.task('image1', function () {
   gulp.src('img/*')
-    .pipe(imageResize({ 
-        width : 1920,
+    .pipe(imageResize({
+        width : 1440,
         filter: 'catrom'
     }))
-    .pipe(imageMin())
+    .pipe(imageMin({progressive: true}))
     .on('error', errorLog)
     .pipe(gulp.dest('assets/img'));
 });
-
+gulp.task('image2', function () {
+  gulp.src('img/*')
+    .pipe(imageResize({
+        width : 300,
+        filter: 'catrom'
+    }))
+    .pipe(imageMin({progressive: true}))
+    .on('error', errorLog)
+    .pipe(gulp.dest('assets/img/tn'));
+});
 
 // Scripts Task
 // Uglifies
@@ -109,3 +118,4 @@ gulp.task('watch', function () {
  * compile the jekyll site, launch BrowserSync & watch files.
  */
 gulp.task('default', ['browser-sync', 'watch']);
+gulp.task('images', ['image1', 'image2']);
