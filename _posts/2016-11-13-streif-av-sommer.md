@@ -15,8 +15,8 @@ Etter noen tekniske problemer med bloggen, er den nå oppe og går igjen. Da vin
 ![Byparken i Malaga 2]({{site.baseurl}}/assets/img/IMG_1952.JPG)
 <!--more-->
 
-Rett utenfor sentrum finnes det en flott botanisk hage. Den har trolig europas største samling av tropiske planter. La Concepcións samling av planter er helt fantastisk også på denne tiden av året. Plantene er samlet fra hele verden. Absolutt verdt et besøk hvis du er i Malaga.
-Her kommer noen bilder herfra. 
+Rett utenfor sentrum finnes det en flott botanisk hage. Den har trolig Europas største samling av tropiske planter. La Concepcións samling av planter er helt fantastisk også på denne tiden av året. Plantene er samlet fra hele verden. Absolutt verdt et besøk hvis du er i Malaga.
+Her kommer noen bilder fra hagen: 
 
 ![Staselig palme]({{site.baseurl}}/assets/img/Staselig palme.JPG)
 ![Botanisk hage 2]({{site.baseurl}}/assets/img/IMG_1967.JPG)
