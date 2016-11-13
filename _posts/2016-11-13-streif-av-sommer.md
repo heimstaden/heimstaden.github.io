@@ -18,6 +18,6 @@ Her kommer noen bilder herfra.
 ![Botanisk hage 3]({{site.baseurl}}/assets/img/IMG_2133.JPG)
 ![Botanisk hage 4]({{site.baseurl}}/assets/img/IMG_2150.JPG)
 ![Botanisk hage 5]({{site.baseurl}}/assets/img/IMG_2161.JPG)
-![Botanisk hage 6]({{site.baseurl}}/assets/img/IMG_2150.JPG)
+![Botanisk hage 6]({{site.baseurl}}/assets/img/IMG_2172.JPG)
 ![Botanisk hage 7]({{site.baseurl}}/assets/img/IMG_2186.JPG)
 
