@@ -1,7 +1,7 @@
 ---
 date: '2016-11-13 19:24 +0100'
 layout: post
-published: false
+published: true
 title: Streif av sommer
 thumbnail: Staselig%20palme.JPG)
 description: >-
@@ -25,4 +25,3 @@ Her kommer noen bilder fra hagen:
 ![Botanisk hage 5]({{site.baseurl}}/assets/img/IMG_2161.JPG)
 ![Botanisk hage 6]({{site.baseurl}}/assets/img/IMG_2172.JPG)
 ![Botanisk hage 7]({{site.baseurl}}/assets/img/IMG_2186.JPG)
-
