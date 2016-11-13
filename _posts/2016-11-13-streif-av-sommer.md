@@ -1,7 +1,7 @@
 ---
 date: '2016-11-13 19:24 +0100'
 layout: post
-published: false
+published: true
 title: Streif av sommer
 thumbnail: Staselig%20palme.JPG
 description: >-
