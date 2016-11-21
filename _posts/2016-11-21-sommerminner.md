@@ -23,8 +23,6 @@ I dag er det en måned til solen snur. Det feires ved å hente opp bilder fra so
 
 ![Blomster i sommersol]({{site.baseurl}}/assets/img/Blomster%20i%20sommersol.JPG)
 
-![Martagonlilje]({{site.baseurl}}/assets/img/Lilium%20Martagon%20Arabian%20Knight.JPG)
-
 ![Dahlia]({{site.baseurl}}/assets/img/Dahlia.JPG)![Dahlia.JPG]
 
 ![Riddersporer]({{site.baseurl}}/assets/img/Riddersporer.JPG)
