@@ -13,18 +13,19 @@ I dag er det en måned til solen snur. Det feires ved å hente opp bilder fra so
 
 ![Orientvalmue]({{site.baseurl}}/assets/img/Orientvalmue.JPG)
 
-![Stemor og Nemesia]({{site.baseurl}}/assets/img/Stemor og Nemesia.JPG)
+![Stemor og Nemesia]({{site.baseurl}}/assets/img/Stemor%20og%20Nemesia.JPG)
 
 <!--more-->
 
-![Clematis og riddersporer]({{site.baseurl}}/assets/img/Clematis og ridderspore.JPG)
+![Clematis og riddersporer]({{site.baseurl}}/assets/img/Clematis%20og%20ridderspore.JPG)
 
 ![Ringblomster]({{site.baseurl}}/assets/img/Ringblomster.JPG)
 
-![Blomster i sommersol]({{site.baseurl}}/assets/img/Blomster i sommersol.JPG)
+![Blomster i sommersol]({{site.baseurl}}/assets/img/Blomster%20i%20sommersol.JPG)
 
-![Lillum Martagon Arabian Knight]({{site.baseurl}}/assets/img/Lilium%20Martagon%20Arabian%20Knight.JPG)
+![Martagonlilje]({{site.baseurl}}/assets/img/Lilium%20Martagon%20Arabian%20Knight.JPG)
 
-![Dahlia]({{site.baseurl}}/assets/img/Dahlia.JPG)
+![Dahlia]({{site.baseurl}}/assets/img/Dahlia.JPG)![Dahlia.JPG]({{site.baseurl}}/assets/img/Dahlia.JPG)
 
 ![Riddersporer]({{site.baseurl}}/assets/img/Riddersporer.JPG)
+
