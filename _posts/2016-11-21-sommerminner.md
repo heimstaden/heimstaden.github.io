@@ -3,6 +3,10 @@ date: '2016-11-21 20:43 +0100'
 layout: post
 published: false
 title: Sommerminner
+thumbnail: Orientvalmue.JPG
+description: >-
+  Det spesielle lyset som er på en god sommerdag er fint å varme seg på når vi
+  går inn i den siste måneden før solen snur.
 ---
 
 I dag er det en måned til solen snur. Det feires ved å hente opp bilder fra sommeren med det herlige lyset som finnes på gode sommerdager. Blomstenes farger blir mer intense og man kjenner nesten sommervarmen. Det er gode sommerminner i mørke novemberdager. Disse bildene er hentet helt tilbake fra drømmesommeren 2014.
