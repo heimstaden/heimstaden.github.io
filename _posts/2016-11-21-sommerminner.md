@@ -1,0 +1,31 @@
+---
+date: '2016-11-21 20:43 +0100'
+layout: post
+published: false
+title: Sommerminner
+---
+
+I dag er det en måned til solen snur. Det feires ved å hente opp bilder fra sommeren med det herlige lyset som finnes på gode sommerdager. Blomstenes farger blir mer intense og man kjenner nesten sommervarmen. Det er gode sommerminner i mørke novemberdager. Disse bildene er hentet helt tilbake fra drømmesommeren 2014.
+
+![Orientvalmue]({{site.baseurl}}/assets/img/Orientvalmue.JPG)
+
+![Stemor og Nemesia]({{site.baseurl}}/assets/img/Stemor og Nemesia.JPG)
+
+<!--more-->
+
+![Clematis og riddersporer]({{site.baseurl}}/assets/img/Clematis og ridderspore.JPG)
+
+![Ringblomster]({{site.baseurl}}/assets/img/Ringblomster.JPG)
+
+![Blomster i sommersol]({{site.baseurl}}/assets/img/Blomster i sommersol.JPG)
+
+![Lillum Martagon Arabian Knight]({{site.baseurl}}/assets/img/Lilium%20Martagon%20Arabian%20Knight.JPG)
+
+![Dahlia]({{site.baseurl}}/assets/img/Dahlia.JPG)
+
+![Riddersporer]({{site.baseurl}}/assets/img/Riddersporer.JPG)
+
+
+
+
+
