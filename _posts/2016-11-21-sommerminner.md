@@ -13,13 +13,9 @@ I dag er det en måned til solen snur. Det feires ved å hente opp bilder fra so
 
 ![Orientvalmue]({{site.baseurl}}/assets/img/Orientvalmue.JPG)
 
-![Stemor og Nemesia]({{site.baseurl}}/assets/img/Stemor%20og%20Nemesia.JPG)
+![Ringblomster]({{site.baseurl}}/assets/img/Ringblomster.JPG)
 
 <!--more-->
-
-![Clematis og riddersporer]({{site.baseurl}}/assets/img/Clematis%20og%20ridderspore.JPG)
-
-![Ringblomster]({{site.baseurl}}/assets/img/Ringblomster.JPG)
 
 ![Blomster i sommersol]({{site.baseurl}}/assets/img/Blomster%20i%20sommersol.JPG)
 
