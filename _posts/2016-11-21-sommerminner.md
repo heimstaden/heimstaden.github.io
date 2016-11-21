@@ -1,7 +1,7 @@
 ---
 date: '2016-11-21 20:43 +0100'
 layout: post
-published: false
+published: true
 title: Sommerminner
 thumbnail: Orientvalmue.JPG
 description: >-
@@ -28,4 +28,3 @@ I dag er det en måned til solen snur. Det feires ved å hente opp bilder fra so
 ![Dahlia]({{site.baseurl}}/assets/img/Dahlia.JPG)![Dahlia.JPG]({{site.baseurl}}/assets/img/Dahlia.JPG)
 
 ![Riddersporer]({{site.baseurl}}/assets/img/Riddersporer.JPG)
-
