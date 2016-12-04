@@ -3,7 +3,7 @@ date: '2016-05-28 17:40 +0200'
 layout: post
 published: true
 title: Tid for akeleier
-thumbnail: Rosa%20akeleie.jpg
+thumbnail: Aquilegia%20vulgaris%20Pink%20Petticoat.JPG
 description: >-
   Når akeleiene blomstrer har sommeren startet. Her er de jeg har i hagen for
   tiden.
