@@ -24,8 +24,6 @@ Noen er enkle og noen fylte. Det er like spennende hvert år for å se om det er
 
 ![Mørk akeleie.]({{site.baseurl}}/assets/img/Mørk akeleie.JPG)
 
-![Rosa akeleie.]({{site.baseurl}}/assets/img/Rosa akeleie.jpg)
-
 De som jeg viser bilder av her, har jeg hatt i mange år, andre blir værende bare et par år. 
 Akeleier kan du så selv, eller la plantene få frøså seg selv. Men hvis du ikke vil ha akeleier i hele hagen, kan det være lurt å fjerne noen av frøhusene. Jeg sår akeleier på vinteren og setter pottene ut, for noen frø trenge kuldebehandling for å spire. 
 
