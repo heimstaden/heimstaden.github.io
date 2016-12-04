@@ -1,10 +1,12 @@
 ---
-date: "2016-05-28 17:40 +0200"
+date: '2016-05-28 17:40 +0200'
 layout: post
 published: true
 title: Tid for akeleier
-thumbnail: "Rosa%20akeleie.jpg"
-description: Når akeleiene blomstrer har sommeren startet. Her er de jeg har i hagen for tiden.
+thumbnail: Rosa%20akeleie.jpg
+description: >-
+  Når akeleiene blomstrer har sommeren startet. Her er de jeg har i hagen for
+  tiden.
 ---
 
 Akeleier er utrolig elegante blomster som du finner i en mengde farger og former. 
