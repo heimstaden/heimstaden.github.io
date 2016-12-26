@@ -3,6 +3,10 @@ date: '2016-12-26 14:32 +0100'
 layout: post
 published: false
 title: Hagesesongen 2016. Fra januar til april
+thumbnail: Islykter.JPG
+description: >-
+  Her kommer et tilbakeblikk på 2016. Jeg starter med månedene januar til og med
+  april.
 ---
 
 I januar gikk startskuddet for hagesesongen 2016.  Da ble det sådd en rekke stauder som skulle få stå ute i kulden frem til våren. I tillegg kom også stemorsfrø og blodbegerfrø i jorden inne. Snø og frost gjorde det endelig mulig å lage islykter.
