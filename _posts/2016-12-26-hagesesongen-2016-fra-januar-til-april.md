@@ -1,7 +1,7 @@
 ---
 date: '2016-12-26 14:32 +0100'
 layout: post
-published: false
+published: true
 title: Hagesesongen 2016. Fra januar til april
 thumbnail: Islykter.JPG
 description: >-
