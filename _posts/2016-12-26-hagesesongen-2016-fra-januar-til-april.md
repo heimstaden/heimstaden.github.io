@@ -19,7 +19,7 @@ I mars begynte det virkelig å skje noe. Snøklokker, iris og tidlige krokus str
 
 ![Galanthus nivalis.]({{site.baseurl}}/assets/img/Galanthus nivalis.JPG)
 
-![Iris Katharine Hodgkin.]({{site.baseurl}}/assets/img/Iris%20Katharine%20Hodgkin.JPG)
+![Iris  Katharine Hodgkin]({{site.baseurl}}/assets/img/Iris%20Katharine%20Hodgkin.JPG)
 
 ![Ukjent krokus]({{site.baseurl}}/assets/img/Ukjent krokus.JPG)
 
