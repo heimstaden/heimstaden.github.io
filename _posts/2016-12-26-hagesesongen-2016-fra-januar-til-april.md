@@ -31,8 +31,6 @@ April står i primulaenes tegn hos oss. Det er da våren tar skikkelig av, hvis 
 
 ![Narcisser]({{site.baseurl}}/assets/img/Narcisser.JPG)
 
-![Ukjent krokus]({{site.baseurl}}/assets/img/Ukjent%20krokus.JPG)
-
 ![Pulsatilla vulgaris]({{site.baseurl}}/assets/img/Pulsatilla%20vulgaris.JPG)![Pulsatilla vulgaris.JPG]({{site.baseurl}}/assets/img/Pulsatilla vulgaris.JPG)
 
 
