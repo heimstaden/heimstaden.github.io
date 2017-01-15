@@ -20,7 +20,7 @@ Trykker du inn på bildene, får du opp navnene på de plantene jeg kjenner det 
 
 Neste favoritt var blåregnen som jeg har hatt i hagen i fire år uten å se en eneste blomst. Jeg hadde nesten gitt opp håpet, men så bestemte den seg for å komme med en eneste blomst. Med den deilige duften måtte den jo bli en favoritt. Aner ikke hvor mange ganger jeg gikk forbi den for å lukte. 
 
-![Wisteria floibunda Naga Noda]({{site.baseurl}}/assets/img/Wisteria%20Floribunda%20Naga%20Noda.JPG)
+![Wisteria floibunda Naga Noda]({{site.baseurl}}/assets/img/Wisteria Floribunda Naga Noda.JPG)
 
 Juni er også storkenebbene sin tid. Har etter hvert fått en liten samling av disse. Geranium magnificum Rosemoor får æren av å representere disse. 
 
