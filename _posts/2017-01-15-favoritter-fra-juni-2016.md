@@ -20,7 +20,7 @@ Trykker du inn på bildene, får du opp navnene på de plantene jeg kjenner det 
 
 Neste favoritt var blåregnen som jeg har hatt i hagen i fire år uten å se en eneste blomst. Jeg hadde nesten gitt opp håpet, men så bestemte den seg for å komme med en eneste blomst. Med den deilige duften måtte den jo bli en favoritt. Aner ikke hvor mange ganger jeg gikk forbi den for å lukte. 
 
-![Wisteria floibunda Naga Noda]({{site.baseurl}}/assets/img/Wisteria Floribunda Naga Noda.JPG)
+![Wisteria Floribunda Naga Noda]({{site.baseurl}}/assets/img/Wisteria%20Floribunda%20Naga%20Noda.JPG)
 
 Juni er også storkenebbene sin tid. Har etter hvert fått en liten samling av disse. Geranium magnificum Rosemoor får æren av å representere disse. 
 
@@ -36,7 +36,8 @@ Iris må jeg ha med på favorittlisten. Det begynner etter hvert å bli mange av
 
 Riddersporene starter også blomstringen i juni. Høye og flotte i mange fargevarianter. Liker så godt fargen på denne ukjente riddersporen. Helt klart en av riddersporefavorittene.
 
-![Ukjent Delphinium.]({{site.baseurl}}/assets/img/Ukjent Delphinium.JPG)
+![Delphiniumfavoritt]({{site.baseurl}}/assets/img/Delphiniumfavoritt.JPG)
+
 
 De siste to som også må få lov til å være med er Allium og Lerkespore. Den høyreiste Alliumen som står så lenge i blomst. Etter blomstring får den lov til å dekorere hagen med sine flotte frøstander. Lerkesporen Corydalis panda får avslutte junifavorittene.  Med sin intense blåfarge lyser den opp i hagen. Gleder meg til å se alle igjen om noen måneder!
 
