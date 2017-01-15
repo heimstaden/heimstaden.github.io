@@ -1,7 +1,7 @@
 ---
 date: '2017-01-15 16:29 +0100'
 layout: post
-published: true
+published: false
 title: Favoritter fra juni 2016
 thumbnail: Meconopsis%20grandis%20burgundy.JPG
 description: >-
@@ -9,7 +9,7 @@ description: >-
   Noen nykommere og noen gamle bekjente.
 ---
 
-Juni er også en måned med mange favoritter. Så juni får også sitt eget innlegg. I fjor fikk jeg enda flere favoritter når nykommerne også begynte å blomstre. To nye Valmuesøstre blomstret for første gang i juni. De ble sådd vinteren 2014 og fikk umiddelbart status som favoritter. 
+Juni er også en måned med mange favoritter. I fjor fikk jeg enda flere favoritter når nykommerne også begynte å blomstre. To nye Valmuesøstre blomstret for første gang i juni. De ble sådd vinteren 2014 og fikk umiddelbart status som favoritter. 
 Trykker du inn på bildene, får du opp navnene på de plantene jeg kjenner det riktige navnet på.
 
 ![Meconopsis grandis Burgundy.]({{site.baseurl}}/assets/img/Meconopsis grandis burgundy.JPG)
