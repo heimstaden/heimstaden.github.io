@@ -40,7 +40,7 @@ Riddersporene starter også blomstringen i juni. Høye og flotte i mange fargeva
 ![Delphiniumfavoritt]({{site.baseurl}}/assets/img/Delphiniumfavoritt.JPG)
 
 
-De siste to som også må få lov til å være med er Allium og Lerkespore. Den høyreiste Alliumen som står så lenge i blomst. Etter blomstring får den lov til å dekorere hagen med sine flotte frøstander. Lerkesporen Corydalis panda får avslutte junifavorittene.  Med sin intense blåfarge lyser den opp i hagen. Gleder meg til å se alle igjen om noen måneder!
+De siste to som også må få lov til å være med er Allium og Lerkespore. Den høyreiste Alliumen som står så lenge i blomst. Etter blomstring dekorerer den hagen med sine flotte frøstander. Lerkesporen Corydalis panda får avslutte junifavorittene.  Med sin intense blåfarge lyser den opp i hagen. Gleder meg til å se alle igjen om noen måneder!
 
 ![Allium Purple Sensation.]({{site.baseurl}}/assets/img/Allium Purple Sensation.JPG)
 
