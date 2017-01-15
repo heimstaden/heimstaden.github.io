@@ -31,7 +31,7 @@ I de siste årene har det også kommet noen pioner inn i hagen. Trodde de var s�
 
 ![Paeonia lactiflora immaculee.]({{site.baseurl}}/assets/img/Paeonia lactiflora Immaculee.JPG)
 
-Iris må jeg ha med på favorittlisten. Det begynner etter hvert å bli mange av dem, så denne ukjente iris får representere irisfavorittene.
+Iris må jeg ha med på favorittlisten. Det begynner etter hvert å bli mange av dem, så denne ukjente irisen får representere irisfavorittene.
 
 ![Ukjent iris.]({{site.baseurl}}/assets/img/Ukjent sibiriris.JPG)
 
