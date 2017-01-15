@@ -1,7 +1,7 @@
 ---
 date: '2017-01-15 16:29 +0100'
 layout: post
-published: false
+published: true
 title: Favoritter fra juni 2016
 thumbnail: Meconopsis%20grandis%20burgundy.JPG
 description: >-
@@ -43,5 +43,3 @@ De siste to som også må få lov til å være med er Allium og Lerkespore. Den 
 ![Allium Purple Sensation.]({{site.baseurl}}/assets/img/Allium Purple Sensation.JPG)
 
 ![Corydalis panda]({{site.baseurl}}/assets/img/Corydalis panda .JPG)
-
-
