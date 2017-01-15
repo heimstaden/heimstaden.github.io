@@ -36,7 +36,7 @@ Iris må jeg ha med på favorittlisten. Det begynner etter hvert å bli mange av
 
 Riddersporene starter også blomstringen i juni. Høye og flotte i mange fargevarianter. Liker så godt fargen på denne ukjente riddersporen. Helt klart en av riddersporefavorittene.
 
-![Ukjent Delphinium.]({{site.baseurl}}/assets/img/Ukjent%20Delphinium.JPG)
+![Ukjent Delphinium.]({{site.baseurl}}/assets/img/Ukjent Delphinium.JPG)
 
 De siste to som også må få lov til å være med er Allium og Lerkespore. Den høyreiste Alliumen som står så lenge i blomst. Etter blomstring får den lov til å dekorere hagen med sine flotte frøstander. Lerkesporen Corydalis panda får avslutte junifavorittene.  Med sin intense blåfarge lyser den opp i hagen. Gleder meg til å se alle igjen om noen måneder!
 
