@@ -32,6 +32,8 @@ Mange stauder har også en storhetsperiode i juli, som f.eks. storstjerneskjerm,
 
 ![Stauder]({{site.baseurl}}/assets/img/Stauder.JPG)
 
+ 
+
 
 
 
