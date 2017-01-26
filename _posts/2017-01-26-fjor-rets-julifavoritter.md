@@ -18,7 +18,7 @@ Trykker du inn på bildene får du opp riktige navn.
 
 <!--more-->
 
-Juli er også måneden da sommerblomstene begynner å vise seg fram. Her er det ringblomster,  Schizanthus og prydtobakk som får representere sommerblomstene. Cosmos, Løvemunn, Fuchsia, Clarkia, Nemesia og Valmuer kommer også for fullt i denne måneden. 
+Juli er også måneden da sommerblomstene begynner å vise seg fram. Her er det ringblomster,  Schizanthus og Prydtobakk som får representere sommerblomstene. Cosmos, Løvemunn, Fuchsia, Clarkia, Nemesia og Valmuer kommer også for fullt i denne måneden. 
 
 ![Ringblomster.]({{site.baseurl}}/assets/img/Ringblomster.JPG)
 
