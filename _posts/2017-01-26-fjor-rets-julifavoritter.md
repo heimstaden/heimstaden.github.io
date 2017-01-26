@@ -3,9 +3,11 @@ date: '2017-01-26 21:27 +0100'
 layout: post
 published: false
 title: Fjorårets julifavoritter
+thumbnail: Queen%20of%20Sweden.JPG
+description: 'Juli ble en våt måned, men plantene blomstret likevel. '
 ---
 
-Da er vi kommet til juli. Når jeg ser tilbake på julibildene, så er de ikke like mange som i tidligere år. Det skyldes rett og slett været. Det regnet og regnet og det er egentlig helt utrolig at noe overlevde. Roseblomstringen i år var ikke all verden, men ingen juli uten roser. Her er tre av favorittrosene! Begge de to første dufter helt vidunderlig.Den tredje rosen er en meget frisk og fin klatrerose som tåler klimaet her i Bergen meget bra. Den blir ca. 2 meter høy, med en svak duft. Her er den plantet sammen med Clematis og Riddersporer.
+Da er vi kommet til juli. Når jeg ser tilbake på julibildene, så er de ikke like mange som i tidligere år. Det skyldes rett og slett været. Det regnet og regnet og det er egentlig helt utrolig at noe overlevde. Roseblomstringen i år var ikke all verden, men ingen juli uten roser. Her er tre av favorittrosene! Begge de to første dufter helt vidunderlig. Den tredje rosen er en meget frisk og fin klatrerose som tåler klimaet her i Bergen meget bra. Den blir ca. 2 meter høy, med en svak duft. Her er den plantet sammen med Clematis og Riddersporer.
 Trykker du inn på bildene får du opp riktige navn.
 
 ![Queen of Sweden.]({{site.baseurl}}/assets/img/Queen of Sweden.JPG)
