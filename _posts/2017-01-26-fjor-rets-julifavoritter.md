@@ -26,7 +26,14 @@ Juli er også måneden da sommerblomstene begynner å vise seg fram. Her er det 
 
 Mange stauder har også en storhetsperiode i juli, som f.eks. storstjerneskjerm, liljer og astilber. Trær, busker og bladplanter vokser sammen i skjønn forening. Jeg liker å plante tett. Da blir det lite ugress. 
 
-![Astrantia Major]({{site.baseurl}}/assets/img/Astrantia major .JPG)
+![Astrantia Major]({{site.baseurl}}/assets/img/Astrantia major.JPG)
+
+![Lilium martagon]({{site.baseurl}}/assets/img/Lilium martagon.JPG)
+
+![Stauder]({{site.baseurl}}/assets/img/Stauder.JPG)
+
+
+
 
 
 
