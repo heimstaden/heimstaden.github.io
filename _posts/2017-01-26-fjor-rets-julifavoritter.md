@@ -1,7 +1,7 @@
 ---
 date: '2017-01-26 21:27 +0100'
 layout: post
-published: false
+published: true
 title: Fjorårets julifavoritter
 thumbnail: Queen%20of%20Sweden.JPG
 description: 'Juli ble en våt måned, men plantene blomstret likevel. '
@@ -35,11 +35,3 @@ Mange stauder har også en storhetsperiode i juli, som f.eks. storstjerneskjerm,
 ![Stauder]({{site.baseurl}}/assets/img/Stauder.JPG)
 
 Ha en fin helg!
-
- 
-
-
-
-
-
-
