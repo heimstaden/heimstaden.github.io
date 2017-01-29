@@ -14,3 +14,9 @@ Noen liljer har jeg også selv om de ikke er så mange. Her har liljen Casablanc
 ![Lilium Casablanca og Gazania]({{site.baseurl}}/assets/img/Lilium Casablanca og Gazania.JPG)
 
 <!--more-->
+
+Det er ikke tvil om at det er sommerblomstene som stjeler showet i august. Da blomstrer blant andre Fuchsia, Dahlia, Løvemunn, Engeltrompet, Blodbeger, Gazania og Sommersolhatt om kapp. 
+
+![Fuchsia New Millenium]({{site.baseurl}}/assets/img/New Millenium.JPG)
+
+
