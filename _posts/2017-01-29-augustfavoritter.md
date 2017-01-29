@@ -15,7 +15,7 @@ Trykker du inn på bildene får du opp navnene på de plantene jeg er helt sikke
 
 ![Thalictrum delavayi]({{site.baseurl}}/assets/img/Thalictrum delavayi.JPG)
 
-Noen liljer har jeg også selv om de ikke er så mange. Her har liljen Casablanca og sommerblomsten Gazania funnet hverandre. Liljene blir litt flere for hvert år, så de ser ut som de trives. 
+Noen liljer har jeg også selv om de ikke er så mange. Her har liljen Casablanca og sommerblomsten Gazania funnet hverandre. Liljene blir litt flere for hvert år, så det ser ut som de trives. 
 
 ![Lilium Casablanca og Gazania]({{site.baseurl}}/assets/img/Lilium Casablanca og Gazania.JPG)
 
