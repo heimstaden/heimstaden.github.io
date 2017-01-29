@@ -1,7 +1,7 @@
 ---
 date: '2017-01-29 18:31 +0100'
 layout: post
-published: false
+published: true
 title: Augustfavoritter 2016
 thumbnail: Thalictrum%20delavayi.JPG
 description: >-
@@ -39,10 +39,3 @@ Det er ikke tvil om at det er sommerblomstene som stjeler showet i august. Da bl
 Jeg er så begeistret for sommersolhatter. De er vel stort sett ettårige, men ofte klarer de seg igjennom vinteren her på Vestlandet. De blomstrer hele sommeren og høsten med mange blomster på planten og lyser så fint opp med sine kraftige farger. Har garantert vist fram bilder av disse tidligere.
 
 ![Rudbeckia Autumn Colors]({{site.baseurl}}/assets/img/Rudbeckia Autumn colors.JPG)
-
-
-
-
-
-
-
