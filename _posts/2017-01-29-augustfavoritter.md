@@ -21,7 +21,7 @@ Noen liljer har jeg også selv om de ikke er så mange. Her har liljen Casablanc
 
 <!--more-->
 
-Det er ikke tvil om at det er sommerblomstene som stjeler showet i august. Da blomstrer blant andre Fuchsia, Dahlia, Løvemunn, Engeltrompet, Blodbeger, Gazania og Sommersolhatt om kapp. 
+Det er ikke tvil om at det er sommerblomstene som stjeler showet i august. Da blomstrer Fuchsia, Dahlia, Løvemunn, Engeltrompet, Blodbeger, Gazania og Sommersolhatt om kapp. 
 
 ![Fuchsia New Millenium]({{site.baseurl}}/assets/img/New Millenium.JPG)
 
