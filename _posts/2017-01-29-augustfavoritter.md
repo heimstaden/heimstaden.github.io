@@ -2,7 +2,7 @@
 date: '2017-01-29 18:31 +0100'
 layout: post
 published: false
-title: Augustfavoritter
+title: Augustfavoritter 2016
 thumbnail: Thalictrum%20delavayi.JPG
 description: >-
   August er definitivt den mest blomsterrike måneden hos oss. Slik var det også
