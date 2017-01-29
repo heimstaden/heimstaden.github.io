@@ -36,7 +36,7 @@ Det er ikke tvil om at det er sommerblomstene som stjeler showet i august. Da bl
 
 ![Rhodochiton atrosanguineum]({{site.baseurl}}/assets/img/Rhodochiton atrosanguineum.JPG)
 
-Jeg er så begeistret for sommersolhatter. De er vel stort sett ettårige, men ofte klarer de seg igjennom vinteren her på Vestlandet. De blomstrer hele sommeren og høsten med mange blomster på planten. De lyser så fint opp med sine kraftige farger. Har garantert vist fram bilder av disse tidligere.
+Jeg er så begeistret for sommersolhatter. De er vel stort sett ettårige, men ofte klarer de seg igjennom vinteren her på Vestlandet. De blomstrer hele sommeren og høsten med mange blomster på planten og lyser så fint opp med sine kraftige farger. Har garantert vist fram bilder av disse tidligere.
 
 ![Rudbeckia Autumn Colors]({{site.baseurl}}/assets/img/Rudbeckia Autumn colors.JPG)
 
