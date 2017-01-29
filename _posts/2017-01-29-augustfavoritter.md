@@ -29,7 +29,8 @@ Det er ikke tvil om at det er sommerblomstene som stjeler showet i august. Da bl
 
 ![Antirrhinum Magic Carpet]({{site.baseurl}}/assets/img/Antirrhinum Magic Carpet.JPG)
 
-![Brugmansia Maya]({{site.baseurl}}/assets/img/Brugmansia%20Maya.JPG)
+![Brugmansia Maya]({{site.baseurl}}/assets/img/Brugmansia Maya.JPG)
+
 
 ![Brugmansia Angels Fantasy]({{site.baseurl}}/assets/img/Brugmansia Angels Fantasy.JPG)
 
