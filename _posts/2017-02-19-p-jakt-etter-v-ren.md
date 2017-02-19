@@ -1,7 +1,7 @@
 ---
 date: '2017-02-19 21:17 +0100'
 layout: post
-published: false
+published: true
 title: På jakt etter våren
 thumbnail: Narcissus.JPG
 description: >-
@@ -34,7 +34,3 @@ Inne er våronna godt i gang. Masse frø er sådd, ja altfor mange egentlig. Rar
 ![Spirer tett i tett]({{site.baseurl}}/assets/img/Spirer tett i tett.JPG)
 
 ![Planterom]({{site.baseurl}}/assets/img/Planterom.JPG)
-
-
-
-
