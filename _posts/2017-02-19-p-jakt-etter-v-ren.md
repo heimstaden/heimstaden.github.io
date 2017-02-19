@@ -13,7 +13,7 @@ Nå har vi har hatt en helt fantastisk uke med fint og kaldt vær her i Bergen. 
 
 ![Solnedgang over Bergen]({{site.baseurl}}/assets/img/Solnedgang over Bergen.JPG)
 
-Dagen har blitt nesten 4 timer lenger og det er merkbart. Mange steder i landet vårt er våren langt unna, men her er den i gang. Heldige er vi som allerede kan finne vårtegn. Nå er kulden over og det er synlige vårtegn flere steder. Våririsen viser seg frem med sin nydelig blåfarge. De tidlige lilla krokusene titter forsiktig opp så snart solen kommer. Snøklokkene har vært i farta en stund, men er ikke helt utsprunget enda. 
+Dagen har blitt nesten 4 timer lenger og det er merkbart. Mange steder i landet vårt er våren langt unna, men her er den i gang. Heldige er vi som allerede kan finne vårtegn. Nå er kulden over og det er synlige vårtegn flere steder. Våririsen viser seg frem med sin nydelige blåfarge. De tidlige lilla krokusene titter forsiktig opp så snart solen kommer. Snøklokkene har vært i farta en stund, men er ikke helt utsprunget enda. 
 
 ![Iris reticulata]({{site.baseurl}}/assets/img/Iris reticulata.JPG)
 
