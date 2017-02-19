@@ -3,6 +3,10 @@ date: '2017-02-19 21:17 +0100'
 layout: post
 published: false
 title: På jakt etter våren
+thumbnail: Narcissus.JPG
+description: >-
+  Nå har påskeliljene kommet i butikkene. Det må vel sies å være et godt
+  vårtegn. Her er noen av vårtegnene jeg har funnet.
 ---
 
 Nå har vi har hatt en helt fantastisk uke med fint og kaldt vær her i Bergen. Det har gitt nydelige soloppganger og solnedganger.
