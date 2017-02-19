@@ -25,7 +25,7 @@ Lyngen har begynt å få et fint rosa skjær og julerosene fortsetter sin blomst
 
 ![Narcissus]({{site.baseurl}}/assets/img/Narcissus.JPG)
 
-Inne er våronna godt i gang. Masse frø er sådd, ja altfor mange egentlig. Rart at man aldri lærer av sine feil. Det er altfor lett å ta for mange frø i pottene. Veldig glad for å ha et planterom.  
+Inne er våronna godt i gang. Masse frø er sådd, ja altfor mange egentlig. Rart at man aldri lærer av sine feil. Det er altfor lett å ta for mange frø i pottene. Veldig glad for å ha et planterom til nye småspirer.  
 
 ![Spirer tett i tett]({{site.baseurl}}/assets/img/Spirer tett i tett.JPG)
 
