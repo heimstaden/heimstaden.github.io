@@ -1,7 +1,7 @@
 ---
 date: '2017-02-27 19:12 +0100'
 layout: post
-published: false
+published: true
 title: Vinterferieprosjekt
 thumbnail: Oppsats%20av%20lyng.JPG
 description: 'Våren kommer og går utendørs og jeg er litt utålmodig etter å komme igang.  '
@@ -13,4 +13,3 @@ Ha en flott ny uke!
 ![Oppsats av lyng]({{site.baseurl}}/assets/img/Oppsats av lyng.JPG)
 
 ![Perleblomster i toppen]({{site.baseurl}}/assets/img/Perleblomster i toppen.JPG)
-
