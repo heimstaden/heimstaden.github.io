@@ -1,7 +1,7 @@
 ---
 date: '2017-03-13 20:07 +0100'
 layout: post
-published: false
+published: true
 title: Fristelser
 thumbnail: Dobbel%20Helleborus.JPG
 description: >-
