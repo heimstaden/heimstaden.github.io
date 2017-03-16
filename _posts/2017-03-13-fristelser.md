@@ -5,4 +5,4 @@ published: false
 title: Fristelser
 ---
 
-Fristelsen ble for stor da jeg kom over disse skjønnhetene i helgen. 5 nye Helleborus orientalis, Double Ellen, noen lyngplanter og en Primula Belarina Pink Ice. Foreløpig står de og pynter opp i noen krukker, men de skal plantes ut i bed etterhvert.
+Fristelsen ble for stor da jeg kom over disse skjønnhetene forrige helg. 5 nye Helleborus orientalis, Double Ellen, noen lyngplanter og en Primula Belarina Pink Ice. Foreløpig står de og pynter opp i noen krukker, men de skal plantes ut i bed etterhvert.
