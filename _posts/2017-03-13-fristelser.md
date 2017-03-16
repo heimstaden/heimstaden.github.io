@@ -3,7 +3,7 @@ date: '2017-03-13 20:07 +0100'
 layout: post
 published: false
 title: Fristelser
-thumbnail: Dobbel Helleborus.JPG
+thumbnail: Dobbel%20Helleborus.JPG
 description: >-
   Vårens fristelser er på plass i hagesentre, blomsterbutikker og matbutikker.
   Her har jeg latt meg friste av noen godbiter som forhåpentligvis vil gi
