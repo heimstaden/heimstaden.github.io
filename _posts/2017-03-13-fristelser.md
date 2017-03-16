@@ -24,7 +24,7 @@ Fristelsen ble for stor da jeg kom over disse skjønnhetene. Fem nye hybrider av
 
 ![Helleborus orientalis hybrid]({{site.baseurl}}/assets/img/IMG_3946.JPG)
 
-![Helleborus orientalis hybrid]({{site.baseurl}}/assets/img/IMG_3932.JPG)
+
 
 
 
