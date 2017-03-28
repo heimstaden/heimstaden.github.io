@@ -19,7 +19,7 @@ Blåveisen er en ungarsk blåveis. Den trives godt her i vest. Litt sol og varme
 
 <!--more-->
 
-Et annet sikkert vårtegn er Corydalis solida, Beth Evans. Nydelig liten sak som blomstrer nå. 
+Et annet sikkert vårtegn er Lerkesporen Corydalis solida, Beth Evans. Nydelig liten sak som blomstrer nå. 
 
 ![Corydalis solida, Beth Evans]({{site.baseurl}}/assets/img/Corydalis solida, Beth Evans.JPG)
 
