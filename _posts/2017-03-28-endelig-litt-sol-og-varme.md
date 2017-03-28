@@ -33,5 +33,9 @@ Vårkrukkene fylles opp etterhvert og stemor er en av favorittene. Gleder meg og
 
 ![Stemor]({{site.baseurl}}/assets/img/Stemor.JPG)
 
+Sviblene fra desember er på sitt fineste. den har stått ute siden begynnelsen av desember. Dette har blitt en ny favoritt her i huset. 
+
+![Svibler]({{site.baseurl}}/assets/img/Svibler.JPG)
+
 
 
