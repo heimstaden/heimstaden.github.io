@@ -3,6 +3,10 @@ date: '2017-03-28 21:14 +0200'
 layout: post
 published: false
 title: Endelig litt sol og varme
+thumbnail: Hestehov.JPG
+description: >-
+  Endelig en skikkelig vårdag. I dag varmet solen godt og da var det godt å
+  komme seg ut i hagen etter jobb.
 ---
 
 Et skikkelig vårtegn er når hestehoven og blåveisen dukker opp. Litt sol og varme gjør underverker. Blåveisen er en ungarsk blåveis. Den trives godt her i vest. 
