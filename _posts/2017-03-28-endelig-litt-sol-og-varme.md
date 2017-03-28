@@ -5,11 +5,11 @@ published: false
 title: Endelig litt sol og varme
 ---
 
-Et skikkelig vårtegn er når hestehoven og blåveisen dukker opp. Litt sol og varme gjør underverker. 
+Et skikkelig vårtegn er når hestehoven og blåveisen dukker opp. Litt sol og varme gjør underverker. Blåveisen er en ungarsk blåveis. Den trives godt her i vest. 
 
 ![Hestehov]({{site.baseurl}}/assets/img/Hestehov.JPG)
 
-![Ungarsk blåveis]({{site.baseurl}}/assets/img/Ungarsk blåveis.JPG)
+![Hepatica transsylvanica]({{site.baseurl}}/assets/img/Hepatica transsylvanica.JPG)
 
 <!--more-->
 
