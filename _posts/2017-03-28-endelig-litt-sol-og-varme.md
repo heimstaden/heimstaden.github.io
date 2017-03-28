@@ -1,7 +1,7 @@
 ---
 date: '2017-03-28 21:14 +0200'
 layout: post
-published: false
+published: true
 title: Endelig litt sol og varme
 thumbnail: Hestehov.JPG
 description: >-
@@ -36,6 +36,3 @@ Vårkrukkene fylles opp etterhvert og stemor er en av favorittene. Gleder meg og
 Sviblene fra desember er på sitt fineste. den har stått ute siden begynnelsen av desember. Dette har blitt en ny favoritt her i huset. 
 
 ![Svibler]({{site.baseurl}}/assets/img/Svibler.JPG)
-
-
-
