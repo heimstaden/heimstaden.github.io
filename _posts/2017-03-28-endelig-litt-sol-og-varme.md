@@ -9,7 +9,7 @@ description: >-
   komme seg ut i hagen etter jobb.
 ---
 
-Et skikkelig vårtegn er når hestehoven og blåveisen dukker opp. Litt sol og varme gjør underverker. Blåveisen er en ungarsk blåveis. Den trives godt her i vest. 
+Et skikkelig vårtegn er når hestehoven og blåveisen dukker opp. Blåveisen er en ungarsk blåveis. Den trives godt her i vest. Litt sol og varme gjør underverker. 
 
 ![Hestehov]({{site.baseurl}}/assets/img/Hestehov.JPG)
 
