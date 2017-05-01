@@ -9,7 +9,7 @@ description: >-
 thumbnail: Fylt%20Narciss.JPG
 ---
 
-Tre dager med fri og deilige vårtemperaturer. Etter nesten en måned med stillstand, eksploderer det rundt i hagen. Perleblomster, narcisser og primula i diverse varianter blomstrer om kapp.
+Tre dager med fri og deilige vårtemperaturer. Etter nesten en måned med stillstand, eksploderer det rundt i hagen. Perleblomster, Narcisser og Primula i diverse varianter blomstrer om kapp.
 ![Perleblomster]({{site.baseurl}}/assets/img/Perleblomster.JPG)
 
 ![Fylt Narciss]({{site.baseurl}}/assets/img/Fylt Narciss.JPG)
