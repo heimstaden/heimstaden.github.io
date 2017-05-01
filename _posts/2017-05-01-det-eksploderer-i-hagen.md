@@ -14,7 +14,7 @@ Tre dager med fri og deilige vårtemperaturer. Etter nesten en måned med stills
 
 ![Narcissus Scarlet Gem]({{site.baseurl}}/assets/img/Narcissus Scarlet Gem.JPG)
 
-![Primula Julia hybrid Wanda]({{site.baseurl}}/assets/img/Primula Julia hybrid Wanda.JPG)
+![Primula Julia hybrid Wanda]({{site.baseurl}}/assets/img/Primula Julia hybrid Wanda .JPG)
 
 ![Primula Julia hybrid Wanda 2]({{site.baseurl}}/assets/img/Primula Julia hybrid Wanda 2.JPG)
 
