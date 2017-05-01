@@ -29,7 +29,7 @@ Tre dager med fri og deilige vårtemperaturer. Etter nesten en måned med stills
 ![Primula veris]({{site.baseurl}}/assets/img/Primula veris.JPG)
 
 Vårkjærminne har spredt seg godt utover og pynter opp med sine nydelige lyseblå blomster.
-![Omphalodes verna]({{site.baseurl}}/assets/img/Omphalodes verna.JPG
+![Omphalodes verna]({{site.baseurl}}/assets/img/Omphalodes%20verna.JPG)
 
 Til og med de tidlige tulipanene åpnet seg i helgen. 
 
