@@ -6,6 +6,7 @@ title: Det eksploderer i hagen
 description: >-
   Endelig en skikkelig hagehelg. For en gangs skyld er Yr og Storm enige om at
   det blir sol, sol og atter sol utover i uken her i vest. Ha en flott nye uke!
+thumbnail: Fylt%20Narciss.JPG
 ---
 
 Tre dager med fri og deilige vårtemperaturer. Etter nesten en måned med stillstand, eksploderer det rundt i hagen. Perleblomster, narcisser og primula i diverse varianter blomstrer om kapp.
@@ -34,5 +35,4 @@ Til og med de tidlige tulipanene åpnet seg i helgen.
 
 ![Tulipan Exotic Purissima]({{site.baseurl}}/assets/img/Tulipan Exotic Purissima.JPG)
 
-Og for en gangs skyld er Yr og Storm enige om at det blir sol, sol og atter sol utover i uken her i vest. Ha en flott nye uke!
 
