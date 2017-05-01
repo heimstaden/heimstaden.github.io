@@ -5,7 +5,7 @@ published: true
 title: Det eksploderer i hagen
 description: >-
   Endelig en skikkelig hagehelg. For en gangs skyld er Yr og Storm enige om at
-  det blir sol, sol og atter sol utover i uken her i vest. Ha en flott nye uke!
+  det blir sol, sol og atter sol utover i uken her i vest. Ha en flott ny uke!
 thumbnail: Fylt%20Narciss.JPG
 ---
 
