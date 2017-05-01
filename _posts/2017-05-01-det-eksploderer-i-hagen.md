@@ -1,7 +1,7 @@
 ---
 date: '2017-05-01 20:07 +0200'
 layout: post
-published: false
+published: true
 title: Det eksploderer i hagen
 description: >-
   Endelig en skikkelig hagehelg. For en gangs skyld er Yr og Storm enige om at
@@ -31,5 +31,3 @@ Tre dager med fri og deilige vårtemperaturer. Etter nesten en måned med stills
 Til og med de tidlige tulipanene åpnet seg i helgen. 
 
 ![Tulipan Exotic Purissima]({{site.baseurl}}/assets/img/Tulipan Exotic Purissima.JPG)
-
-
