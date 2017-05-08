@@ -3,11 +3,12 @@ date: '2017-05-08 21:21 +0200'
 layout: post
 published: false
 title: Blomstring 8.mai
+thumbnail: Fylt%20rosa%20tulipan.JPG
 ---
 
 I det fine været som har vært nå blir dessverre ikke blomstringen så langvarig. Den ene planten etter den andre åpner seg opp i den sterke vårsolen og tulipaner og narcisser sloss om oppmerksomheten. Her er det bare å komme seg ut å ta bilder. 
 
-![Rosa fylt tulipan]({{site.baseurl}}/assets/img/_MG_4777.JPG)
+![Fylt rosa tulipan]({{site.baseurl}}/assets/img/Fylt rosa tulipan.JPG)
 
 ![Tulipa salmon Impression]({{site.baseurl}}/assets/img/Tulipa salmon Impression .JPG)
 
