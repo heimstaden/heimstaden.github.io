@@ -4,6 +4,9 @@ layout: post
 published: false
 title: Blomstring 8.mai
 thumbnail: Fylt%20rosa%20tulipan.JPG
+description: >-
+  Nå er det sterk konkurranse om hvem som er den fineste blomsten i hagen for
+  tiden.
 ---
 
 I det fine været som har vært nå blir dessverre ikke blomstringen så langvarig. Den ene planten etter den andre åpner seg opp i den sterke vårsolen og tulipaner og narcisser sloss om oppmerksomheten. Her er det bare å komme seg ut å ta bilder. 
