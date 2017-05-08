@@ -17,7 +17,8 @@ I det fine været som har vært nå blir dessverre blomstringen kortvarig. Den e
 
 <!--more-->
 
-![Nyvannede Tulipaner]({{site.baseurl}}/assets/img/_MG_4904.JPG)
+![Nyvannede tulipaner]({{site.baseurl}}/assets/img/Nyvannede tulipaner.JPG)
+
 
 ![Tulipa Pink impression]({{site.baseurl}}/assets/img/Tulipa Pink Impression .JPG)
 
