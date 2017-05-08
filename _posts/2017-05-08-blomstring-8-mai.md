@@ -1,7 +1,7 @@
 ---
 date: '2017-05-08 21:21 +0200'
 layout: post
-published: false
+published: true
 title: Blomstring 8.mai
 thumbnail: Fylt%20rosa%20tulipan.JPG
 description: >-
@@ -36,4 +36,3 @@ Men de får sterk konkurranse fra det lille japanske kirsebærtreet.
 ![Japansk kirsebærtre]({{site.baseurl}}/assets/img/_MG_4930.JPG)
 
 Ha en fin ny uke!
-
