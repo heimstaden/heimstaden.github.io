@@ -31,6 +31,7 @@ I det fine været som har vært nå blir dessverre blomstringen kortvarig. Den e
 
 Men de får sterk konkurranse fra det lille japanske kirsebærtreet. 
 
-![Prunus Kiku shidare zakura]({{site.baseurl}}/assets/img/Prunus%20Kiku%20shidare%20zakura.JPG)
+![Prunus]({{site.baseurl}}/assets/img/Prunus.JPG)
+
 
 Ha en fin ny uke!
