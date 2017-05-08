@@ -19,10 +19,9 @@ I det fine været som har vært nå blir dessverre blomstringen kortvarig. Den e
 
 ![Nyvannede tulipaner]({{site.baseurl}}/assets/img/Nyvannede tulipaner.JPG)
 
-
 ![Tulipa Pink impression]({{site.baseurl}}/assets/img/Tulipa Pink Impression .JPG)
 
-![Ukjent Narciss2]({{site.baseurl}}/assets/img/_MG_4911.JPG)
+![Fylt Narciss]({{site.baseurl}}/assets/img/Fylt%20Narciss.JPG)
 
  Narcissene kommer tilbake år etter år og blir stadig flere.
 
