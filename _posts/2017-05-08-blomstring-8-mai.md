@@ -21,8 +21,6 @@ I det fine været som har vært nå blir dessverre blomstringen kortvarig. Den e
 
 ![Tulipa Pink impression]({{site.baseurl}}/assets/img/Tulipa Pink Impression .JPG)
 
-![Ukjent Narciss]({{site.baseurl}}/assets/img/_MG_4907.JPG)
-
 ![Ukjent Narciss2]({{site.baseurl}}/assets/img/_MG_4911.JPG)
 
  Narcissene kommer tilbake år etter år og blir stadig flere.
