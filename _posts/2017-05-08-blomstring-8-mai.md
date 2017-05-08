@@ -9,7 +9,7 @@ description: >-
   tiden.
 ---
 
-I det fine været som har vært nå blir dessverre ikke blomstringen så langvarig. Den ene planten etter den andre åpner seg opp i den sterke vårsolen og tulipaner og narcisser sloss om oppmerksomheten. Her er det bare å komme seg ut å ta bilder. 
+I det fine været som har vært nå blir dessverre blomstringen kortvarig. Den ene planten etter den andre åpner seg opp i den sterke vårsolen og tulipaner og narcisser sloss om oppmerksomheten. Her er det bare å komme seg ut å ta bilder før det er for sent. 
 
 ![Fylt rosa tulipan]({{site.baseurl}}/assets/img/Fylt rosa tulipan.JPG)
 
