@@ -8,7 +8,7 @@ title: Stadig ny blomstring
 På denne tiden er det nesten alltid noe nytt å oppdage. Jeg har noen blå hvitveis og noen fylte hvitveis. De blå ble fort litt pjusk i sommervarmen som var forrige uke, men den fylte hvite har klart seg bra. Synes ikke de formerer seg noe særlig, så de må få en ny plass tror jeg.
 Synes den fylte hvite er ganske lekker. 
 
-Trykker du deg inn på bildene, får du opp navnene på dem jeg kjenner det riktig navn på.
+Trykker du deg inn på bildene, får du opp navnene på dem jeg kjenner riktige navn på.
 
 ![Anemone nemorosa Vestal]({{site.baseurl}}/assets/img/Anemone nemorosa Vestal.JPG)
 
@@ -36,7 +36,8 @@ Saxifraga X arendsii Peter Pan er søte og små. Håper de legger litt på seg t
 
 I går tok jeg ut engeltrompetene mine slik at de får herdet seg. Noen hadde allerede begynt å blomstre. Med disse ønsker jeg alle en god fredag og en flott helg.
 
-![Brugmansia Maya]({{site.baseurl}}/assets/img/Brugmansia%20Maya.JPG)
+![Brugmansia Maya 1]({{site.baseurl}}/assets/img/Brugmansia Maya 1.JPG)
+
 
 
 
