@@ -3,6 +3,8 @@ date: '2017-05-11 20:45 +0200'
 layout: post
 published: false
 title: Stadig ny blomstring
+thumbnail: Anemone%20nemorosa%20Vestal.JPG
+description: Oppdagelsesferd i hagen hver dag etter jobb gir mange gleder
 ---
 
 På denne tiden er det nesten alltid noe nytt å oppdage. Jeg har noen blå hvitveis og noen fylte hvitveis utenom dem som vokser vilt. De blå ble fort pjusk i sommervarmen som var forrige uke, men den fylte hvite har klart seg bra. Synes ikke de formerer seg noe særlig, så de må få en ny plass tror jeg. Synes den fylte hvite er ganske lekker. 
