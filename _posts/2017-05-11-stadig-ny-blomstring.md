@@ -5,14 +5,13 @@ published: false
 title: Stadig ny blomstring
 ---
 
-På denne tiden er det nesten alltid noe nytt å oppdage. Jeg har noen blå hvitveis og noen fylte hvitveis. De blå ble fort litt pjusk i sommervarmen som var forrige uke, men den fylte hvite har klart seg bra. Synes ikke de formerer seg noe særlig, så de må få en ny plass tror jeg.
-Synes den fylte hvite er ganske lekker. 
+På denne tiden er det nesten alltid noe nytt å oppdage. Jeg har noen blå hvitveis og noen fylte hvitveis utenom dem som vokser vilt. De blå ble fort pjusk i sommervarmen som var forrige uke, men den fylte hvite har klart seg bra. Synes ikke de formerer seg noe særlig, så de må få en ny plass tror jeg. Synes den fylte hvite er ganske lekker. 
 
-Trykker du deg inn på bildene, får du opp navnene på dem jeg kjenner riktige navn på.
+Trykker du deg inn på bildene, får du opp navnene på dem jeg kjenner de riktige navnene på.
 
 ![Anemone nemorosa Vestal]({{site.baseurl}}/assets/img/Anemone nemorosa Vestal.JPG)
 
-En nykommer av året, sådd for to år siden, er Judaspenger. Nydelige to-årige planter med lilla blomster. De kan bli oppmot meteren høye. Nå skal jeg la frøstandene sitte på, slik at de kan selvså seg. Får skikkelige dekorative frøstander som ser ut som sølvpenger, derav navnet.
+En nykommer av året, sådd for to år siden, er Judaspenger. Nydelig to-årig plante med lilla blomster. De kan bli oppmot meteren høye. Nå skal jeg la frøstandene sitte på, slik at de kan selvså seg. Får skikkelige dekorative frøstander som ser ut som sølvpenger, derav navnet.
 
 ![Lunaria annua 1]({{site.baseurl}}/assets/img/Lunaria annua 1.JPG)
 
@@ -20,7 +19,7 @@ En nykommer av året, sådd for to år siden, er Judaspenger. Nydelige to-årige
 
 <!--more-->
 
-En plante som virkelig tar seg opp nå på våren er Pieris Forest Flame. Den lever også opp til navnet sitt. Først blir den rødlig i de ferske skuddene , deretter går den over i en mye lysere farge. Akkurat nå har den en nydelig rødfarge.
+En plante som virkelig tar seg opp nå på våren er Pieris Forest Flame. Den lever også opp til navnet sitt. Først blir den rødlig i de ferske skuddene, deretter går den over i en mye lysere farge. Akkurat nå har den en nydelig rødfarge.
 
 ![Pieris Forest Flame 1]({{site.baseurl}}/assets/img/Pieris Forest Flame 1.JPG)
 
@@ -34,7 +33,7 @@ Saxifraga X arendsii Peter Pan er søte og små. Håper de legger litt på seg t
 
 ![Saxifraga X arendsii Peter Pan]({{site.baseurl}}/assets/img/Saxifraga X arendsii Peter Pan.JPG)
 
-I går tok jeg ut engeltrompetene mine slik at de får herdet seg. Noen hadde allerede begynt å blomstre. Med disse ønsker jeg alle en god fredag og en flott helg.
+I går tok jeg ut engletrompetene mine slik at de får herdet seg. Noen hadde allerede begynt å blomstre. Med disse ønsker jeg alle en god fredag og en flott helg. 
 
 ![Brugmansia Maya 1]({{site.baseurl}}/assets/img/Brugmansia Maya 1.JPG)
 
