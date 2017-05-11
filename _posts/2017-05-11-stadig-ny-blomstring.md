@@ -5,7 +5,6 @@ published: false
 title: Stadig ny blomstring
 ---
 
-
 På denne tiden er det nesten alltid noe nytt å oppdage. Jeg har noen blå hvitveis og noen fylte hvitveis. De blå ble fort litt pjusk i sommervarmen som var forrige uke, men den fylte hvite har klart seg bra. Synes ikke de formerer seg noe særlig, så de må få en ny plass tror jeg.
 Synes den fylte hvite er ganske lekker. 
 
@@ -31,6 +30,13 @@ En annen fargerik sak jeg bare må ha, er Tulipan Prinses Irene. Nydelige nyanse
 
 ![Tulipa Prinses Irene]({{site.baseurl}}/assets/img/Tulipa Prinses Irene.JPG)
 
+Saxifraga X arendsii Peter Pan er søte og små. Håper de legger litt på seg til neste år.
+
+![Saxifraga X arendsii Peter Pan]({{site.baseurl}}/assets/img/Saxifraga X arendsii Peter Pan.JPG)
+
+I går tok jeg ut engeltrompetene mine slik at de får herdet seg. Noen hadde allerede begynt å blomstre. Med disse ønsker jeg alle en god fredag og en flott helg.
+
+![Brugmansia Maya]({{site.baseurl}}/assets/img/Brugmansia%20Maya.JPG)
 
 
 
