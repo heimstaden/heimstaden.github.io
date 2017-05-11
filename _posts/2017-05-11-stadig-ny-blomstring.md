@@ -1,7 +1,7 @@
 ---
 date: '2017-05-11 20:45 +0200'
 layout: post
-published: false
+published: true
 title: Stadig ny blomstring
 ---
 
@@ -36,8 +36,3 @@ Saxifraga X arendsii Peter Pan er søte og små. Håper de legger litt på seg t
 I går tok jeg ut engletrompetene mine slik at de får herdet seg. Noen hadde allerede begynt å blomstre. Med disse ønsker jeg alle en god fredag og en flott helg. 
 
 ![Brugmansia Maya 1]({{site.baseurl}}/assets/img/Brugmansia Maya 1.JPG)
-
-
-
-
-
