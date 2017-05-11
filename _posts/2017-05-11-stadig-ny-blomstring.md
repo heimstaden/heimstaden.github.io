@@ -1,7 +1,7 @@
 ---
 date: '2017-05-11 20:45 +0200'
 layout: post
-published: false
+published: true
 title: Stadig ny blomstring
 thumbnail: Anemone%20nemorosa%20Vestal.JPG
 description: Oppdagelsesferd i hagen hver dag etter jobb gir mange gleder
