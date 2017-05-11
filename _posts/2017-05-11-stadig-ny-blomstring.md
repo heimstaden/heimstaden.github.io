@@ -7,7 +7,7 @@ thumbnail: Anemone%20nemorosa%20Vestal.JPG
 description: Oppdagelsesferd i hagen hver dag etter jobb gir mange gleder
 ---
 
-På denne tiden er det nesten alltid noe nytt å oppdage. Jeg har noen blå hvitveis og noen fylte hvitveis utenom dem som vokser vilt. De blå ble fort pjusk i sommervarmen som var forrige uke, men den fylte hvite har klart seg bra. Synes ikke de formerer seg noe særlig, så de må få en ny plass tror jeg. Synes den fylte hvite er ganske lekker. 
+På denne tiden er det nesten alltid noe nytt å oppdage. Jeg har noen blå hvitveis og noen fylte hvitveis utenom de som vokser vilt. De blå ble fort pjusk i sommervarmen som var forrige uke, men den fylte hvite har klart seg bra. Synes ikke de formerer seg noe særlig, så de må få en ny plass tror jeg. Synes den fylte hvite er ganske lekker. 
 
 Trykker du deg inn på bildene, får du opp navnene på dem jeg kjenner de riktige navnene på.
 
