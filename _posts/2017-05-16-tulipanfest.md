@@ -1,9 +1,9 @@
 ---
 date: '2017-05-16 20:09 +0200'
 layout: post
-published: true
+published: false
 title: Tulipanfest til 17. mai
-thumbnail: Tulipa Humilis Violacea.JPG
+thumbnail: Tulipa%20Humilis%20Violacea.JPG
 description: >-
   Hvert år er tulipantiden spennende. Noen nye kommer til og andre blir borte.
   Det er like spennende hver vår.
