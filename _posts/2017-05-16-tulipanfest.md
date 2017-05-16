@@ -17,11 +17,26 @@ Mørke, nesten svarte tulipaner er lekkert. Her representert ved Tulipa Paul Sch
 
 ![Paul Scherer]({{site.baseurl}}/assets/img/Paul Scherer.JPG)
 
-
 Tulipan New Design ble også plantet i 2012 og her er det fortsatt noen som kommer igjen, selv om de er blitt litt færre.
+
+![Tulipa New Design]({{site.baseurl}}/assets/img/Tulipa New Design.JPG)
+
 Tulipa Ronaldo har jeg på tredje året, så den er jeg også godt fornøyd med. 
+
+![Ronaldo]({{site.baseurl}}/assets/img/Ronaldo.JPG)
+
 Tulipa Prinses Irene hadde jeg også bilde av i forrige innlegg. Her er en liten bukett av dem. De passer helt perfekt i Bergensværet for de tåler både regn og vind. De blir ca. 30 cm. 
+
+![Prinses Irene]({{site.baseurl}}/assets/img/Prinses Irene.JPG)
+
 Den som kommer øverst på favorittlisten i dag er Tulipa China Town. En helt spesiell tulipan med en hvit kant på bladene og en herlig kombinasjon av lyse rosa, hvitt og grønt. Plantet i 2013 og den har begynt å formere seg, selv om det går sakte. 
+
+![China Town]({{site.baseurl}}/assets/img/China Town.JPG)
+
 Og så er det noen som dukker opp her og der og setter farge på hagen. Svært velkomne er de selv om navnelappene for lengst er blitt borte.
+
+![Ukjent tulipan 1]({{site.baseurl}}/assets/img/Ukjent tulipan 1.JPG)
+
+![Ukjent tulipan 2]({{site.baseurl}}/assets/img/Ukjent tulipan 2.JPG)
 
 Ønsker alle en fin 17. mai 
