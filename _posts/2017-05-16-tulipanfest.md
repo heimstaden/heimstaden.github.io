@@ -17,6 +17,8 @@ Den botaniske tulipanen Tulipa Humilis Pulchella Violacea er liten men veldig s�
 
 ![Tulipa Humilis Violacea]({{site.baseurl}}/assets/img/Tulipa Humilis Violacea.JPG)
 
+<!--more-->
+
 Mørke, nesten svarte tulipaner er lekkert. Her representert ved Tulipa Paul Scherer. Jeg har også plantet en rekke løk av Tulipa Black Hero, men den har en tendens til å bli borte ganske raskt. Paul Scherer ble plantet i 2012 og har kommet trofast igjen.
 
 ![Paul Scherer]({{site.baseurl}}/assets/img/Paul Scherer.JPG)
