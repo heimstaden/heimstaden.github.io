@@ -6,8 +6,13 @@ title: Tulipanfest
 ---
 
 Tulipanene har hatt det travelt i år. Plutselig stod den ene etter den andre i blomst og ville vise seg fram. Da ble det rett og slett mye farger på en gang. Akkurat det vi trenger på våren.
-Bilde av skråningen
+
+![Tulipanfest]({{site.baseurl}}/assets/img/Tulipanfest.JPG)
+
 Den botaniske tulipanen Tulipa Humilis Pulchella Violacea er liten men veldig søt. Plantet de i fjor og håper de vil komme tilbake til neste år også.
+
+![Tulipa Humilis Pulchella Violacea]({{site.baseurl}}/assets/img/Tulipa%20Humilis%20Pulchella%20Violacea.JPG)
+
 Mørke, nesten svarte tulipaner er lekkert. Her representert ved Tulipa Paul Scherer. Jeg har også plantet en rekke løk av Tulipa Black Hero, men den har en tendens til å bli borte ganske raskt. Paul Scherer ble plantet i 2012 og har kommet trofast igjen. 
 Tulipan New Design ble også plantet i 2012 og her er det fortsatt noen som kommer igjen, selv om de er blitt litt færre.
 Tulipa Ronaldo har jeg på tredje året, så den er jeg også godt fornøyd med. 
