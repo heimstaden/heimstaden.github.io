@@ -9,11 +9,11 @@ description: >-
   Det er like spennende hver vår.
 ---
 
-Tulipanene har hatt det travelt i år. Plutselig stod den ene etter den andre i blomst og ville vise seg fram. Da ble det rett og slett mye farger på en gang. Akkurat det vi trenger på våren.
+Tulipanene har hatt det travelt i år. Plutselig stod den ene etter den andre i blomst og ville vise seg fram. Da ble det rett og slett mye farger på en gang. Akkurat det vi trenger nå på våren.
 
 ![Tulipanfest]({{site.baseurl}}/assets/img/Tulipanfest.JPG)
 
-Den botaniske tulipanen Tulipa Humilis Pulchella Violacea er liten men veldig søt. Plantet de i fjor og håper de vil komme tilbake til neste år også.
+Den botaniske tulipanen Tulipa Humilis Pulchella Violacea er liten men veldig søt. Plantet dem i fjor og håper de vil komme tilbake til neste år også.
 
 ![Tulipa Humilis Violacea]({{site.baseurl}}/assets/img/Tulipa Humilis Violacea.JPG)
 
@@ -21,11 +21,11 @@ Mørke, nesten svarte tulipaner er lekkert. Her representert ved Tulipa Paul Sch
 
 ![Paul Scherer]({{site.baseurl}}/assets/img/Paul Scherer.JPG)
 
-Tulipan New Design ble også plantet i 2012 og her er det fortsatt noen som kommer igjen, selv om de er blitt litt færre.
+Tulipanen New Design ble også plantet i 2012 og her er det fortsatt noen som kommer igjen, selv om de er blitt litt færre.
 
 ![Tulipa New Design]({{site.baseurl}}/assets/img/Tulipa New Design.JPG)
 
-Tulipa Ronaldo har jeg på tredje året, så den er jeg også godt fornøyd med. 
+Tulipanen Ronaldo har jeg på tredje året, så den er jeg også godt fornøyd med. 
 
 ![Ronaldo]({{site.baseurl}}/assets/img/Ronaldo.JPG)
 
@@ -33,7 +33,7 @@ Tulipa Prinses Irene hadde jeg også bilde av i forrige innlegg. Her er en liten
 
 ![Prinses Irene]({{site.baseurl}}/assets/img/Prinses Irene.JPG)
 
-Den som kommer øverst på favorittlisten i dag er Tulipa China Town. En helt spesiell tulipan med en hvit kant på bladene og en herlig kombinasjon av lyse rosa, hvitt og grønt. Plantet i 2013 og den har begynt å formere seg, selv om det går sakte. 
+Den som kommer øverst på favorittlisten i dag er Tulipa China Town. En helt spesiell tulipan med en hvit kant på bladene og en herlig kombinasjon av lyse rosa, hvitt og grønt. Plantet i 2013 og kommer stadig igjen.
 
 ![China Town]({{site.baseurl}}/assets/img/China Town.JPG)
 
