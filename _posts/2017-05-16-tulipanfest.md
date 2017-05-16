@@ -3,6 +3,10 @@ date: '2017-05-16 20:09 +0200'
 layout: post
 published: false
 title: Tulipanfest
+thumbnail: Tulipa%20Humilis%020Violacea.JPG
+description: >-
+  Hvert år er tulipantiden spennende. Noen nye kommer til og andre blir borte.
+  Det er like spennende hver vår.
 ---
 
 Tulipanene har hatt det travelt i år. Plutselig stod den ene etter den andre i blomst og ville vise seg fram. Da ble det rett og slett mye farger på en gang. Akkurat det vi trenger på våren.
