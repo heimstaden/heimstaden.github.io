@@ -3,7 +3,7 @@ date: '2017-05-16 20:09 +0200'
 layout: post
 published: false
 title: Tulipanfest
-thumbnail: Tulipa%20Humilis%020Violacea.JPG
+thumbnail: Tulipa Humilis Violacea.JPG
 description: >-
   Hvert år er tulipantiden spennende. Noen nye kommer til og andre blir borte.
   Det er like spennende hver vår.
