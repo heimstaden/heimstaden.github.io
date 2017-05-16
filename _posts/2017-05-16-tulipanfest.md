@@ -13,8 +13,10 @@ Den botaniske tulipanen Tulipa Humilis Pulchella Violacea er liten men veldig s�
 
 ![Tulipa Humilis  Violacea]({{site.baseurl}}/assets/img/Tulipa Humilis  Violacea.JPG)
 
+Mørke, nesten svarte tulipaner er lekkert. Her representert ved Tulipa Paul Scherer. Jeg har også plantet en rekke løk av Tulipa Black Hero, men den har en tendens til å bli borte ganske raskt. Paul Scherer ble plantet i 2012 og har kommet trofast igjen.
 
-Mørke, nesten svarte tulipaner er lekkert. Her representert ved Tulipa Paul Scherer. Jeg har også plantet en rekke løk av Tulipa Black Hero, men den har en tendens til å bli borte ganske raskt. Paul Scherer ble plantet i 2012 og har kommet trofast igjen. 
+![Tulipa Paul Scherer]({{site.baseurl}}/assets/img/Tulipa%20Paul%20Scherer.JPG)
+
 Tulipan New Design ble også plantet i 2012 og her er det fortsatt noen som kommer igjen, selv om de er blitt litt færre.
 Tulipa Ronaldo har jeg på tredje året, så den er jeg også godt fornøyd med. 
 Tulipa Prinses Irene hadde jeg også bilde av i forrige innlegg. Her er en liten bukett av dem. De passer helt perfekt i Bergensværet for de tåler både regn og vind. De blir ca. 30 cm. 
