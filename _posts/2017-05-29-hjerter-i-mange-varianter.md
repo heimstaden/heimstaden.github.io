@@ -23,5 +23,16 @@ Men de rosa løytnantshjertene blir det færre og færre blomster på. Hva gjør
 
 ![Lamprocapnos spectabilis 2]({{site.baseurl}}/assets/img/Lamprocapnos spectabilis 2.JPG)
 
+Utenom hjertene har akeleiene begynt å vise seg fram. De er et syn der de står og vaier i vinden. Her har det blitt noen flere siden i fjor. 
+
+![Aquilegia vulgaris Pink Petticoat 2]({{site.baseurl}}/assets/img/Aquilegia vulgaris Pink Petticoat 2.JPG)
+
+Den lilla Valmuesøsteren har blitt til mange og har funnet seg noen fine partnere. Fargen går både i lilla, rosa og blått og jeg kan ikke få nok av dem. Nå står det mange frøplanter fra i vinter og venter på å bli store nok til å plantes ut. Tror jeg skal vente en god stund for de er snacks for sneglene. 
+
+![Meconopsis grandis burgundy med gode naboer]({{site.baseurl}}/assets/img/Meconopsis grandis burgundy med gode naboer.JPG)
+
+Nå kommer også stemoren som jeg sådde i januar. Ingen vår og sommer uten stemor. Den svarte må jeg ha hvert eneste år. 
+
+![Svart stemor 2]({{site.baseurl}}/assets/img/Svart stemor 2.JPG)
 
 
