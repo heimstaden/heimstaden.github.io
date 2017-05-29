@@ -3,6 +3,7 @@ date: '2017-05-29 20:33 +0200'
 layout: post
 published: false
 title: Hjerter i mange varianter
+thumbnail: Lamprocapnos%20spectabilis%20Valentine.JPG)
 ---
 
 I år har det blitt noen nye hjerter, en som bærer det flotte navnet Lamprocapnos spectabilis Valentine og en rosa småhjerte med navnet Dicentra formosa, King of Hearts. Den er litt liten enda og blomstene er ikke helt utsprunget, men jeg håper den vil vise seg litt mer fram utover sommeren. Oppdaget også at jeg hadde en Dicentra eximia Alba, så da ble det plutselig en fin liten samling. Det fine med Dicentra formosa er at de blomstrer lengre enn de vanlige løytnantshjertene. Trykker du deg inn på bildene, får du opp navnene på dem jeg kjenner de riktige navnene på.
