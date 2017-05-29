@@ -21,6 +21,7 @@ De vanlige hvite løytnantshjertene Lamprocapnos spectabilis Alba vokser og blir
 
 Men de rosa løytnantshjertene blir det færre og færre blomster på. Hva gjør jeg feil? De står i halvskygge med passe fuktighet og sturer. Er det noen som har et godt råd? 
 
-![Lamprocapnos spectabilis]({{site.baseurl}}/assets/img/Lamprocapnos%20spectabilis.JPG)
+![Lamprocapnos spectabilis 2]({{site.baseurl}}/assets/img/Lamprocapnos spectabilis 2.JPG)
+
 
 
