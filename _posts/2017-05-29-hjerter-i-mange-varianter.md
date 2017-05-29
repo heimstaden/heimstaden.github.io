@@ -35,4 +35,4 @@ Nå kommer også stemoren som jeg sådde i januar. Ingen vår og sommer uten ste
 
 ![Svart stemor 2]({{site.baseurl}}/assets/img/Svart stemor 2.JPG)
 
-
+Ha en riktig fin uke!
