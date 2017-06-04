@@ -32,7 +32,7 @@ Allium er en kjær prydløk som sprer seg litt for hvert år. Her er den sammen 
 
 ![Pieris Forest Flame 2]({{site.baseurl}}/assets/img/Pieris Forest Flame 2.JPG)
 
-Oppdaget i år at jeg hadde mistet min fine duppesoleie som jeg hadde fått av en kollega. Heldige meg fikk straks en ny av min snille og fine kollega. Nå skal jeg ta veldig godt vare på den. 
+Oppdaget i år at jeg hadde mistet min fine duppesoleie som jeg hadde fått av en kollega. Heldige meg fikk straks en ny av min snille og gode kollega. Nå skal jeg ta veldig godt vare på den. 
 
 ![Ranunculus aconitifolius]({{site.baseurl}}/assets/img/Ranunculus aconitifolius.JPG)
 
