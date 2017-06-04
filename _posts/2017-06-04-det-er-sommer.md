@@ -1,7 +1,7 @@
 ---
 date: '2017-06-04 15:28 +0200'
 layout: post
-published: false
+published: true
 title: Det er sommer
 thumbnail: Syrin.JPG
 description: 'Mai har gått over i juni og da er rett og slett sommeren her. '
@@ -45,8 +45,3 @@ Den første stjerneskjermen som blomstrer i år er Astrantia Venice. Den har en 
 ![Astrantia Venice 1]({{site.baseurl}}/assets/img/Astrantia Venice 1.JPG)
 
 Fortsatt god pinse!
-
-
-
-
-
