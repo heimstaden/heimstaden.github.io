@@ -28,10 +28,20 @@ Allium er en kjær prydløk som sprer seg litt for hvert år. Her er den sammen 
 
 ![Allium og Pieris forest flame]({{site.baseurl}}/assets/img/Allium og Pieris forest flame.JPG)
 
-![Pieris Forest Flame 1]({{site.baseurl}}/assets/img/Pieris%20Forest%20Flame%201.JPG)
-Oppdaget i år at jeg hadde mistet min fine duppesoleie som jeg hadde fått av en kollega. Heldige meg fikk straks en ny. Nå skal jeg ta veldig godt vare på den. 
-En morsom plante er Hymenocallis som jeg overvintrer inne. Disse fikk ny jord i begynnelsen av mai og nå er blomstringen i gang.  De danner store knoller etter hvert. 
+![Pieris Forest Flame 2]({{site.baseurl}}/assets/img/Pieris Forest Flame 2.JPG)
+
+Oppdaget i år at jeg hadde mistet min fine duppesoleie som jeg hadde fått av en kollega. Heldige meg fikk straks en ny av min snille og fine kollega. Nå skal jeg ta veldig godt vare på den. 
+
+![Ranunculus aconitifolius]({{site.baseurl}}/assets/img/Ranunculus aconitifolius.JPG)
+
+En morsom plante er Hymenocallis som jeg overvintrer inne. Disse fikk ny jord i begynnelsen av mai og nå er blomstringen i gang.  De danner store knoller etter hvert. Absolutt en sommerfavoritt med spesielt utseende og en herlig duft. 
+
+![Hymenocallis x festalis Zwanenburg]({{site.baseurl}}/assets/img/Hymenocallis x festalis Zwanenburg.JPG)
+
 Den første stjerneskjermen som blomstrer i år er Astrantia Venice. Den har en nydelig rosa farge. I år har det endelig blitt litt størrelse på den slik at jeg har fått delt den og plantet den litt flere steder. 
+
+![Astrantia Venice 1]({{site.baseurl}}/assets/img/Astrantia Venice 1.JPG)
+
 
 
 
