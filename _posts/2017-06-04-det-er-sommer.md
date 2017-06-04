@@ -3,6 +3,8 @@ date: '2017-06-04 15:28 +0200'
 layout: post
 published: false
 title: Det er sommer
+thumbnail: Syrin.JPG
+description: 'Mai har gått over i juni og da er rett og slett sommeren her. '
 ---
 
 Vi har startet på juni, som helt klart er den første sommermåneden. Selv om temperaturene ikke er helt sommerlige akkurat nå, er det mange andre tegn på at sommeren er kommet. Når akeleier, syrin, iris og stjerneskjerm har begynt blomstringen, er det definitivt sommer. 
