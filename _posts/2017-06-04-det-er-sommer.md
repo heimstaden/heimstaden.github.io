@@ -22,7 +22,13 @@ Jeg har en del Iris i hagen og når disse starter blomstringen, er det helt klar
 
 ![iris germanica-hybrid Hemstitched 2]({{site.baseurl}}/assets/img/Iris germanica-hybrid Hemstitched 2.JPG)
 
+![Iris germanica hybrid Immortality 2]({{site.baseurl}}/assets/img/Iris germanica hybrid Immortality 2.JPG)
+
 Allium er en kjær prydløk som sprer seg litt for hvert år. Her er den sammen med Pieris forest flame som nå har kledd seg i nye farger. For en måned siden var den rødlig. Skulle nesten ikke tro at det er samme plante. 
+
+![Allium og Pieris forest flame]({{site.baseurl}}/assets/img/Allium og Pieris forest flame.JPG)
+
+![Pieris Forest Flame 1]({{site.baseurl}}/assets/img/Pieris%20Forest%20Flame%201.JPG)
 Oppdaget i år at jeg hadde mistet min fine duppesoleie som jeg hadde fått av en kollega. Heldige meg fikk straks en ny. Nå skal jeg ta veldig godt vare på den. 
 En morsom plante er Hymenocallis som jeg overvintrer inne. Disse fikk ny jord i begynnelsen av mai og nå er blomstringen i gang.  De danner store knoller etter hvert. 
 Den første stjerneskjermen som blomstrer i år er Astrantia Venice. Den har en nydelig rosa farge. I år har det endelig blitt litt størrelse på den slik at jeg har fått delt den og plantet den litt flere steder. 
