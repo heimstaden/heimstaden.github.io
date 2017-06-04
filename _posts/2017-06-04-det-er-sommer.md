@@ -18,7 +18,10 @@ Syrinen lukter av sommer.
 
 ![Syrin]({{site.baseurl}}/assets/img/Syrin.JPG)
 
-Jeg har en del Iris i hagen og når disse starter blomstringen, er det helt klart sommer. Iris germanica er de første i år og her er tre av dem i gang. 
+Jeg har en del Iris i hagen og når disse starter blomstringen, er det helt klart sommer. Iris germanica er de første i år og her er to av dem. 
+
+![iris germanica-hybrid Hemstitched 2]({{site.baseurl}}/assets/img/Iris germanica-hybrid Hemstitched 2.JPG)
+
 Allium er en kjær prydløk som sprer seg litt for hvert år. Her er den sammen med Pieris forest flame som nå har kledd seg i nye farger. For en måned siden var den rødlig. Skulle nesten ikke tro at det er samme plante. 
 Oppdaget i år at jeg hadde mistet min fine duppesoleie som jeg hadde fått av en kollega. Heldige meg fikk straks en ny. Nå skal jeg ta veldig godt vare på den. 
 En morsom plante er Hymenocallis som jeg overvintrer inne. Disse fikk ny jord i begynnelsen av mai og nå er blomstringen i gang.  De danner store knoller etter hvert. 
