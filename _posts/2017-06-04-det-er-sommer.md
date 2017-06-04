@@ -16,7 +16,7 @@ De to akeleiene her har sådd seg selv. Litt snodig at blomstene på den rosa ve
 
 <!--more-->
 
-Syrinen lukter av sommer. 
+Ingen sommer uten syriner. 
 
 ![Syrin]({{site.baseurl}}/assets/img/Syrin.JPG)
 
@@ -40,11 +40,11 @@ En morsom plante er Hymenocallis som jeg overvintrer inne. Disse fikk ny jord i 
 
 ![Hymenocallis x festalis Zwanenburg]({{site.baseurl}}/assets/img/Hymenocallis x festalis Zwanenburg.JPG)
 
-Den første stjerneskjermen som blomstrer i år er Astrantia Venice. Den har en nydelig rosa farge. I år har det endelig blitt litt størrelse på den slik at jeg har fått delt den og plantet den litt flere steder. 
+Den første stjerneskjermen som blomstrer i år er Astrantia Venice. Den har en nydelig rosa farge. I år har den endelig fått litt størrelse slik at jeg har fått delt den og plantet den på flere steder. 
 
 ![Astrantia Venice 1]({{site.baseurl}}/assets/img/Astrantia Venice 1.JPG)
 
-
+Fortsatt god pinse!
 
 
 
