@@ -38,7 +38,7 @@ Den andre er en større type som ruver litt mer. Den har en mørkere rosafarge i
 
 ![Ukjent Rhododendron 2]({{site.baseurl}}/assets/img/Ukjent Rhododendron 2.JPG)
 
-Nå håper jeg snart det slutter å regne for nå trenger både jeg og plantene sol.
+Nå håper jeg det snart slutter å regne for nå trenger både jeg og plantene sol.
 
 Ha en fin ny uke!
 
