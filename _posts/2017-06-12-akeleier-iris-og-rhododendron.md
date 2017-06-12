@@ -6,8 +6,8 @@ title: 'Akeleier, Iris og Rhododendron'
 thumbnail: Iris %20chrysographes%202.JPG
 description: >-
   Juni er måneden da flere av favorittplantene starter showet. Irisen er blant
-  dem, men i regnværet blir de liksom ikke like fine, så nå håper jeg at det
-  slutter å regne snart.
+  dem, men med alt regnet blir de ikke like fine, så nå håper jeg at det slutter
+  å regne snart.
 ---
 
 Det er fortsatt akeleier som blomstrer. De er fine og grasiøse alene eller sammen med andre. 
