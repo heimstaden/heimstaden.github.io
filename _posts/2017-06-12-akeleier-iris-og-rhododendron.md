@@ -5,7 +5,7 @@ published: true
 title: 'Akeleier, Iris og Rhododendron'
 description: >-
   Juni er måneden da flere av favorittplantene starter showet. Irisen er blant
-  dem, men selv om de tåler endel dårlig vær, så blir blomstringen mer
+  dem, og selv om den tåler endel dårlig vær, så blir blomstringen mer
   kortvarig.  Nå håper jeg at det slutter å regne snart.
 thumbnail: Iris%20germanica%20Night%20Owl%202.JPG
 ---
