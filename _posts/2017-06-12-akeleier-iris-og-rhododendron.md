@@ -7,7 +7,7 @@ title: 'Akeleier, Iris og Rhododendron'
 
 Det er fortsatt akeleier som blomstrer. De er fine og grasiøse alene eller sammen med andre. 
 
-![Fylt akeleie 1]({{site.baseurl}}/assets/img/Fylt%20Akeleie%201.JPG)
+![Akeleie]({{site.baseurl}}/assets/img/Akeleie.JPG)
 
 ![Lilla Akeleie]({{site.baseurl}}/assets/img/Lilla akeleie.JPG)
 
