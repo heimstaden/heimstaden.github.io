@@ -3,7 +3,7 @@ date: '2017-06-12 19:47 +0200'
 layout: post
 published: true
 title: 'Akeleier, Iris og Rhododendron'
-thumbnail: Iris chrysographes 2.JPG
+thumbnail: Iris %20chrysographes%202.JPG
 description: >-
   Juni er måneden da flere av favorittplantene starter showet. Irisen er blant
   dem, men i regnværet blir de liksom ikke like fine, så nå håper jeg at det
