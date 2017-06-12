@@ -1,7 +1,7 @@
 ---
 date: '2017-06-12 19:47 +0200'
 layout: post
-published: false
+published: true
 title: 'Akeleier, Iris og Rhododendron'
 description: >-
   Juni er måneden da flere av favorittplantene starter showet. Irisen er blant
