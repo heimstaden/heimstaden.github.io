@@ -35,5 +35,8 @@ De siste i dag er to ukjente Rhododendron. Den første er mørk rosa når den st
 
 ![Ukjent Rhododendron 2]({{site.baseurl}}/assets/img/Ukjent Rhododendron 2.JPG)
 
+Nå håper jeg snart det slutter å regne for nå trenger både jeg og plantene sol.
+Ha en fin ny uke!
+
 
 
