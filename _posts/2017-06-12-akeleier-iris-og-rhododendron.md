@@ -34,9 +34,12 @@ De siste i dag er to ukjente Rhododendron. Den første er mørk rosa når den st
 
 ![Ukjent Rhododendron]({{site.baseurl}}/assets/img/Ukjent Rhododendron.JPG)
 
+Den andre er en større type som ruver litt mer. Den har en mørkere rosafarge i virkeligheten enn bildet viser.
+
 ![Ukjent Rhododendron 2]({{site.baseurl}}/assets/img/Ukjent Rhododendron 2.JPG)
 
 Nå håper jeg snart det slutter å regne for nå trenger både jeg og plantene sol.
+
 Ha en fin ny uke!
 
 
