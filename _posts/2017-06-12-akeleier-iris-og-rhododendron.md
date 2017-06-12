@@ -21,7 +21,6 @@ Noen av irisene er kommet forsiktig i gang med blomstringen og jeg gleder meg ti
 
 ![Iris chrysographes 2]({{site.baseurl}}/assets/img/Iris chrysographes 2.JPG)
 
-
 Iris sibirica har jeg etter hvert fått mange av rundt omkring i hagen. Selv om de vaier på høye stilker tåler de godt både regn og vind her på Vestlandet.  Skulle bare ønske de kunne blomstre hele sommeren, men jeg får nyte dem så lenge det varer. 
 
 ![Iris sibirica]({{site.baseurl}}/assets/img/Iris sibirica 1.JPG)
@@ -34,7 +33,7 @@ De siste i dag er to ukjente Rhododendron. Den første er mørk rosa når den st
 
 ![Ukjent Rhododendron]({{site.baseurl}}/assets/img/Ukjent Rhododendron.JPG)
 
-Den andre er en større type som ruver litt mer. Den har en mørkere rosafarge i virkeligheten enn bildet viser.
+Den andre er en større type som ruver litt mer. Den har en mørkere rosafarge i virkeligheten enn bildet viser. I år er det utrolig mye flott blomstring på Rhododendroene rundt omkring. De blomstrer i hager, langs veier og i parker. 
 
 ![Ukjent Rhododendron 2]({{site.baseurl}}/assets/img/Ukjent Rhododendron 2.JPG)
 
