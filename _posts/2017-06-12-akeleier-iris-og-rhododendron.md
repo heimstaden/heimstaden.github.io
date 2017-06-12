@@ -17,7 +17,7 @@ Det er fortsatt akeleier som blomstrer. De er fine og grasiøse alene eller samm
 
 ![Iris germanica og Akeleie]({{site.baseurl}}/assets/img/Iris germanica og akeleie.JPG)
 
-Noen av irisene er kommet forsiktig i gang med blomstringen og jeg gleder meg til at resten skal følge etter. Iris er blant storfavorittene i hagen. På lørdag plantet jeg ni nye, men de får jeg nok ikke se før til neste år. Den mørke irisen er en Iris chrysographes eller stråleiris på norsk.  Jeg tok frø av den for 3 år siden og nå er det endelig kommet blomster på disse også.
+Noen av irisene er kommet forsiktig i gang med blomstringen og jeg gleder meg til resten følger etter. Iris er blant storfavorittene i hagen. På lørdag plantet jeg ni nye, men de får jeg nok ikke se før til neste år. Den mørke irisen er en Iris chrysographes eller stråleiris på norsk.  Jeg tok frø av den for 3 år siden og nå er det endelig kommet blomster på disse også.
 
 ![Iris chrysographes 2]({{site.baseurl}}/assets/img/Iris chrysographes 2.JPG)
 
