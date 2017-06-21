@@ -24,5 +24,14 @@ Flere og flere iris har etterhvert kommet i blomst og flere er på vei.
 ![Iris sibirica Rikugi Sakura 2017]({{site.baseurl}}/assets/img/Iris sibirica Rikugi Sakura 2017.JPG)
 
 Første rosen i år, er Rose Rapsody in Blue. Nydelig er den, men litt pjusk etter et par flyttinger i fjor. 
+
+![Rose Rapsody in Blue]({{site.baseurl}}/assets/img/Rose Rapsody in Blue 2017.JPG)
+
 Ny rose av året er Starlet Rose Alina. Den er en buskrose som jeg har plassert ved hjørnet av et stakittgjerde. Håper den vokser fort slik at den kan henge over gjerdet. 
+
+![Starlet Rose Alina]({{site.baseurl}}/assets/img/Starlet Rose Alina .JPG)
+
 Det vokser og gror veldig med alt regnet og det er frodig. 
+
+![Frodig i hagen]({{site.baseurl}}/assets/img/Frodig i hagen.JPG)
+
