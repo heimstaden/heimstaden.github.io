@@ -3,6 +3,10 @@ date: '2017-06-21 21:15 +0200'
 layout: post
 published: false
 title: Wisteria i blomst på sommersolverv
+thumbnail: Wisteria%202%202017.JPG
+description: >-
+  Dagen i dag er den lengste i året.  Det er frodig i hagen og blåregn, Iris og
+  roser er tema i dagens innlegg.
 ---
 
 Endelig er det blitt flere blomster på blåregnen min. I fjor hadde jeg en blomst, men i år telte jeg bortimot 40 knupper. På grunn av kjølig og fuktig vær har det tatt tid før den har begynt å blomstre og nesten blitt borte i alt bladverket. Dermed friserte jeg den litt for at blomstene i det minste skulle komme til syne. Dufter nydelig gjør den også.
