@@ -17,3 +17,12 @@ I skyggen av blåregnen trives Heuchera og Hosta.
 
 ![I skyggen av Wisteria]({{site.baseurl}}/assets/img/I skyggen av Wisteria.JPG)
 
+Flere og flere iris har etterhvert kommet i blomst og flere er på vei.
+
+![Iris Roy Elliott]({{site.baseurl}}/assets/img/Iris Roy Elliott 2017.JPG)
+
+![Iris sibirica Rikugi Sakura 2017]({{site.baseurl}}/assets/img/Iris sibirica Rikugi Sakura 2017.JPG)
+
+Første rosen i år, er Rose Rapsody in Blue. Nydelig er den, men litt pjusk etter et par flyttinger i fjor. 
+Ny rose av året er Starlet Rose Alina. Den er en buskrose som jeg har plassert ved hjørnet av et stakittgjerde. Håper den vokser fort slik at den kan henge over gjerdet. 
+Det vokser og gror veldig med alt regnet og det er frodig. 
