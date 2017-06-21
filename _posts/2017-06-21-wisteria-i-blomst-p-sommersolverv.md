@@ -29,7 +29,7 @@ Flere og flere iris har etterhvert kommet i blomst og flere er på vei.
 
 ![Iris sibirica Rikugi Sakura 2017]({{site.baseurl}}/assets/img/Iris sibirica Rikugi Sakura 2017.JPG)
 
-Første rosen i år, er Rose Rapsody in Blue. Nydelig er den, men litt pjusk etter et par flyttinger i fjor. 
+Første rosen i år, er Rose Rapsody in Blue. Nydelig er den, men litt pjusk etter å ha vært på flyttefot et par ganger i fjor. 
 
 ![Rose Rapsody in Blue]({{site.baseurl}}/assets/img/Rose Rapsody in Blue 2017.JPG)
 
