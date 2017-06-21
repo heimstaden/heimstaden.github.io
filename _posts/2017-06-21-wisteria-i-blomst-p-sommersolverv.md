@@ -11,6 +11,8 @@ Endelig er det blitt flere blomster på blåregnen min. I fjor hadde jeg en blom
 
 ![Wisterie 2 2017]({{site.baseurl}}/assets/img/Wisteria 2 2017.JPG)
 
+<!--more-->
+
 ![Wisteria 3 2017]({{site.baseurl}}/assets/img/Wisteria 3 2017.JPG)
 
 I skyggen av blåregnen trives Heuchera og Hosta. 
