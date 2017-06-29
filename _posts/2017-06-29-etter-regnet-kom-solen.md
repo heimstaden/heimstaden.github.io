@@ -21,5 +21,22 @@ Nå er det også tid for Geranium. Noen har blomstret lenge og flere kommer ette
 
 ![Geranium og Saxifraga Urbium]({{site.baseurl}}/assets/img/Geranium og Saxifraga Urbium 2017.JPG)
 
+Det er frodig i bedene og her har noen dannet en fin gruppe sammen. Til høyre ser du en lilla Prydsvinerot, i midten er det muligens en salvie sammen med en mørk Iris og bak svever Allium siculum.
+
+![Frodig]({{site.baseurl}}/assets/img/Frodig.JPG)
+
+En plante jeg har fått mer og mer sansen for er etasjeprimula. Her er Primula Japonica Miller´s crimson, men jeg synes den er veldig lys rosa i forhold til andre bilder av denne planten når jeg googler den. Det kommer stadig nye etasjer oppover. Her kan det bli en ny favoritt. 
+
+![Primula japonica Millers crimson]({{site.baseurl}}/assets/img/Primula Japonica Millers crimson 2017.JPG)
+
+Fjellflokken eller Polemonium Boreale har også startet showet og den holder det gående helt til frosten hvis jeg klipper bort de visne blomstene etter hvert. Den frør seg en del, men det er ikke plagsomt, for den er lett å luke vekk. 
+
+![Polemonium Boreale]({{site.baseurl}}/assets/img/Polemonium Boreale 2017.JPG)
+
+Flere roser har også kommet i gang. Her er favoritten Sissel Renaissance. Det har aldri vært så voldsom blomstring på denne, men den lukter så helt utrolig godt. 
+
+![Sissel Renaissance]({{site.baseurl}}/assets/img/Sissel Renaissance 2017.JPG)
+
+
 
 
