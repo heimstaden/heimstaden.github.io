@@ -37,6 +37,13 @@ Flere roser har også kommet i gang. Her er favoritten Sissel Renaissance. Det h
 
 ![Sissel Renaissance]({{site.baseurl}}/assets/img/Sissel Renaissance 2017.JPG)
 
+Sistemann ut i dag er en arveplante etter min mor, en eller annen Oxalis. Med litt sol kom blomstringen skikkelig i gang på denne også. Når den visner klippes den ned og da tar det ikke lang tid før den er i gang igjen. Denne må overvintres inne.
+
+![Oxalis]({{site.baseurl}}/assets/img/Oxalis 2017.JPG)
+
+Ønsker alle fine sommerdager fremover!
+
+
 
 
 
