@@ -1,7 +1,7 @@
 ---
 date: '2017-06-29 21:39 +0200'
 layout: post
-published: false
+published: true
 title: Etter regnet kom solen
 description: >-
   Endelig stoppet regnet og vi fikk litt sol og sommer her i Bergen også. Det
@@ -46,8 +46,3 @@ Sistemann ut i dag er en arveplante etter min mor, en eller annen Oxalis. Med li
 ![Oxalis]({{site.baseurl}}/assets/img/Oxalis 2017.JPG)
 
 Ønsker alle fine sommerdager fremover!
-
-
-
-
-
