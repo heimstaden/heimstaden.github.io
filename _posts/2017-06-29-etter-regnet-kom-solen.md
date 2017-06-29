@@ -6,7 +6,7 @@ title: Etter regnet kom solen
 description: >-
   Endelig stoppet regnet og vi fikk litt sol og sommer her i Bergen også. Det
   var på tide for enkelte planter holdt på å drukne. Nå skinner de igjen. 
-thumbnail: Oxalis5202017.JPG
+thumbnail: Oxalis%202017.JPG
 ---
 
 Det tar heldigvis ikke lang tid før plantene retter seg opp etter alt regnet. Flere iris er i gang med blomstringen, så her er dem som lyser opp i bedene nå.Trykker du inn på bildene, får du opp navnene på dem jeg kjenner de riktige navnene på.
