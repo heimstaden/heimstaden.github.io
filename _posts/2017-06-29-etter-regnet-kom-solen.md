@@ -3,6 +3,9 @@ date: '2017-06-29 21:39 +0200'
 layout: post
 published: false
 title: Etter regnet kom solen
+description: >-
+  Endelig stoppet regnet og vi fikk litt sol og sommer her i Bergen også. Det
+  var på tide for enkelte planter holdt på å drukne. Nå skinner de igjen.
 ---
 
 Det tar heldigvis ikke lang tid før plantene retter seg opp etter alt regnet. Flere iris er i gang med blomstringen, så her er dem som lyser opp i bedene nå.Trykker du inn på bildene, får du opp navnene på dem jeg kjenner de riktige navnene på.
