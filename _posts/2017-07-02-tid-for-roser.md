@@ -3,9 +3,11 @@ date: '2017-07-02 13:34 +0200'
 layout: post
 published: false
 title: Tid for roser
+description: Det tok ikke lang tid fra solen kom tilbake til rosene startet showet.
+thumbnail: Queen%20of %20Sweden%202017.JPG
 ---
 
-Det tok ikke lang tid fra solen kom tilbake til rosene startet showet. De har stått på stedet hvil i lang tid, men med sol og varme spretter de ut en etter en. Alle mine roser er remonterende, det vil si at de fortsetter å blomstre utover sommeren og høsten. For å få flest mulig blomster, klipper jeg vekk de visne roseblomstene etter hvert. 
+De har stått på stedet hvil i lang tid, men med sol og varme spretter de ut en etter en. Alle mine roser er remonterende, det vil si at de fortsetter å blomstre utover sommeren og høsten. For å få flest mulig blomster, klipper jeg vekk de visne roseblomstene etter hvert. 
 
 Queen of Sweden kjøpte jeg i fjor. Den har en nydelig farge, som går fra den fargen du ser på bildet, mot en litt blekere rosa etter hvert. Det sies at den tåler regn godt, så da passer den godt her i Bergen. 
 
