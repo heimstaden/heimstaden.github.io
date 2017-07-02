@@ -1,7 +1,7 @@
 ---
 date: '2017-07-02 13:34 +0200'
 layout: post
-published: false
+published: true
 title: Tid for roser
 description: Det tok ikke lang tid fra solen kom tilbake til rosene startet showet.
 thumbnail: Queen%20of %20Sweden%202017.JPG
@@ -48,9 +48,3 @@ I fjor lagde jeg meg et peonbed og flyttet rundt på de få peonene jeg har i ha
 ![Ukjent Peon]({{site.baseurl}}/assets/img/Ukjent Peon 2017.JPG)
 
 Ha en fin start på juli!
-
- 
-
-
-
-
