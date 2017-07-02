@@ -4,7 +4,7 @@ layout: post
 published: true
 title: Tid for roser
 description: Det tok ikke lang tid fra solen kom tilbake til rosene startet showet.
-thumbnail: Queen%20of %20Sweden%202017.JPG
+thumbnail: Queen%20of%20Sweden%202017.JPG
 ---
 
 Rosene har stått på stedet hvil i lang tid, men med sol og varme spretter de ut en etter en. Alle mine roser er remonterende, det vil si at de fortsetter å blomstre utover sommeren og høsten. For å få flest mulig blomster, klipper jeg vekk de visne roseblomstene etter hvert. 
