@@ -15,6 +15,8 @@ Klatrerosen New Dawn er også i gang og den er full av knopper. Gleder meg til f
 
 ![New Dawn]({{site.baseurl}}/assets/img/New Dawn 2017.JPG)
 
+<!--more-->
+
 Stanwell Perpetual har lenge vært på flyttefot i min hage. Nå tror jeg at den har fått en permanent plass, for nå er planen at skal den få vokse fritt og henge over et nymalt stakittgjerde. Det er i hvert fall drømmen. Rosen har en fantastisk duft, men en rotete måte å vokse på. Bladene blir ofte veldig stygge og skjemmende, men den skal få en sjanse til.
 
 ![Stanwell Perpetual]({{site.baseurl}}/assets/img/Stanwell Perpetual 2017.JPG)
@@ -28,6 +30,12 @@ Klatrerosen Climbing Snow Princess kjøpte jeg i fjor, den har foreløpig ikke v
 ![Climbing Snow Princess]({{site.baseurl}}/assets/img/Climbing Snow Princess 2017.JPG)
 
 Schneewaltzer er den eldste rosen i hagen. Den er en frisk og fin klatrerose. Det hender at knoppene går i ball i hvis det blir for mye regn og da klarer den ikke å sprette ut. Med de varme dagene denne uken, har den foreløpig klart seg fint. Når denne rosen, klematis og riddersporer blomstrer samtidig, er det et syn. I år har imidlertid sneglene hatt riddersporer som favorittmat, så de er ikke like flotte som før, men de fortjener å bli vist fram. Håper at flere vil komme etter hvert. 
+
+![Schneewaltzer]({{site.baseurl}}/assets/img/Schneewaltzer 2017.JPG)
+
+![Delphinium elatum]({{site.baseurl}}/assets/img/Delphinium elatum 2017.JPG)
+
+![Ukjent Delphinium]({{site.baseurl}}/assets/img/Ukjent Delphinium 2017.JPG)
 
 
 Selvfølgelig snek det seg inn en iris i dette innlegget også. Det er nok den siste for i år. 
