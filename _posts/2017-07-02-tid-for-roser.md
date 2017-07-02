@@ -24,7 +24,12 @@ Sympathie har en nydelig rødfarge og en svak duft av sommer. Den er en frisk og
 ![Sympathie]({{site.baseurl}}/assets/img/Sympathie 2017.JPG)
 
 Klatrerosen Climbing Snow Princess kjøpte jeg i fjor, den har foreløpig ikke vokst så mye, men jeg får gi den litt mer tid. 
-Schneewaltzer er den eldste rosen i hagen. Den er en frisk og fin klatrerose. Det hender at knoppene går i ball i hvis det blir for mye regn og da klarer den ikke å sprette ut. Med de varme dagene som var, har den foreløpig klart seg fint. Når denne rosen, klematis og riddersporer blomstrer samtidig, er det et syn. I år har imidlertid sneglene hatt riddersporer som favorittmat, så de er ikke like flotte som før, men de fortjener å bli vist fram. Håper at flere vil komme etter hvert. 
+
+![Climbing Snow Princess]({{site.baseurl}}/assets/img/Climbing Snow Princess 2017.JPG)
+
+Schneewaltzer er den eldste rosen i hagen. Den er en frisk og fin klatrerose. Det hender at knoppene går i ball i hvis det blir for mye regn og da klarer den ikke å sprette ut. Med de varme dagene denne uken, har den foreløpig klart seg fint. Når denne rosen, klematis og riddersporer blomstrer samtidig, er det et syn. I år har imidlertid sneglene hatt riddersporer som favorittmat, så de er ikke like flotte som før, men de fortjener å bli vist fram. Håper at flere vil komme etter hvert. 
+
+
 Selvfølgelig snek det seg inn en iris i dette innlegget også. Det er nok den siste for i år. 
 I fjor lagde jeg meg et peonbed og flyttet rundt på de få peonene jeg har i hagen. I år er det derfor blitt lite peonblomstring, men en og annen blomst har overrasket. Denne har heller aldri blomstret før. 
  
