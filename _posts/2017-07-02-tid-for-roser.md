@@ -19,7 +19,7 @@ Klatrerosen New Dawn er også i gang og den er full av knopper. Gleder meg til f
 
 <!--more-->
 
-Stanwell Perpetual har lenge vært på flyttefot i min hage. Nå tror jeg at den har fått en permanent plass, for nå er planen at skal den få vokse fritt og henge over et nymalt stakittgjerde. Det er i hvert fall drømmen. Rosen har en fantastisk duft, men en rotete måte å vokse på. Bladene blir ofte veldig stygge og skjemmende, men den skal få en sjanse til.
+Stanwell Perpetual har lenge vært på flyttefot i min hage. Nå tror jeg at den har fått en permanent plass, for nå er planen at den skal få vokse fritt og henge over et nymalt stakittgjerde. Det er i hvert fall drømmen. Rosen har en fantastisk duft, men en rotete måte å vokse på. Bladene blir ofte veldig stygge og skjemmende, men den skal få en sjanse til.
 
 ![Stanwell Perpetual]({{site.baseurl}}/assets/img/Stanwell Perpetual 2017.JPG)
 
