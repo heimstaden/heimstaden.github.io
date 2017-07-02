@@ -5,7 +5,7 @@ published: false
 title: Tid for roser
 ---
 
-Det tok ikke lang tid fra solen kom tilbake til rosene startet showet. De har stått på stedet hvil i lang tid, men med sol og varme spretter de ut en etter en. Alle mine roser er remonterende, det vil si at de fortsetter å blomstre utover sommeren og høsten. For å få flest mulig blomster, klipper jeg vekk de visne roseblomstene etter hvert.
+Det tok ikke lang tid fra solen kom tilbake til rosene startet showet. De har stått på stedet hvil i lang tid, men med sol og varme spretter de ut en etter en. Alle mine roser er remonterende, det vil si at de fortsetter å blomstre utover sommeren og høsten. For å få flest mulig blomster, klipper jeg vekk de visne roseblomstene etter hvert. 
 
 Queen of Sweden kjøpte jeg i fjor. Den har en nydelig farge, som går fra den fargen du ser på bildet, mot en litt blekere rosa etter hvert. Det sies at den tåler regn godt, så da passer den godt her i Bergen. 
 
@@ -37,9 +37,14 @@ Schneewaltzer er den eldste rosen i hagen. Den er en frisk og fin klatrerose. De
 
 ![Ukjent Delphinium]({{site.baseurl}}/assets/img/Ukjent Delphinium 2017.JPG)
 
+Selvfølgelig snek det seg inn en iris i dette innlegget også. Dette er nok den siste for i år. 
 
-Selvfølgelig snek det seg inn en iris i dette innlegget også. Det er nok den siste for i år. 
+![Iris sibirica Gulls Wing]({{site.baseurl}}/assets/img/Iris sibirica Gulls Wing 2017.JPG)
+
 I fjor lagde jeg meg et peonbed og flyttet rundt på de få peonene jeg har i hagen. I år er det derfor blitt lite peonblomstring, men en og annen blomst har overrasket. Denne har heller aldri blomstret før. 
+
+![Ukjent Peon]({{site.baseurl}}/assets/img/Ukjent Peon 2017.JPG)
+
  
 
 
