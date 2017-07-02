@@ -45,6 +45,8 @@ I fjor lagde jeg meg et peonbed og flyttet rundt på de få peonene jeg har i ha
 
 ![Ukjent Peon]({{site.baseurl}}/assets/img/Ukjent Peon 2017.JPG)
 
+Ha en fin start på juli!
+
  
 
 
