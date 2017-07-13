@@ -37,8 +37,14 @@ Martagonliljene står også enda. Kjøpte en som skulle være hvit, men fikk en 
 ![Rosa Martagonlilje]({{site.baseurl}}/assets/img/Rosa Martagonlilje.JPG)
 
 En plante jeg har sådd i år er Agastache foeniculum Golden Jubilee. Vet ikke om den bare er en sommerblomst eller en staude. Det får jeg se til neste år. Den har et nydelig gulgrønt bladverk med blålilla blomster. Lett å få til fra frø var den også. 
-To små bekker av Lobelia har fått plass i en av skråningene i år. Nå har de vokst seg litt til. 
-Nå håper jeg på litt mer varme.
+
+![Agastache foeniculum Golden jubilee]({{site.baseurl}}/assets/img/Agastache foeniculum Golden Jubilee 2017.JPG)
+
+To små bekker av Lobelia har fått plass i en av skråningene i år. Nå har de vokst seg litt til og her er den ene.
+
+![Lobelia bekk]({{site.baseurl}}/assets/img/Lobelia bekk.JPG)
+
+Nå håper jeg på litt mer varme!
 
 
 
