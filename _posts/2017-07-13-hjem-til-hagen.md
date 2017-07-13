@@ -1,7 +1,7 @@
 ---
 date: '2017-07-13 19:59 +0200'
 layout: post
-published: false
+published: true
 title: Hjem til hagen
 thumbnail: Paeonia%20Bowl%20of%20Beauty%202017.JPG
 description: >-
@@ -49,6 +49,3 @@ To små bekker av Lobelia har fått plass i en av skråningene i år. Nå har de
 ![Lobelia bekk]({{site.baseurl}}/assets/img/Lobelia bekk.JPG)
 
 Nå håper jeg på litt mer varme!
-
-
-
