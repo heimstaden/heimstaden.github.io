@@ -4,9 +4,12 @@ layout: post
 published: false
 title: Hjem til hagen
 thumbnail: Paeonia%20Bowl%20of%20Beauty%202017.JPG
+description: >-
+  Etter en uke i vakre og solfylte Portugal vender vi nesen hjemover.  Borte bra
+  men hjemme best gjelder ikke for været .
 ---
 
-En uke borte fra hagen, men her har det ikke skjedd så mye. Kjølige temperaturer har rett og slett gjort at det ser omtrent ut som da vi dro. Jeg kjøpte silkepeonen Paeonia Bowl of Beauty i Keukenhof for 3 år siden. Den har ikke blomstret før, men i år har den hatt en knupp.  Jeg var så spent på om jeg rakk å se den i blomst, og det gjorde jeg heldigvis.  Min hvite silkepeon ble flyttet i fjor, så den har ingen blomster i år dessverre. 
+En uke borte fra hagen, og her har det ikke skjedd mye. Kjølige temperaturer har rett og slett gjort at det ser omtrent ut som da vi dro. Jeg kjøpte silkepeonen Paeonia Bowl of Beauty i Keukenhof for 3 år siden. Den har ikke blomstret før, men i år har den hatt en knupp.  Jeg var så spent på om jeg rakk å se den i blomst, og det gjorde jeg heldigvis.  Min hvite silkepeon ble flyttet i fjor, så den har ingen blomster i år dessverre. 
 
 ![Paeonia Bowl of Beauty]({{site.baseurl}}/assets/img/Paeonia Bowl of Beauty 2017.JPG)
 
@@ -19,7 +22,7 @@ Clematis Piilu er litt spesiell da den har både enkle og doble blomster. Clemat
 
 <!--more-->
 
-Rosa Mjødurt og rød Astilbe sammen med mørkbladet Sedum ble ikke så aller verst sammen synes jeg. Gøy når planter finner hverandre uten at det er helt planlagt. 
+Rosa Mjødurt og rød Astilbe sammen med mørkbladet Sedum ble ikke så aller verst sammen synes jeg. Artig når planter finner hverandre uten at det er planlagt. 
 
 ![Filipendula multijuga Red Umbrellas og Astilbe]({{site.baseurl}}/assets/img/Filipendula multijuga Red Umbrellas og Astilbe.JPG)
 
