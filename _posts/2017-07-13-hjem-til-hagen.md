@@ -22,12 +22,20 @@ Rosa Mjødurt og rød Astilbe sammen med mørkbladet Sedum ble ikke så aller ve
 
 ![Filipendula multijuga Red Umbrellas og Astilbe]({{site.baseurl}}/assets/img/Filipendula multijuga Red Umbrellas og Astilbe.JPG)
 
-Noen andre som har funnet hverandre er Bronseblad og Trebladgillenia. 
+Noen andre som har funnet hverandre er Bronseblad og Trebladgillenia. Bronseblad begynner å breie seg litt vel mye nå, så de må jeg nok passe litt på slik at de ikke tar helt over.
 
 ![Rodgersia hybrid Chocolate Wings og Gillenia trifoliata]({{site.baseurl}}/assets/img/Rodgersia hybrid Chocolate Wings og Gillenia trifoliata.JPG)
 
-Nå er prydsvineroten jeg sådde for noen år siden endelig i blomst. Den lyser virkelig opp i bedet. 
-Martagonliljene står også enda. Kjøpte en som skulle være hvit, men fikk en rosa i stedet. 
+Nå er prydsvineroten jeg sådde for noen år siden endelig i blomst. Den lyser virkelig opp i bedet. Jeg har en som jeg har kjøpt også, men den er litt annerledes og har ikke blomstret enda.
+
+![Prydsvinerot]({{site.baseurl}}/assets/img/Prydsvinerot 2017.JPG)
+
+Martagonliljene står også enda. Kjøpte en som skulle være hvit, men fikk en rosa i stedet. Fin den også. 
+
+![Lilium Martagon Arabian Knight]({{site.baseurl}}/assets/img/Lilium Martagon Arabian Knight 2017.JPG)
+
+![Rosa Martagonlilje]({{site.baseurl}}/assets/img/Rosa Martagonlilje.JPG)
+
 En plante jeg har sådd i år er Agastache foeniculum Golden Jubilee. Vet ikke om den bare er en sommerblomst eller en staude. Det får jeg se til neste år. Den har et nydelig gulgrønt bladverk med blålilla blomster. Lett å få til fra frø var den også. 
 To små bekker av Lobelia har fått plass i en av skråningene i år. Nå har de vokst seg litt til. 
 Nå håper jeg på litt mer varme.
