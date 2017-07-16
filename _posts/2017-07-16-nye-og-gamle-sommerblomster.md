@@ -1,7 +1,7 @@
 ---
 date: '2017-07-16 14:59 +0200'
 layout: post
-published: false
+published: true
 title: Nye og gamle sommerblomster
 thumbnail: Dorotheanthus bellidiformis.JPG
 description: Her er noen av sommerblomstene som er i gang med blomstringen.
@@ -51,9 +51,3 @@ Sistemann ut i dag er løvemunn. Jeg starter å så dem i februar og planter de 
 Når høsten kommer plukker jeg av de visne frøstandene på sommerblomstene, tørker frøene og oppbevarer de i konvolutter. Da har jeg frø til neste sessong.  
 
 Ha en fin ny uke!
-
-
-
-
-
-
