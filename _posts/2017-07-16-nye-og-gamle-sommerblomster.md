@@ -48,6 +48,6 @@ Sistemann ut i dag er løvemunn. Jeg starter å så dem i februar og planter de 
 
 ![ Antirrhinum majus White Spire]({{site.baseurl}}/assets/img/Antirrhinum majus White Spire.JPG)
 
-Når høsten kommer plukker jeg av de visne frøstandene på sommerblomstene, tørker frøene og oppbevarer de i konvolutter. Da har jeg frø til neste sesong.  
+Når høsten kommer plukker jeg av de visne frøstandene på sommerblomstene, tørker frøene og oppbevarer de i konvolutter. Da har jeg frø til neste sesong. Dessuten er frø fint å gi bort til andre hageglade. 
 
 Ha en fin ny uke!
