@@ -3,7 +3,7 @@ date: '2017-07-16 14:59 +0200'
 layout: post
 published: true
 title: Nye og gamle sommerblomster
-thumbnail: Dorotheanthus bellidiformis.JPG
+thumbnail: Dorotheanthus%20bellidiformis.JPG
 description: Her er noen av sommerblomstene som er i gang med blomstringen.
 ---
 
