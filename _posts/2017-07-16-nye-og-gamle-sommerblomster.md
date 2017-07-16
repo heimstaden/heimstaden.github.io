@@ -3,6 +3,8 @@ date: '2017-07-16 14:59 +0200'
 layout: post
 published: false
 title: Nye og gamle sommerblomster
+thumbnail: Dorotheanthus bellidiformis.JPG
+description: Her er noen av sommerblomstene som er i gang med blomstringen.
 ---
 
 Noen av sommerblomstene har kommet forsiktig i gang med blomstringen. Disse varer bare en sessong og må sås hvert år. Årets gledelige overraskelse er middagsblomstene. Disse har jeg aldri hatt før og de ble sådd i midten av februar. De åpner seg i sol, så det er ikke hver dag vi får se dem.  Men når solen titter frem åpner de seg opp og viser frem sine friske farger. Trykker du inn på bildene, får du opp navnene på dem jeg kjenner de riktige navnene på.
