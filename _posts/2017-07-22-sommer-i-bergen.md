@@ -13,6 +13,8 @@ Onsdag og torsdag hadde vi de første sommerkveldene som det var mulig å tusle 
 
 ![Avblomstrede akeleier]({{site.baseurl}}/assets/img/Avblomstrede akeleier.JPG)
 
+<!--more-->
+
 Middagsblomstene har jeg vist bilde av før, men nå er de blitt enda flere. Dette blir garantert en fast gjest på terrassen framover. 
 
 ![Middagsblomster]({{site.baseurl}}/assets/img/Middagsblomster.JPG)
