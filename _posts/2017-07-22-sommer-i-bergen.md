@@ -1,7 +1,7 @@
 ---
 date: '2017-07-22 12:49 +0200'
 layout: post
-published: false
+published: true
 title: Sommer i Bergen
 thumbnail: Terrassen i kveldslys.JPG
 description: 'Fantastiske sommerdager og sommerkvelder '
@@ -44,6 +44,3 @@ Noen riddersporer har heldigvis overlevd sneglene og er her sammen med liljen Li
 ![Riddersporer og lilje]({{site.baseurl}}/assets/img/Riddersporer og lilje.JPG)
 
 Ha en strålende sommerhelg!
-
-
-
