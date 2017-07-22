@@ -3,7 +3,7 @@ date: '2017-07-22 12:49 +0200'
 layout: post
 published: true
 title: Sommer i Bergen
-thumbnail: Terrassen i kveldslys.JPG
+thumbnail: Terrassen%20i%20kveldslys.JPG
 description: 'Fantastiske sommerdager og sommerkvelder '
 ---
 
