@@ -21,7 +21,7 @@ Middagsblomstene har jeg vist bilde av før, men nå er de blitt enda flere. Det
 
 ![Kveldssol over middagsblomstene]({{site.baseurl}}/assets/img/Kveldssol over middagsblomstene.JPG)
 
-Nå har valmuene stått klare med knupper i lang tid og med litt varme har de endelig begynt å springe ut.
+Nå har valmuene stått klare med knupper i lang tid og med litt varme har de endelig begynt å springe ut.Gleder meg til fortsettelsen. 
 
 ![Valmue]({{site.baseurl}}/assets/img/Valmue .JPG)
 
@@ -33,7 +33,7 @@ Brennende kjærlighet eller Lychnis chalcedonica er et blikkfang akkurat nå og 
 
 ![Stauder og sommerblomster]({{site.baseurl}}/assets/img/Stauder og sommerblomster.JPG)
 
-Rosen Bonica har begynt blomstringen og innimellom denne kommer en Achillea Summer Berries. Den er sådd i år og blomstrer allerede. 
+Rosen Bonica har begynt blomstringen og innimellom kommer en Achillea Summer Berries. Den er sådd i år og blomstrer allerede. 
 
 ![Rose Bonica]({{site.baseurl}}/assets/img/Rose Bonica.JPG)
 
@@ -41,6 +41,7 @@ Noen riddersporer har heldigvis overlevd sneglene og er her sammen med liljen Li
 
 ![Riddersporer og lilje]({{site.baseurl}}/assets/img/Riddersporer og lilje.JPG)
 
+Ha en strålende sommerhelg!
 
 
 
