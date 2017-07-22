@@ -33,9 +33,14 @@ Brennende kjærlighet eller Lychnis chalcedonica er et blikkfang akkurat nå og 
 
 ![Stauder og sommerblomster]({{site.baseurl}}/assets/img/Stauder og sommerblomster.JPG)
 
-
 Rosen Bonica har begynt blomstringen og innimellom denne kommer en Achillea Summer Berries. Den er sådd i år og blomstrer allerede. 
+
+![Rose Bonica]({{site.baseurl}}/assets/img/Rose Bonica.JPG)
+
 Noen riddersporer har heldigvis overlevd sneglene og er her sammen med liljen Lilium regale Album som er i ferd med å åpne seg. 
+
+![Riddersporer og lilje]({{site.baseurl}}/assets/img/Riddersporer og lilje.JPG)
+
 
 
 
