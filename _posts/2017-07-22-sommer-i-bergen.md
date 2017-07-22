@@ -3,6 +3,8 @@ date: '2017-07-22 12:49 +0200'
 layout: post
 published: false
 title: Sommer i Bergen
+thumbnail: Terrassen i kveldslys.JPG
+description: 'Fantastiske sommerdager og sommerkvelder '
 ---
 
 Onsdag og torsdag hadde vi de første sommerkveldene som det var mulig å tusle barbeint på terrassen etter at solen var gått ned. Og som ikke det var nok fikk vi et fantastisk kveldslys fra solnedgangen.  Nå er det tid for å nyte hagen. 
