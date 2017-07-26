@@ -33,7 +33,8 @@ Bunndekkrosen White Cover har også kommet i gang.
 
 ![Bunndekkrosen White Cover]({{site.baseurl}}/assets/img/Bunndekkrosen White Cover.JPG)
 
-Jeg har bare noen få liljer i hagen.  Lilium Night Flyer er en av dem og den er virkelig et blikkfang med sin mørke farge. Den ruver godt i terrenget. 
+Jeg har bare noen få liljer i hagen.  Lilium Night Flyer er en av dem og den er virkelig et syn med sin mørke farge. Den ruver godt i terrenget også. 
 
 ![Lilium Night Flyer 2017]({{site.baseurl}}/assets/img/Lilium Night Flyer 2017.JPG)
 
+Ha en fin sommerdag!
