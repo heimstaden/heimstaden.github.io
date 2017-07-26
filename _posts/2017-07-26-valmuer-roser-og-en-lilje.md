@@ -3,6 +3,8 @@ date: '2017-07-26 14:31 +0200'
 layout: post
 published: false
 title: 'Valmuer, roser og en lilje'
+thumbnail: Valmuemix.JPG
+description: 'Ingen sommer uten valmuer, roser og liljer'
 ---
 
 Nå har det holdt seg godt og varmt i over en uke og det har plantene hatt godt av. Valmuene er sådd i krukker for å beskytte dem mot sneglene og det har gått fint, bortsett fra at jeg sådde altfor mange i hver potte. De har dermed blitt tynnet ut mange ganger etter hvert som de har vokst seg til. Prøvde å flytte dem til et annet sted, men valmuer er ikke noe glad i å bli flyttet på. De ble ikke så store som de som har selvsådd seg, men blomstrer gjør de.
