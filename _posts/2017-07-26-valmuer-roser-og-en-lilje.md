@@ -1,7 +1,7 @@
 ---
 date: '2017-07-26 14:31 +0200'
 layout: post
-published: false
+published: true
 title: 'Valmuer, roser og en lilje'
 thumbnail: Valmuemix.JPG
 description: 'Ingen sommer uten valmuer, roser og liljer'
