@@ -8,7 +8,7 @@ description: Litt av hvert som blomstrer i julihagen
 ---
 
 
-Rosene er nok på det fineste nå og de fleste er i blomst. Astrid Lindgren har nettopp åpnet sin første blomst. Det ser ut som den trives sammen med sommerblomsten Ammi majus som slynger seg rundt den.
+Rosene er nok på det fineste nå og de fleste er i blomst. Astrid Lindgren har nettopp åpnet sin første blomst. Det ser ut som den trives sammen med sommerblomsten Ammi majus som slynger seg rundt den. Trykker du inn på bildene, får du opp navnene på dem jeg kjenner de riktige navnene på.
 
 ![Astrid Lindgren og Ammi majus]({{site.baseurl}}/assets/img/Astrid Lindgren og Ammi majus.JPG)
 
