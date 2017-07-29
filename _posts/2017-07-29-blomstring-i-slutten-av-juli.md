@@ -3,6 +3,8 @@ date: '2017-07-29 18:57 +0200'
 layout: post
 published: false
 title: Blomstring i slutten av juli
+thumbnail: Astrid%20Lindgren%20og%20Ammi%20majus.JPG
+description: Litt av hvert som blomstrer i julihagen
 ---
 
 
