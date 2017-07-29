@@ -25,7 +25,7 @@ New Dawn har blomstret godt og har fortsatt mange knopper, og Clematis Arabella 
 
 ![Clematis Arabella og rosen New Dawn]({{site.baseurl}}/assets/img/Clematis Arabella og rosen New Dawn.JPG)
 
-Andre klematis som er i gang nå er Hagley Hybrid og Inspiration.
+Andre klematis som er i gang er Hagley Hybrid og Inspiration.
 
 ![Clematis Hagley Hybrid]({{site.baseurl}}/assets/img/Clematis Hagley Hybrid.JPG)
 
@@ -41,9 +41,10 @@ Den første dagliljen åpnet sin første blomst i dag. Den har ikke blomstret f�
 
 Høstfloksen har likt de varme dagene i forrige uke så de har nå startet showet. Veldig kraftige og fine planter som blir større for hvert år. Her er de tre som er i gang. 
 
-![Phlox Purple Eye Flame 2017]({{site.baseurl}}/assets/img/Phlox%20Purple%20Eye%20Flame.JPG)
+![Phlox Purple Eye Flame]({{site.baseurl}}/assets/img/Phlox Purple Eye Flame 2017.JPG)
 
 ![Phlox paniculata 2017]({{site.baseurl}}/assets/img/Phlox paniculata.JPG)
 
 ![Phlox paniculata swizzle og prydtobakk]({{site.baseurl}}/assets/img/Phlox paniculata swizzle og prydtobakk.JPG)
 
+Ha en god helg!
