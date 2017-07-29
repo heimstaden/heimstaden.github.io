@@ -21,9 +21,29 @@ Jeg har ventet lenge på at rosen The Fairy skulle starte blomstringen. Kattemyn
 
 ![Kattemynte og rosen The Fairy]({{site.baseurl}}/assets/img/Kattemynte og rosen The Fairy.JPG)
 
-
 New Dawn har blomstret godt og har fortsatt mange knopper, og Clematis Arabella er full i blomster. Gjentar nok meg selv her, men den er en av de mest blomsterrike klematisene mine. Den er den første til å blomstre og den som holder ut lengst på høsten.
-Andre klematis som er i gang nå er Hagley Hybrid og Inspiration. 
+
+![Clematis Arabella og rosen New Dawn]({{site.baseurl}}/assets/img/Clematis Arabella og rosen New Dawn.JPG)
+
+Andre klematis som er i gang nå er Hagley Hybrid og Inspiration.
+
+![Clematis Hagley Hybrid]({{site.baseurl}}/assets/img/Clematis Hagley Hybrid.JPG)
+
+![Clematis Inspiration 2017]({{site.baseurl}}/assets/img/Clematis Inspiration.JPG)
+
 En rosa Mjødurt har også fått en plass i hagen, gave fra en annen hageglad. 
+
+![Filipendula purpurea]({{site.baseurl}}/assets/img/Filipendula purpurea.JPG)
+
 Den første dagliljen åpnet sin første blomst i dag. Den har ikke blomstret før i år, så jeg var spent på fargen. Dette skal være Hemerocallis Moses fire. 
+
+![Hemerocallis Moses fire]({{site.baseurl}}/assets/img/Hemerocallis Moses fire  .JPG)
+
 Høstfloksen har likt de varme dagene i forrige uke så de har nå startet showet. Veldig kraftige og fine planter som blir større for hvert år. Her er de tre som er i gang. 
+
+![Phlox Purple Eye Flame 2017]({{site.baseurl}}/assets/img/Phlox%20Purple%20Eye%20Flame.JPG)
+
+![Phlox paniculata 2017]({{site.baseurl}}/assets/img/Phlox paniculata.JPG)
+
+![Phlox paniculata swizzle og prydtobakk]({{site.baseurl}}/assets/img/Phlox paniculata swizzle og prydtobakk.JPG)
+
