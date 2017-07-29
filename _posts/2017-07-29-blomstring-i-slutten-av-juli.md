@@ -8,7 +8,6 @@ description: Litt av hvert som blomstrer i julihagen
 ---
 
 
-Nå er juli snart forbi, men jeg håper ikke sommeren er over.
 Rosene er nok på det fineste nå og de fleste er i blomst. Astrid Lindgren har nettopp åpnet sin første blomst. Det ser ut som den trives sammen med sommerblomsten Ammi majus som slynger seg rundt den.
 
 ![Astrid Lindgren og Ammi majus]({{site.baseurl}}/assets/img/Astrid Lindgren og Ammi majus.JPG)
