@@ -7,7 +7,7 @@ thumbnail: Schizanthus.JPG
 description: 'Sommerblomstene Schizanthus, Salvia, Cosmos, Dahlia og Løvemunn er i gang'
 ---
 
-I år har jeg sådd flere sommerblomster enn vanlig og det er alltid gøy når både nye og gamle dukker opp. Nå har de vokst litt mer og da gir de utrolig mye farger til krukker og bed. Mens regner plasker ned på utsiden, koser jeg meg med bilder av årets sommerblomster og venter på mer sommervær. Schizanthus er en gjenganger og den blir man rett og slett glad av. Trykker du inn på bildene, får du opp navnene på dem jeg kjenner de riktige navnene på.
+I år har jeg sådd flere sommerblomster enn vanlig og det er alltid gøy når både nye og gamle dukker opp. Nå har de vokst litt mer og da gir de utrolig mye farge til krukker og bed. Mens regner plasker ned på utsiden, koser jeg meg med bilder av årets sommerblomster og venter på mer sommervær. Schizanthus er en gjenganger og den blir man rett og slett glad av. Trykker du inn på bildene, får du opp navnene på dem jeg kjenner de riktige navnene på.
 
 ![Schizanthus]({{site.baseurl}}/assets/img/Schizanthus.JPG)
 
@@ -43,7 +43,7 @@ En annen fast sommergjest er løvemunn. For en herlig sommerblomst med alle sine
 
 ![Antirrhinum majus White Spire 2017]({{site.baseurl}}/assets/img/Antirrhinum majus White Spire 2017.JPG)
 
-Dette var foreløpig status for årets sommerblomster. Flere oppdateringer kommer etterhvert som de kommer i blomst.
+Dette var en foreløpig status for årets sommerblomster. Flere oppdateringer kommer etterhvert som de kommer i blomst.
 
 
 
