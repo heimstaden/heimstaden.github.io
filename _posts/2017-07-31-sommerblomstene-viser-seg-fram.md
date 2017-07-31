@@ -17,7 +17,7 @@ En annen sommerblomst jeg har blitt glad i er Salvia viridis Blue Monday. Lett �
 
 <!--more-->
 
-Cosmos er også en fast sommergjest. Her er noen av de som blomstrer nå.
+Cosmos er også en fast sommergjest. Her er noen av dem som blomstrer nå.
 
 ![Cosmos bipinnatus Sonata Series White 2017]({{site.baseurl}}/assets/img/Cosmos bipinnatus Sonata Series White 2017.JPG)
 
