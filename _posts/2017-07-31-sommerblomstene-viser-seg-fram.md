@@ -1,7 +1,7 @@
 ---
 date: '2017-07-31 21:09 +0200'
 layout: post
-published: false
+published: true
 title: Sommerblomstene viser seg fram
 thumbnail: Schizanthus.JPG
 description: 'Sommerblomstene Schizanthus, Salvia, Cosmos, Dahlia og Løvemunn er i gang'
@@ -44,7 +44,3 @@ En annen fast sommergjest er løvemunn. For en herlig sommerblomst med alle sine
 ![Antirrhinum majus White Spire 2017]({{site.baseurl}}/assets/img/Antirrhinum majus White Spire 2017.JPG)
 
 Dette var en foreløpig status for årets sommerblomster. Flere oppdateringer kommer etterhvert som de kommer i blomst.
-
-
-
-
