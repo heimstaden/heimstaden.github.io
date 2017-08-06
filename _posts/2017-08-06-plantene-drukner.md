@@ -1,7 +1,7 @@
 ---
 date: '2017-08-06 18:42 +0200'
 layout: post
-published: false
+published: true
 title: Plantene drukner
 thumbnail: Cobaea%20scandens.JPG
 ---
@@ -52,6 +52,3 @@ Nå håper jeg at det slutter å regne snart. Ha en fin ny uke!
 ![Nytt bed 1]({{site.baseurl}}/assets/img/Nytt bed 1.JPG)
 
 ![Nytt bed 2]({{site.baseurl}}/assets/img/Nytt bed 2.JPG)
-
-
-
