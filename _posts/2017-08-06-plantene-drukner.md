@@ -46,7 +46,7 @@ En rose som aldri svikter er klaserosen Nina Weibull.
 
 ![Nina Weibull]({{site.baseurl}}/assets/img/Nina Weibull.JPG)
 
-To nye bed er laget og da ble det plutselig plass til flere planter. Har brukt EverEdge som skille mellom plen og jord. Veldig fornøyd med dette. 
+To nye bed er laget og da ble det plutselig plass til flere planter. Har brukt EverEdge som skille mellom plen og jord. Veldig fornøyd med dette. I det første bedet er det plantet endel Heuchera, et par lyng og en Sedum cauticola. Prøvde å få tak i en Varigert Sedum, men den må jeg nok lete mer etter. I det andre bedet ble det litt vintergrønt og noen hostaer. Har fått mer og mer sansen for de litt mindre hostatypene, for de tar ikke så stor plass. 
 Nå håper jeg at det slutter å regne snart. Ha en fin ny uke!
 
 ![Nytt bed 1]({{site.baseurl}}/assets/img/Nytt bed 1.JPG)
