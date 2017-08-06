@@ -3,6 +3,7 @@ date: '2017-08-06 18:42 +0200'
 layout: post
 published: false
 title: Plantene drukner
+thumbnail: Cobaea%20scandens.JPG
 ---
 
 I går oppdaget jeg at klokkeranken Cobaea scandens var i ferd med å drukne. En knupp var stor nok til å plukkes og den tok jeg inn. Det tok ikke lang tid før den åpnet seg og nå står den og pynter opp inne. 
