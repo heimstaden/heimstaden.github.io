@@ -28,11 +28,30 @@ Ny av året er kornblomst, den har jeg ikke hatt før. Legger seg en del utover,
 
 En stor Malva har dukket opp i en av Fuchsiaplantene mine. Den skal få lov til å stå. 
 
+![Malva]({{site.baseurl}}/assets/img/Malva.JPG)
 
-Så over til staudene. Værhanen Crocosmia Lucifer lyser skikkelig opp i bedet der den svever over de andre plantene. En annen som svever enda høyere er frøstjernen Thalictrum Splendide. Den er full av knupper. 
+Så over til staudene. Værhanen Crocosmia Lucifer lyser skikkelig opp i bedet der den svever over de andre plantene. 
+
+![Crocosmia Lucifer 2017]({{site.baseurl}}/assets/img/Crocosmia Lucifer 2017.JPG)
+
+En annen som svever enda høyere er frøstjernen Thalictrum Splendide. Den er full av knupper. 
+
+![Thalictrum Splendide]({{site.baseurl}}/assets/img/Thalictrum Splendide.JPG)
+
 En ny daglilje er også i gang, navnet er Hemerocallis Entrapment. 
+
+![Hemerocallis Entrapment]({{site.baseurl}}/assets/img/Hemerocallis Entrapment.JPG)
+
 En rose som aldri svikter er klaserosen Nina Weibull.
+
+![Nina Weibull]({{site.baseurl}}/assets/img/Nina Weibull.JPG)
+
 To nye bed er laget og da ble det plutselig plass til flere planter. Har brukt EverEdge som skille mellom plen og jord. Veldig fornøyd med dette. 
-Nå håper jeg at det slutter å regne snart. 
+Nå håper jeg at det slutter å regne snart. Ha en fin ny uke!
+
+![Nytt bed 1]({{site.baseurl}}/assets/img/Nytt bed 1.JPG)
+
+![Nytt bed 2]({{site.baseurl}}/assets/img/Nytt bed 2.JPG)
+
 
 
