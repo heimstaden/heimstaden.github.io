@@ -10,8 +10,7 @@ I går oppdaget jeg at klokkeranken Cobaea scandens var i ferd med å drukne. En
 
 ![Cobaea scandens]({{site.baseurl}}/assets/img/Cobaea scandens.JPG)
 
-Ute går det ikke an å være for tiden for regnet bøtter ned, så dette er bilder som er noen dager gamle. 
-Først til de ettårige sommerblomstene. Min ettårige rosa Salvie har begynt å blomstre og det samme har blomkarsen. Blomkarsen står plantet i bed og de er veldig seine i år. 
+Ute går det ikke an å være for tiden for regnet bøtter ned, så dette er bilder som er noen dager gamle. Først til de ettårige sommerblomstene. Min ettårige rosa Salvie har begynt å blomstre og det samme har blomkarsen. Blomkarsen står plantet i bed og de er veldig seine i år. 
 
 ![Salvia viridis Pink Sundae]({{site.baseurl}}/assets/img/Salvia viridis Pink Sundae.JPG)
 
@@ -47,7 +46,7 @@ En rose som aldri svikter er klaserosen Nina Weibull.
 
 ![Nina Weibull]({{site.baseurl}}/assets/img/Nina Weibull.JPG)
 
-To nye bed er laget og da ble det plutselig plass til flere planter. Har brukt EverEdge som skille mellom plen og jord. Veldig fornøyd med dette. I det første bedet er det plantet endel Heuchera, et par lyng og en Sedum cauticola. Prøvde å få tak i en Varigert Sedum, men den må jeg nok lete mer etter. I det andre bedet ble det litt vintergrønt og noen hostaer. Har fått mer og mer sansen for de litt mindre hostatypene, for de tar ikke så stor plass. 
+To nye bed er laget og da ble det plutselig plass til flere planter. Har brukt EverEdge som skille mellom plen og bed. Veldig fornøyd med dette. I det første bedet er det plantet endel Heuchera, et par lyng og en Sedum cauticola. Prøvde å få tak i en Varigert Sedum, men den må jeg nok lete mer etter. I det andre bedet ble det litt vintergrønt og noen hostaer. Har fått mer og mer sansen for de litt mindre hostatypene, for de tar ikke så stor plass. 
 Nå håper jeg at det slutter å regne snart. Ha en fin ny uke!
 
 ![Nytt bed 1]({{site.baseurl}}/assets/img/Nytt bed 1.JPG)
