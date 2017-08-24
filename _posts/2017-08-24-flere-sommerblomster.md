@@ -1,7 +1,7 @@
 ---
 date: '2017-08-24 20:11 +0200'
 layout: post
-published: false
+published: true
 title: Flere sommerblomster
 thumbnail: Gazania.JPG
 description: Sensommerblomstring i hagen
@@ -38,6 +38,3 @@ En annen sommerblomst som blir finere og finere utover høsten er Fuchsia. De ha
 ![Fuchsia]({{site.baseurl}}/assets/img/Fuchsia.JPG)
 
 Ha en fin kveld!
-
-
-
