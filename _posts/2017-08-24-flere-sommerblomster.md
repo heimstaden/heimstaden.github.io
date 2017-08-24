@@ -7,7 +7,7 @@ thumbnail: Gazania.JPG
 description: Sensommerblomstring i hagen
 ---
 
-Det er ikke tvil om at sommeren er på hell, men det er da jeg synes at hagen min er på det fineste. Nå er jeg skikkelig på etterskudd med bilder, så her kommer litt av det som har blomstret en stund. Gazania må jeg ha hvert år og nå er de på sitt fineste. De blomstret ikke før i august i år og det er seint. De åpner seg i solen og lukker seg i overskyet vær og når kvelden kommer. Denne blir man rett og slett glad av. 
+Det er ikke tvil om at sommeren er på hell, men det er da jeg synes at hagen vår er på det fineste. Nå er jeg skikkelig på etterskudd med bilder, så her kommer litt av det som har blomstret en stund. Gazania må jeg ha hvert år og nå er de på sitt fineste. De blomstret ikke før i august i år og det er seint. De åpner seg i solen og lukker seg i overskyet vær og når kvelden kommer. Denne blir man rett og slett glad av. 
 
 ![Gazania]({{site.baseurl}}/assets/img/Gazania.JPG)
 
