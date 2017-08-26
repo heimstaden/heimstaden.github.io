@@ -3,6 +3,10 @@ date: '2017-08-26 17:52 +0200'
 layout: post
 published: false
 title: Frodig i hagen
+thumbnail: Lilium Casablanca.JPG
+description: >-
+  Selv om vi snart går over i september, føles det som vi har fått sommeren
+  igjen.
 ---
 
 Da er august snart over og vi går inn i høstens første fase. De siste årene har høsten vært så fin og jeg håper på reprise. Vi kan ha blomstring til langt inn i november hvis det blir en god høst. Den siste liljen har nettopp sprunget ut. Den er skikkelig lekker og lukter godt også.
