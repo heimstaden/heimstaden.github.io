@@ -1,7 +1,7 @@
 ---
 date: '2017-08-26 17:52 +0200'
 layout: post
-published: false
+published: true
 title: Frodig i hagen
 thumbnail: Lilium Casablanca.JPG
 description: 'Selv om det snart er september, føles det som om vi har fått sommeren igjen. '
