@@ -40,4 +40,4 @@ I år har de ettårige valmuene vært fine. De fleste har visnet her nå, men de
 
 ![Papaver rhoeas Pandora]({{site.baseurl}}/assets/img/Papaver rhoeas Pandora.JPG)
 
-Ha en 
+Ha en riktig fin helg!
