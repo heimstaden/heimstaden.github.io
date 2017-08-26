@@ -7,7 +7,7 @@ thumbnail: Lilium Casablanca.JPG
 description: 'Selv om det snart er september, føles det som om vi har fått sommeren igjen. '
 ---
 
-Da er august snart over og vi går inn i høstens første fase. De siste årene har høsten vært så fin og jeg håper på reprise. Vi kan ha blomstring til langt inn i november hvis det blir en god høst. Den siste liljen har nettopp sprunget ut. Den er skikkelig lekker og lukter godt også.
+Da er august snart over og vi går inn i høstens første fase. De siste årene har høsten vært så fin og jeg håper på reprise. Her i vest kan vi ha blomstring til langt ut i november hvis det blir en god høst. Den siste liljen har nettopp sprunget ut. Den er skikkelig lekker og lukter godt.
 
 ![Lilium Casablanca]({{site.baseurl}}/assets/img/Lilium Casablanca.JPG)
 
@@ -23,6 +23,7 @@ Hagen vår er definitivt på sitt beste nå og stauder og sommerblomster står t
 
 ![Dahlia Arabian night 2017]({{site.baseurl}}/assets/img/Dahlia Arabian night 17.JPG)
 
+![Chelone obliqua 2017]({{site.baseurl}}/assets/img/Chelone obliqua 2017.JPG)
 
 De første engletrompetene har åpnet sine første blomster. Det er ikke mye blomster på dem i år, men det kommer da noen. Håper noen flere rekker å blomstre før jeg må ta dem inn.
 
@@ -38,7 +39,7 @@ En løkplante som også er fin på denne tiden er Gladiolus Callianthus. Plantes
 
 ![Gladiolus Callianthus]({{site.baseurl}}/assets/img/Gladiolus Callianthus.JPG)
 
-I år har de ettårige valmuene vært fine. De fleste har visnet her nå, men denne blomstrer fortsatt.  
+I år har de ettårige valmuene vært fine. De fleste har visnet, men denne blomstrer fortsatt.  
 
 ![Papaver rhoeas Pandora]({{site.baseurl}}/assets/img/Papaver rhoeas Pandora.JPG)
 
