@@ -25,6 +25,9 @@ Hagen vår er definitivt på sitt beste nå og stauder og sommerblomster står t
 
 ![Chelone obliqua 2017]({{site.baseurl}}/assets/img/Chelone obliqua 2017.JPG)
 
+![Phlox og asters]({{site.baseurl}}/assets/img/Phlox og asters.JPG)
+
+
 De første engletrompetene har åpnet sine første blomster. Det er ikke mye blomster på dem i år, men det kommer da noen. Håper noen flere rekker å blomstre før jeg må ta dem inn.
 
 ![Brugmansia Arborea]({{site.baseurl}}/assets/img/Brugmansia Arborea.JPG)
