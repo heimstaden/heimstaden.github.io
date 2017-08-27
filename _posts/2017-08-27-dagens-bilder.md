@@ -40,7 +40,7 @@ En ettårig nykommer er papirblomsten Xeranthemum annuum. Jeg tror den skal bli 
 
 ![Xeranthemum annuum]({{site.baseurl}}/assets/img/Xeranthemum annuum.JPG)
 
-Årets blodbeger vokser og gror. I år har jeg latt noen få klatre oppover. Det likte den visst godt for den er kraftigere en plantene som vokser i ampler.
+Årets blodbeger klatrer i vei. I år har jeg latt noen få klatre oppover. Det likte den visst godt for den er kraftigere en plantene som vokser i ampler.
 
 ![Blodbeger]({{site.baseurl}}/assets/img/Blodbeger.JPG)
 
