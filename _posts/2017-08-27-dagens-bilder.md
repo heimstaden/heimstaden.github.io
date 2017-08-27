@@ -1,7 +1,7 @@
 ---
 date: '2017-08-27 20:27 +0200'
 layout: post
-published: false
+published: true
 title: Dagens bilder
 thumbnail: Thalictrum%20delavayi%20Splendide.JPG
 description: 'Fotosafari i hagen i dag. '
@@ -53,10 +53,3 @@ Fløyelstjæreblomsten Lychnis coronaria sår seg selv, så det dukker alltid op
 Det var noen av dagens bilder. 
 
 Ønsker alle en fin ny uke!
-
-
-
-
-
-
-
