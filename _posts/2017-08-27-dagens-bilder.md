@@ -3,6 +3,8 @@ date: '2017-08-27 20:27 +0200'
 layout: post
 published: false
 title: Dagens bilder
+thumbnail: Thalictrum%20delavayi%20Splendide.JPG
+description: 'Fotosafari i hagen i dag. '
 ---
 
 Vi har hatt en fantastisk sommerhelg med sol og varme og plantene viser seg fra sin beste side. 
