@@ -32,7 +32,7 @@ I vår sådde jeg en miks av ryllik og de blomstrer allerede. Har ikke vært så
 
 ![Achillea Summer Berries med Filipendula multijuga Red Umbrellas og Sedum.JPG]({{site.baseurl}}/assets/img/Achillea Summer Berries med Filipendula multijuga Red Umbrellas og Sedum.JPG)
 
-Ny kombinasjon av sommerblomster av året er svarte stemor og Clarkia bottae. 
+Ny kombinasjon av sommerblomster er svarte stemor og Clarkia bottae. 
 
 ![Clarkia bottae og svarte stemor]({{site.baseurl}}/assets/img/Clarkia bottae og svarte stemor.JPG)
 
