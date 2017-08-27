@@ -10,7 +10,7 @@ Frøstjernen har blomstret en stund og den svever over alle de andre plantene. D
 
 ![Thalictrum delavayi Splendide]({{site.baseurl}}/assets/img/Thalictrum delavayi Splendide.JPG)
 
-Sommerfuglbusken har staselig besøk av sommerfugler. Det var på tide, for den er nesten ferdig for sesongen. 
+Sommerfuglbusken har endelig fått besøk av sommerfugler. Det var på tide, for den er nesten ferdig for sesongen. 
 
 ![Buddleja 2017]({{site.baseurl}}/assets/img/Buddleja 2017.JPG)
 
