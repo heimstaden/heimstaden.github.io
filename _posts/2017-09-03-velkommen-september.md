@@ -15,7 +15,7 @@ De siste årene har september vært en herlig måned og sensommeren her i vest h
 
 <!--more-->
 
-Fuchsia har jeg mange av etter hvert. Noen ny kommer til og andre forsvinner. 
+Fuchsia har jeg mange av etter hvert. Noen nye kommer til og andre forsvinner. 
 
 ![Fuchsia Rohees Denebola 2017]({{site.baseurl}}/assets/img/Fuchsia Rohees Denebola 2017.JPG)
 
