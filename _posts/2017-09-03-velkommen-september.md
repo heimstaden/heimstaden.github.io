@@ -7,7 +7,7 @@ description: 'Hagen går inn i sin siste fase og det er tid for å nyte. '
 thumbnail: Fuchsia%20Charlie%20Dimmock%202017.JPG
 ---
 
-De siste årene har september vært en herlig måned og sensommeren her i vest har startet veldig bra i år også. Derfor har jeg ingen problemer med å ønske september velkommen. Det er selvfølgelig mange planter som har takket for seg, men så finnes det heldigvis mange som blir finere og finere jo lenger ut på høsten man kommer. Av sommerblomstene er det Fuchsia, Flittig Lise, Blodbeger, Dahlia, Gazania, Cosmos, Oxalis og Rudbeckia som er høstfavorittene.  Noen av dem har jeg vist frem før, så i dagens innlegg er det Fuchsia, Flittig Lise og Rudbeckia som skal få oppmerksomhet av sommerblomstene.
+De siste årene har september vært en herlig måned og sensommeren her i vest har startet veldig bra i år også. Derfor har jeg ingen problemer med å ønske september velkommen. Det er selvfølgelig mange planter som har takket for seg, men så finnes det heldigvis mange som blir finere og finere jo lenger ut på høsten man kommer. Av sommerblomstene er det Fuchsia, Flittig Lise, Blodbeger, Dahlia, Gazania, Cosmos, Oxalis og Rudbeckia som er høstfavorittene.  Noen av dem har jeg vist frem før, så i dagens innlegg er det Fuchsia, Flittig Lise og Rudbeckia som skal få oppmerksomhet av sommerblomstene. Høststaudene skal også få sin del av oppmerksomheten.
 
 ![Fuchsia Charlie Dimmock 2017]({{site.baseurl}}/assets/img/Fuchsia Charlie Dimmock 2017.JPG)
 
