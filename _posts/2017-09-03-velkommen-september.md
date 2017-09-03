@@ -1,7 +1,7 @@
 ---
 date: '2017-09-03 20:47 +0200'
 layout: post
-published: false
+published: true
 title: Velkommen september
 description: 'Hagen går inn i sin siste fase og det er tid for å nyte. '
 thumbnail: Fuchsia%20Charlie%20Dimmock%202017.JPG
@@ -47,7 +47,3 @@ Sedum eller Oktoberbergknapp har forsiktig startet å vise farge og tiltrekker s
 Med Syrinhortensiaen Hydrangea paniculata limelight ønsker jeg alle en flott høstuke! 
 
 ![Hydrangea paniculata Limelight]({{site.baseurl}}/assets/img/Hydrangea paniculata limelight.JPG)
-
-
-
-
