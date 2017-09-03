@@ -36,7 +36,7 @@ Solhattene har ikke vært mye å skryte av i år, men Echinacea purpurea Green E
 
 ![Echinacea purpurea green Envy 2017]({{site.baseurl}}/assets/img/Echinacea purpurea Green Envy 2017.JPG)
 
-Sedum eller Oktoberbergknapp har forsiktig startet å vise farge og tiltrekker seg både sommerfugler og humler. Fire nye Sedum har fått plass i hagen i sommer og jeg gleder meg til de får vokst seg litt til. Takk til Marit med bloggen Marits hagedagbok for tips. Har på følelsen at dette vil bli en ny dille.
+Sedum eller Oktoberbergknapp har forsiktig startet å vise farge og tiltrekker seg både sommerfugler og humler. Fire nye Sedum har fått plass i hagen i sommer og jeg gleder meg til de får vokst seg litt til. Takk til Marit med bloggen Marits hagedagbok for tips. Har på følelsen at dette blir en ny dille.
 
 ![Mørkbladet Sedum 2017]({{site.baseurl}}/assets/img/Mørkladet Sedum 2017.JPG)
 
