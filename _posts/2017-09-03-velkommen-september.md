@@ -7,7 +7,7 @@ description: 'Hagen går inn i sin siste fase og det er tid for å nyte. '
 thumbnail: Fuchsia%20Charlie%20Dimmock%202017.JPG
 ---
 
-De siste årene har september vært en herlig måned og sensommeren her i vest har startet veldig bra i år også. Derfor har jeg ingen problemer med å ønske september velkommen. Det er selvfølgelig mange planter som har takket for seg, men så finnes det heldigvis mange som blir finere og finere jo lenger ut på høsten man kommer. Av sommerblomstene er det Fuchsia, Flittig Lise, Blodbeger, Dahlia, Gazania, Cosmos, Oxalis og Rudbeckia som er høstfavorittene.  Noen av dem har jeg vist frem før, så i dagens innlegg er det Fuchsia, Flittig Lise og Rudbeckia som skal få oppmerksomhet av sommerblomstene. Høststaudene skal også få sin del av oppmerksomheten.
+De siste årene har september vært en herlig måned og sensommeren her i vest har startet veldig bra i år også. Jeg har derfor ingen problemer med å ønske september velkommen. Det er selvfølgelig mange planter som har takket for seg, men så finnes det heldigvis mange som blir finere og finere jo lenger ut på høsten man kommer. Av sommerblomstene er det Fuchsia, Flittig Lise, Blodbeger, Dahlia, Gazania, Cosmos, Oxalis og Rudbeckia som er høstfavorittene.  Noen av dem har jeg vist frem før, så i dagens innlegg er det Fuchsia, Flittig Lise og Rudbeckia som skal få oppmerksomhet av sommerblomstene. Høststaudene skal også få sin del av oppmerksomheten.
 
 ![Fuchsia Charlie Dimmock 2017]({{site.baseurl}}/assets/img/Fuchsia Charlie Dimmock 2017.JPG)
 
@@ -26,8 +26,6 @@ Flittig Lise sådde jeg for første gang i år og det blir ikke siste gang. På 
 Her er Rudbeckia i selskap med en limegrønn klokketobakk, Nicotiana langsdorfii og Svartsurbær, Aronia melanocarpa. Svartsurbær står i potte og har klart seg gjennom sin første vinter. Nå begynner den å vise frem sine flotte høstfarger. 
 
 ![Aronia melanocarpa Moskva E]({{site.baseurl}}/assets/img/Aronia melanocarpa Moskva E.JPG)
-
-![Rudbeckia Rustic Dwarf og klokketobakk]({{site.baseurl}}/assets/img/RUDBECKIA Rustic Dwarf og klokketobakk.JPG)
 
 Noen stauder er i gang med sin andre blomstring og i går fikk jeg øye på en akeleie som fortsatt blomstret. Akeleier i september har jeg aldri sett før. 
 Høstfloksen begynner å bli litt sliten, men Phlox Sherbet Blend er litt senere enn de andre. 
