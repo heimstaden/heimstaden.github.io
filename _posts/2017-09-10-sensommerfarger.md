@@ -1,7 +1,7 @@
 ---
 date: '2017-09-10 13:40 +0200'
 layout: post
-published: false
+published: true
 title: Sensommerfarger
 thumbnail: Ringblomst.JPG
 description: >-
@@ -60,5 +60,3 @@ På denne tiden av året er det Fuchsiafest hvert år. Er blitt så glad i denne
 Ha en fin ny høstuke!
 
 ![Fuchsiaifest]({{site.baseurl}}/assets/img/Fuchsiafest.JPG)
-
-
