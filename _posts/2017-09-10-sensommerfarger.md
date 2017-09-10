@@ -47,7 +47,7 @@ Riddersporene ble sneglenes favorittmat i år, men jeg klarte å redde noen fers
 
 ![Delphinium King Arthur]({{site.baseurl}}/assets/img/Delphinium King Arthur.JPG)
 
-I hele sommer har Clematis Marinka og en Salvia blomstret sammen.
+I hele sommer har Clematis Marinka og en Salvie blomstret sammen.
 
 ![Salvia og Clematis Marinka]({{site.baseurl}}/assets/img/Salvia og Clematis Marinka .JPG)
 
