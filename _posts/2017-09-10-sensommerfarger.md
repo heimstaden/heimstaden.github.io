@@ -53,6 +53,8 @@ Litt erteblomster i sørveggen sender ut en deilig duft når man går forbi.
 
 På denne tiden av året er det Fuchsiafest hvert år. Er blitt så glad i denne kroken på nordsiden av huset.
 
+Ha en fin ny høstuke!
+
 ![Fuchsiaifest]({{site.baseurl}}/assets/img/Fuchsiafest.JPG)
 
 
