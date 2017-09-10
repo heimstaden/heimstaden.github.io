@@ -11,9 +11,7 @@ Ringblomster må jeg ha hvert år. De lyser så fint opp langt utover høsten.
 
 ![Ringblomster]({{site.baseurl}}/assets/img/Ringblomst.JPG)
 
-Så må jeg ta med Gazania igjen. Man kjenner nesten sola varme når man ser på bildene.
-
-![Gazania]({{site.baseurl}}/assets/img/Gazania.JPG)
+Så må jeg ta med Gazania igjen. Man kjenner nesten sola varme når man ser på bildet.
 
 ![Gazania Sunshine]({{site.baseurl}}/assets/img/Gazania Sunshine.JPG)
 
@@ -24,6 +22,14 @@ En forholdsvis ny plante i hagen er Solbrud eller Helenium. De er også vakre n�
 ![Helenium]({{site.baseurl}}/assets/img/Helenium uten navn.JPG)
 
 ![Helenium Sahin Early Flowerer]({{site.baseurl}}/assets/img/Helenium Sahin Early Flowerer.JPG)
+
+Kornvalmuene blomstrer fortsatt. 
+
+![Kornvalmue]({{site.baseurl}}/assets/img/Kornvalmue.JPG)
+
+Rosen Gebruder Grimm måtte flyttes i år, så den har vært sent ute med blomstringen. 
+
+![Rose Gebruder Grimm]({{site.baseurl}}/assets/img/Rose Gebruder Grimm.JPG)
 
 En annen som er helt ny er en Trelyng med navnet Erica arborea Alberts Gold. Den blir etter hvert mye høyere og bredere. Frisk farge har den i hvert fall.
 
@@ -42,8 +48,11 @@ I hele sommer har Clematis Marinka og en Salvia blomstret sammen.
 ![Salvia og Clematis Marinka]({{site.baseurl}}/assets/img/Salvia og Clematis Marinka .JPG)
 
 Litt erteblomster i sørveggen sender ut en deilig duft når man går forbi.
-Hvitfredløs, Lysimachia clethroides breier seg en del i bedet, så den må jeg passe litt på. Synes blomstene er så sjarmerende.
-Nytt bed ble laget i sommer. Her har jeg plantet litt ulike Heuchera, noen lyng og noen nye Sedum.
-Gleder meg til det får vokst seg litt til.  
-På denne tiden av året er det Fuchsiafest hvert år. Er blitt så glad i denne kroken på nordsiden av huset. 
+
+![Erteblomster]({{site.baseurl}}/assets/img/Erteblomster.JPG)
+
+På denne tiden av året er det Fuchsiafest hvert år. Er blitt så glad i denne kroken på nordsiden av huset.
+
+![Fuchsiaifest]({{site.baseurl}}/assets/img/Fuchsiafest.JPG)
+
 
