@@ -3,6 +3,10 @@ date: '2017-09-10 13:40 +0200'
 layout: post
 published: false
 title: Sensommerfarger
+thumbnail: Ringblomst.JPG
+description: >-
+  Det er blitt kjøligere i lufta og man merker at høsten er kommet. Da er det
+  helt greit med  varme farger i hagen
 ---
 
 I hele sesongen har jeg vist blomster i fargene rosa, lilla, blått og hvitt. Skulle nesten tro at jeg ikke hadde noe annet når jeg ser på førstesidene i bloggarkivet. Så her kommer planter med noen andre farger.
