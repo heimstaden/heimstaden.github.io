@@ -3,9 +3,13 @@ date: '2017-09-17 17:28 +0200'
 layout: post
 published: false
 title: Summende hage
+thumbnail: Bilde%201.JPG
+description: >-
+  Pyntekorg, Oktoberbergknapp og Sommerfuglbusk er populære hos insektene for
+  tiden
 ---
 
-Det er sol og sommerstemning hos oss for tiden. Hagen er full av insekter og jeg har vært tett på dem. Pyntekorg, Oktoberbergknapp og Sommerfuglbusk er populære. Bildene er tatt med macrolinse og stativ. Ha en fin søndagskveld!
+Det er sol og sommerstemning hos oss for tiden. Hagen er full av insekter og jeg har vært tett på dem. Bildene er tatt med macrolinse og stativ. Ha en fin søndagskveld!
 
 ![Bilde 1]({{site.baseurl}}/assets/img/Bilde 1.JPG)
 
