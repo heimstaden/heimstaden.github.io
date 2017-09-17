@@ -1,7 +1,7 @@
 ---
 date: '2017-09-17 17:28 +0200'
 layout: post
-published: false
+published: true
 title: Summende hage
 thumbnail: Bilde%201.JPG
 description: >-
@@ -34,9 +34,3 @@ Det er sol og sommerstemning hos oss for tiden. Hagen er full av insekter og jeg
 ![Bilde10]({{site.baseurl}}/assets/img/Bilde10.JPG)
 
 ![Bilde 11]({{site.baseurl}}/assets/img/Bilde 11.JPG)
-
-
-
-
-
-
