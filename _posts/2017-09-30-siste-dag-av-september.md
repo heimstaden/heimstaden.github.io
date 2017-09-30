@@ -21,11 +21,11 @@ Høstormedruene er utrolig flotte i år og man kan kjenne den vidunderlige dufte
 
 En ny syrinhortensia har fått plass i en stor krukke. Håper den skal klare seg igjennom vinteren. 
 
+![Hydrangea paniculata Phantom]({{site.baseurl}}/assets/img/Hydrangea paniculata Phantom.JPG)
+
 Gentiana makinoi Royal Blue er en plante som blir ca 70 cm her hos meg og den har tett i tett med blå blomster på høsten. Jeg vet ikke hva det norske navnet på den er, men kanskje noen av dere vet. 
 
 ![Gentiana makinoi Royal Blue ]({{site.baseurl}}/assets/img/Gentiana makinoi Royal Blue 2017.JPG)
-
-![Hydrangea paniculata Phantom]({{site.baseurl}}/assets/img/Hydrangea paniculata Phantom.JPG)
 
 COSMOS bipinnatus, Pink Popsocks er fine i år. Liker dem fordi de ikke blir så høye. 50-60 cm. 
 ![Cosmos]({{site.baseurl}}/assets/img/Cosmos.JPG)
