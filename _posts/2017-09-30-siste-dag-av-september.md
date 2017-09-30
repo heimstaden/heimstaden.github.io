@@ -1,7 +1,7 @@
 ---
 date: '2017-09-30 17:44 +0200'
 layout: post
-published: false
+published: true
 title: Siste dag av september
 thumbnail: Tricyrtus.JPG
 description: Det er fortsatt mye som blomstrer.
@@ -49,6 +49,3 @@ Engletrompetene mine har rett og slett ikke likt denne sommeren, men de har komm
 ![Angel Fantasy 2017]({{site.baseurl}}/assets/img/Angel Fantasy 2017.JPG)
 
 ![Maya]({{site.baseurl}}/assets/img/Maya.JPG)
-
-
-
