@@ -21,6 +21,10 @@ Høstormedruene er utrolig flotte i år og man kan kjenne den vidunderlige dufte
 
 En ny syrinhortensia har fått plass i en stor krukke. Håper den skal klare seg igjennom vinteren. 
 
+Gentiana makinoi Royal Blue er en plante som blir ca 70 cm her hos meg og den har tett i tett med blå blomster på høsten. Jeg vet ikke hva det norske navnet på den er, men kanskje noen av dere vet. 
+
+![Gentiana makinoi Royal Blue ]({{site.baseurl}}/assets/img/Gentiana makinoi Royal Blue 2017.JPG)
+
 ![Hydrangea paniculata Phantom]({{site.baseurl}}/assets/img/Hydrangea paniculata Phantom.JPG)
 
 COSMOS bipinnatus, Pink Popsocks er fine i år. Liker dem fordi de ikke blir så høye. 50-60 cm. 
@@ -40,4 +44,7 @@ Lavendel og Oxalis har blomstret i hele sommer og er like fine.
 
 Engletrompetene mine har rett og slett ikke likt denne sommeren, men de har kommet med litt trøsteblomstring nå på slutten av sesongen. Den hvite hadde 35 knupper, men bare 5 av dem har klart å holde seg fast, resten har falt av i tur og orden. 
 
+![Maya]({{site.baseurl}}/assets/img/Maya.JPG)
+
+![Angel Fantasy 2017]({{site.baseurl}}/assets/img/Angel Fantasy 2017.JPG)
 
