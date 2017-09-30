@@ -13,7 +13,7 @@ To uker med deilig sommervarme har gitt hagen en flott avslutning på sesongen. 
 
 <!--more-->
 
-Høstormedruene er utrolig flotte i år og man kan kjenne den vidunderlige duften når man går forbi. Høyt elsket av sommerfugler og humler. Det er nesten så det blir kø av og til. 
+Høstormedruene er utrolig flotte i år og man kan kjenne den vidunderlige duften når man går forbi. Høyt elsket av sommerfugler og humler. Knuppene er mørke, mens blomstene blir hvite med et lite skjær av rosa. 
 
 ![Actaea simplex]({{site.baseurl}}/assets/img/Actaea simplex.JPG)
 
