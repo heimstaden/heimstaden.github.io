@@ -44,7 +44,9 @@ Lavendel og Oxalis har blomstret i hele sommer og er like fine.
 
 Engletrompetene mine har rett og slett ikke likt denne sommeren, men de har kommet med litt trøsteblomstring nå på slutten av sesongen. Den hvite hadde 35 knupper, men bare 5 av dem har klart å holde seg fast, resten har falt av i tur og orden. 
 
+![Angel Fantasy 2017]({{site.baseurl}}/assets/img/Angel Fantasy 2017.JPG)
+
 ![Maya]({{site.baseurl}}/assets/img/Maya.JPG)
 
-![Angel Fantasy 2017]({{site.baseurl}}/assets/img/Angel Fantasy 2017.JPG)
+
 
