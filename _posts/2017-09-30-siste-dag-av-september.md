@@ -7,7 +7,7 @@ thumbnail: Tricyrtus.JPG
 description: Det er fortsatt mye som blomstrer.
 ---
 
-To uker med deilig sommervarme har gitt hagen en flott avslutning på sesongen. De høstblomstrende staudene har fått vise seg frem og sommerblomstene holder fortsatt ut. Jeg har ikke hjerte til å begynne å begynne å rydde dem vekk enda. Skyggeliljen Tricyrtus synes ikke så godt på avstand, men når man kommer på nært hold er den rett og slett nydelig. 
+To uker med deilig sommervarme har gitt hagen en flott avslutning på sesongen. De høstblomstrende staudene har fått vise seg frem og sommerblomstene holder fortsatt ut. Jeg har ikke hjerte til å begynne å rydde dem vekk enda. Skyggeliljen Tricyrtus synes ikke så godt på avstand, men når man kommer på nært hold er den rett og slett nydelig. 
 
 ![Tricyrtus]({{site.baseurl}}/assets/img/Tricyrtus.JPG)
 
