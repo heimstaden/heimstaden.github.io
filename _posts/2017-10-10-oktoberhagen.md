@@ -3,10 +3,13 @@ date: '2017-10-10 13:08 +0200'
 layout: post
 published: false
 title: Oktoberhagen
+description: >-
+  Fuchsia er finest nå rett før de skal inn, så dette blogginnlegget kommer til
+  å dreie seg mest om Fuchsia.
+thumbnail: Fuchsia Bacon Rosa.JPG
 ---
 
-Oktober er tiden for rydding i hagen og heldigvis har jeg høstferie slik at jeg kan få klargjort hagen for vinteren: Engletrompeter og diverse annet skal overvintres på planterom med lys. Knollene av Dahlia og Canna må tørke før jeg pakker dem i avispapir og oppbevarer dem mørkt og kjølig. Jeg klipper også ned endel av staudene som er blitt stygge. Rydder også vekk rundt omkring slik at sneglene ikke skal finne gjemmesteder.
-Fuchsia er finest nå rett før de skal inn, så dette blogginnlegget kommer til å dreie seg mest om Fuchsia.Jeg tar stiklinger av alle sammen i løpet av sommeren og de får overvintre under lys. 
+Oktober er tiden for rydding i hagen og heldigvis har jeg høstferie slik at jeg kan få klargjort hagen for vinteren: Engletrompeter og diverse annet skal overvintres på planterom med lys. De får ny jord og potter for å hindre ulike kryp. I tillegg får de noen tabletter med Provado for å hindre diverse skadedyr. Knollene av Dahlia og Canna må tørke før jeg pakker dem i avispapir og oppbevarer dem mørkt og kjølig. Jeg klipper ned endel av staudene som er blitt stygge og rydder rundt omkring slik at sneglene ikke skal finne gjemmesteder. Det som står igjen ute nå er stort sett Fuchsia, neon blodbeger og Oliventrær. 
 
 ![Fuchsia Bacon Rosa]({{site.baseurl}}/assets/img/Fuchsia Bacon Rosa.JPG)
 
