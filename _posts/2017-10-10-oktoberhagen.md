@@ -6,7 +6,7 @@ title: Oktoberhagen
 ---
 
 Oktober er tiden for rydding i hagen og heldigvis har jeg høstferie slik at jeg kan få klargjort hagen for vinteren: Engletrompeter og diverse annet skal overvintres på planterom med lys. Knollene av Dahlia og Canna må tørke før jeg pakker dem i avispapir og oppbevarer dem mørkt og kjølig. Jeg klipper også ned endel av staudene som er blitt stygge. Rydder også vekk rundt omkring slik at sneglene ikke skal finne gjemmesteder.
-Fuchsia er finest nå rett før de skal inn, så dette blogginnlegget kommer til å dreie seg mest om Fuchsia.
+Fuchsia er finest nå rett før de skal inn, så dette blogginnlegget kommer til å dreie seg mest om Fuchsia.Jeg tar stiklinger av alle sammen i løpet av sommeren og de får overvintre under lys. 
 
 ![Fuchsia Bacon Rosa]({{site.baseurl}}/assets/img/Fuchsia Bacon Rosa.JPG)
 
@@ -24,8 +24,19 @@ Fuchsia er finest nå rett før de skal inn, så dette blogginnlegget kommer til
 
 ![Fuchsia New Millenium 2017]({{site.baseurl}}/assets/img/Fuchsia New Millenium 17.JPG)
 
+Blodbeger henger ved siden av og har nesten tatt over hele planten
+![Fuchsia Sir Matts Busby]({{site.baseurl}}/assets/img/Fuchsia Sir Matts Busby.JPG)
 
 Noen Fuchsia kan overvintres ute i de mildeste strøkene. En av dem er Fuchsia Riccartonii. De skal få en vinter innendørs før jeg planter de ut til neste sommer.
 
 ![Fuchsia Riccartonii]({{site.baseurl}}/assets/img/Fuchsia Riccartonii.JPG)
 
+Denne Malvaen dukket opp i en av Fuchsiaplantene i sommer og den fikk lov til å stå. 
+
+![Malva sylvestris]({{site.baseurl}}/assets/img/Malva sylvestris.JPG)
+
+Enkelte dager kan man fortsatt finne noen skatter som minner om sommer.
+
+![Salvia]({{site.baseurl}}/assets/img/Salvie.JPG)
+
+Ha en fin ny uke!
