@@ -1,7 +1,7 @@
 ---
 date: '2017-10-10 13:08 +0200'
 layout: post
-published: false
+published: true
 title: Oktoberhagen
 description: >-
   Fuchsia er finest nå rett før de skal inn så dette blogginnlegget kommer til å
