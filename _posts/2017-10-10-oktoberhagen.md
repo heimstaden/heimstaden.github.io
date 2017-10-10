@@ -4,12 +4,12 @@ layout: post
 published: false
 title: Oktoberhagen
 description: >-
-  Fuchsia er finest nå rett før de skal inn, så dette blogginnlegget kommer til
-  å dreie seg mest om Fuchsia.
+  Fuchsia er finest nå rett før de skal inn så dette blogginnlegget kommer til å
+  dreie seg mest om Fuchsia.
 thumbnail: Fuchsia Bacon Rosa.JPG
 ---
 
-Oktober er tiden for rydding i hagen og heldigvis har jeg høstferie slik at jeg kan få klargjort hagen for vinteren: Engletrompeter og diverse annet skal overvintres på planterom med lys. De får ny jord og potter for å hindre ulike kryp. I tillegg får de noen tabletter med Provado for å hindre diverse skadedyr. Knollene av Dahlia og Canna må tørke før jeg pakker dem i avispapir og oppbevarer dem mørkt og kjølig. Jeg klipper ned endel av staudene som er blitt stygge og rydder rundt omkring slik at sneglene ikke skal finne gjemmesteder. Det som står igjen ute nå er stort sett Fuchsia, neon blodbeger og Oliventrær. 
+Oktober er tiden for rydding i hagen og heldigvis har jeg høstferie slik at jeg kan få klargjort hagen for vinteren: Engletrompeter og diverse annet skal overvintres på planterom med lys. De får ny jord og potter for å hindre ulike kryp. I tillegg får de noen tabletter med Provado for å hindre diverse skadedyr. Knollene av Dahlia og Canna må tørke før jeg pakker dem i avispapir og oppbevarer dem mørkt og kjølig. Jeg klipper ned endel av staudene som er blitt stygge og rydder rundt omkring slik at sneglene ikke skal finne gjemmesteder. Det som står igjen ute nå er stort sett Fuchsia, noen blodbeger og Oliventrær. 
 
 ![Fuchsia Bacon Rosa]({{site.baseurl}}/assets/img/Fuchsia Bacon Rosa.JPG)
 
@@ -19,7 +19,7 @@ Oktober er tiden for rydding i hagen og heldigvis har jeg høstferie slik at jeg
 
 ![Fuchsia Albertina]({{site.baseurl}}/assets/img/Fuchsia Albertina 2017.JPG)
 
-![Fuchsia Bacon]({{site.baseurl}}/assets/img/Fuchsia Bacon.JPG)
+![Fuchsia Display]({{site.baseurl}}/assets/img/Fuchsia Display.JPG)
 
 ![Fuchsia Border Queen]({{site.baseurl}}/assets/img/Fuchsia Border  Queen.JPG)
 
