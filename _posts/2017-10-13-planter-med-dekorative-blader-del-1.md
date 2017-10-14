@@ -35,13 +35,12 @@ En annen bladfavoritt er hosta. De er det også mange ulike typer av. Fra de min
 
 ![Hosta Lakeside Dragonfly]({{site.baseurl}}/assets/img/Hosta Lakeside Dragonfly.JPG)
 
-Astilboides tabularis, Skjoldbronseblad får enorme blader med høye stilker med hvite blomster. Her har jeg tatt bilde fra undersiden. Du ser også planten helt til venstre øverst i bildet til slutt. Dette er på nordsiden av huset og her er det mye skygge. Enkelte av plantene får ikke noe sol, så dette er planter for skyggen.
+Astilboides tabularis, Skjoldbronseblad får enorme blader med høye stilker av hvite blomster. Her har jeg tatt et bilde fra undersiden. Du ser også planten helt til venstre øverst i bildet til slutt. Dette er på nordsiden av huset og her er det mye skygge. Plantene på venstre side får ikke noe sol, så dette er planter for skyggen.
 
 ![Astilboides tabularis]({{site.baseurl}}/assets/img/Astilboides tabularis.JPG)
 
 ![Nordbedet]({{site.baseurl}}/assets/img/Nordbedet 2017.JPG)
 
 Flere bladplanter kommer i neste innlegg.
-
 Ha en fin helg!
 
