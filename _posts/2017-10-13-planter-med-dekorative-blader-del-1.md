@@ -1,7 +1,7 @@
 ---
 date: '2017-10-13 18:50 +0200'
 layout: post
-published: false
+published: true
 title: Planter med dekorative blader Del 1
 thumbnail: I%20skyggen.JPG
 description: >-
@@ -43,4 +43,3 @@ Astilboides tabularis eller Skjoldbronseblad får ganske store blader med høye 
 
 Flere bladplanter kommer i neste innlegg.
 Ha en fin helg!
-
