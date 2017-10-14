@@ -17,4 +17,18 @@ Langs østsiden av tomten har jeg et langt bed. Der har jeg plantet en rekke Heu
 
 ![Heuchera Shanghai]({{site.baseurl}}/assets/img/Heuchera Shanghai.JPG)
 
+![Ukjent Heuchera]({{site.baseurl}}/assets/img/Ukjent Heuchera.JPG)
+
+En annen bladfavoritt er hosta. De er det også mange ulike typer av. Fra de minste på ca. 20 cm til de største som kan bli over meteren høy. De danner etter hvert store tuer og kan bli riktig så omfangsrike etter noen år. Da kan de graves opp og deles og dermed har du mange flere planter. De visner ned om vinteren. Håper jeg ikke har gått surr i navnene her for det er så mange like her også. De første hostaskuddene som kommer opp om våren er så fine og dekorative.
+
+![Hostaskudd]({{site.baseurl}}/assets/img/Hostaskudd.JPG)
+
+![Hosta June]({{site.baseurl}}/assets/img/Hosta June.JPG)
+
+![Hosta Fire and ice]({{site.baseurl}}/assets/img/Hosta Fire and Ice.JPG)
+
+![Hosta Halycon]({{site.baseurl}}/assets/img/Hosta Halycon.JPG)
+
+
+
 
