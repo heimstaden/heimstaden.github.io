@@ -13,7 +13,7 @@ I dag har jeg lyst til å skrive om bladplanter. Bladplanter er planter som dyrk
 
 ![I skyggen]({{site.baseurl}}/assets/img/I skyggen.JPG)
 
-Langs østsiden av tomten har jeg et langt bed. Der har jeg plantet en rekke Heuchera eller alunrot i forkant av bedet. De blir ikke så høye og passer derfor godt her. De finnes i utrolig mange fargevarianter, så det har etter hvert blitt flere av dem. I juni og juli kommer de med sine beskjedne blomster som de sender opp som tynne spir. Mange av dem er ganske like, så det hender jeg går litt i surr med navnene. Disse visner ikke ned på vinteren, så de gir litt farge i bedene hele året.
+Langs østsiden av tomten har jeg et langt bed. Der har jeg plantet en rekke Heuchera eller alunrot i forkant av bedet. De blir ikke så høye og passer derfor godt her. De finnes i utrolig mange fargevarianter, så det har etter hvert blitt flere av dem. I juni og juli kommer de med sine beskjedne blomster som de sender opp som tynne spir. Mange av dem er ganske like, så det hender jeg går litt i surr med navnene. Disse visner ikke ned på vinteren, så de gir litt farge i bedene hele året. Trykker du inn på bildene får du opp navnene på plantene. 
 
 ![Heucherakant]({{site.baseurl}}/assets/img/Heucherakant.JPG)
 
