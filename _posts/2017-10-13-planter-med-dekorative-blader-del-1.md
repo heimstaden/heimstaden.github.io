@@ -37,5 +37,7 @@ Astilboides tabularis, Skjoldbronseblad får enorme blader med høye stilker med
 
 ![Nordbedet]({{site.baseurl}}/assets/img/Nordbedet 2017.JPG)
 
+Flere bladplanter kommer i neste innlegg.
 
+Ha en fin helg!
 
