@@ -11,5 +11,3 @@ I dag har jeg lyst til å skrive om bladplanter. Bladplanter er planter som dyrk
 
 Langs østsiden av tomten har jeg et langt bed. Der har jeg plantet en rekke Heuchera eller alunrot i forkant av bedet. De blir ikke så høye og passer derfor godt her. De finnes i utrolig mange fargevarianter, så det har etter hvert blitt flere av dem. I juni og juli kommer de med sine beskjedne blomster som de sender opp som tynne spir. Mange av dem er ganske like, så det hender jeg går litt i surr med navnene. Disse visner ikke ned på vinteren, så de gir litt farge i bedene hele året.
 ![Heucherakant]({{site.baseurl}}/assets/img/Heucherakant.JPG)
-
-
