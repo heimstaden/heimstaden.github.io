@@ -19,7 +19,7 @@ Langs østsiden av tomten har jeg et langt bed. Der har jeg plantet en rekke Heu
 
 ![Ukjent Heuchera]({{site.baseurl}}/assets/img/Ukjent Heuchera.JPG)
 
-En annen bladfavoritt er hosta. De er det også mange ulike typer av. Fra de minste på ca. 20 cm til de største som kan bli over meteren høy. De danner etter hvert store tuer og kan bli riktig så omfangsrike etter noen år. Da kan de graves opp og deles og dermed har du mange flere planter. De visner ned om vinteren. Håper jeg ikke har gått surr i navnene her for det er så mange like her også. De første hostaskuddene som kommer opp om våren er så fine og dekorative. Sneglene kan være litt for glade i enkelte av dem, men de som har litt tykkere blader og er blågrønne på fargen får stå i fred her hos meg. Her er det i perioder veldig vått, så jeg synes at hostaene klarer seg forholdsvis godt her. 
+En annen bladfavoritt er hosta. De er det også mange ulike typer av. Fra de minste på ca. 20 cm til de største som kan bli over meteren høy. De danner etter hvert store tuer og kan bli riktig så omfangsrike etter noen år. Da kan de graves opp og deles og dermed har du mange flere planter. Fargen på blomstene er gjerne hvite eller lys lilla. De får en fin gul farge før de visner ned om høsten. Håper jeg ikke har gått surr i navnene her for det er så mange like her også. De første hostaskuddene som kommer opp om våren er så fine og dekorative. Sneglene kan være litt for glade i enkelte av dem, men de som har litt tykkere blader og er blågrønne på fargen får stå i fred her hos meg. Her er det i perioder veldig vått, så jeg synes at hostaene klarer seg forholdsvis bra her. 
 
 ![Hostaskudd]({{site.baseurl}}/assets/img/Hostaskudd.JPG)
 
@@ -28,6 +28,9 @@ En annen bladfavoritt er hosta. De er det også mange ulike typer av. Fra de min
 ![Hosta Fire and ice]({{site.baseurl}}/assets/img/Hosta Fire and Ice.JPG)
 
 ![Hosta Halycon]({{site.baseurl}}/assets/img/Hosta Halycon.JPG)
+
+![Hosta Lakeside Dragonfly]({{site.baseurl}}/assets/img/Hosta Lakeside Dragonfly.JPG)
+
 
 
 
