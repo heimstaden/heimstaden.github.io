@@ -3,6 +3,10 @@ date: '2017-10-13 18:50 +0200'
 layout: post
 published: false
 title: Planter med dekorative blader Del 1
+thumbnail: I%20skyggen.JPG
+description: >-
+  Har du noen skyggefulle plasser i hagen, vil mange av disse plantene trives
+  der.  Her er det bladverket som står i fokus.
 ---
 
 I dag har jeg lyst til å skrive om bladplanter. Bladplanter er planter som dyrkes først og fremst fordi de har et dekorativt bladverk. Det er rett og slett bladenes form og farge som er blikkfanget og ikke deres blomster, selv om de kan være fine de også. Mange av dem trives også i skygge og halvskygge og kan derfor være gode planter på vanskelige steder. Bedet nedenfor er rett under blåregnen og det er ikke så mye sol som trenger igjennom bladverket. Her er det en god blanding av både Heuchera og Hosta.
