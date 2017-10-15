@@ -1,7 +1,7 @@
 ---
 date: '2017-10-15 15:25 +0200'
 layout: post
-published: false
+published: true
 title: Planter med dekorativt bladverk del 2
 thumbnail: Rodgersia%20hybrid%20Chocolate%20Wings.JPG
 description: ' Her er flere planter og busker fra hagen med dekorativt bladverk. Kontraster i bladverket kan også gjøre en samplanting fin. '
@@ -48,4 +48,3 @@ Den siste jeg vil ta med er en sommerblomst som jeg sår i begynnelsen av mars. 
 ![Ricinus communis]({{site.baseurl}}/assets/img/Ricinus communis.JPG)
 
 Ønsker alle en fin ny uke!
-
