@@ -27,7 +27,7 @@ Når Oktoberbergknappen blomstrer på høsten er den som regel veldig populær h
 
 ![Oktoberbergknapp]({{site.baseurl}}/assets/img/Oktoberbergknapp.JPG)
 
-Jeg kan ikke skrive om dekorativt bladverk uten å ta med noen bilder av lønn. Hagen vår er ikke så stor, men noen busker og trær er det jo blitt plass til. Hadde den vært større skulle jeg hatt flere lønnetrær. I små hager kan det derfor være praktisk med noen prydlønn som ikke blir så store. Her har jeg en japansk lønn som er merket Acer Palmatum Atropurpureum. Nå har den fått en flott høstfarge på. I tillegg har jeg to andre som har mer gulgrønne blader med litt rødt i kanten. Flotte farger hele sesongen, men de tåler nok ikke så godt lange og harde vintre. 
+Jeg kan ikke skrive om dekorativt bladverk uten å ta med noen bilder av lønn. Hagen vår er ikke så stor, men noen busker og trær er det jo blitt plass til. Hadde den vært større skulle jeg hatt flere lønnetrær. I små hager kan det derfor være praktisk med noen prydlønn som ikke blir så store. Her har jeg en japansk lønn som er merket Acer Palmatum Atropurpureum. Nå har den fått en flott høstfarge på. I tillegg har jeg to andre som har mer gulgrønne blader med litt rødt i kanten. Flotte farger hele sesongen, men tåler nok ikke lange og kalde vintre så godt.
 
 ![Acer Palmatum]({{site.baseurl}}/assets/img/Acer Palmatum .JPG)
 
