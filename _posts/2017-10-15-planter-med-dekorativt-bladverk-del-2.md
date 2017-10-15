@@ -27,13 +27,13 @@ Når Oktoberbergknappen blomstrer på høsten er den som regel veldig populær h
 
 ![Oktoberbergknapp]({{site.baseurl}}/assets/img/Oktoberbergknapp.JPG)
 
-Jeg kan ikke skrive om dekorativt bladverk uten å ta med noen bilder av lønn. Hagen vår er ikke så stor, men noen busker og trær er det jo blitt plass til. Hadde den vært større skulle jeg hatt flere lønnetrær. I små hager kan det derfor være praktisk med noen prydlønn som ikke blir så store. Her har jeg en japansk lønn som er merket Acer Palmatum Atropurpureum. Nå har den fått en flott høstfarge på. I tillegg har jeg to andre som har mer gulgrønne blader med litt rødt i kanten. Flotte farger hele sesongen, men tåler nok ikke lange og kalde vintre så godt.
+Jeg kan ikke skrive om dekorativt bladverk uten å ta med noen bilder av lønn. Hagen vår er ikke så stor, men noen busker og trær er det jo blitt plass til. Hadde den vært større skulle jeg hatt flere lønnetrær. I små hager kan det derfor være praktisk med noen prydlønn som ikke blir så store. Her har jeg en japansk lønn som er merket Acer Palmatum Atropurpureum. Nå har den fått en flott høstfarge på. I tillegg har jeg to andre som har mer gulgrønne blader med litt rødt i kanten. Flotte farger hele sesongen, men de tåler nok ikke lange og kalde vintre.
 
 ![Acer Palmatum]({{site.baseurl}}/assets/img/Acer Palmatum .JPG)
 
 ![Acer Palmatum 2]({{site.baseurl}}/assets/img/Acer Palmatun 2.JPG)
 
-Andre litt større planter og busker er klatrehortenisa og rødkattebusk. På bildet her har også Marikåpen sneket seg inn med skyer av limegrønne blomster. Den har også fine og dekorative blader. Den kan fort spre seg og bli mange, men de er lette å luke bort.
+Andre litt større planter og busker er klatrehortenisa og rødkattebusk. På bildet her har også marikåpen sneket seg inn med skyer av limegrønne blomster. Den har også fine og dekorative blader. Den kan fort spre seg og bli mange, men de er lette å luke bort.
 
 ![Actindia kolomikta og klatrehortensia]({{site.baseurl}}/assets/img/Actinidia kolomikta og klatrehortensia .JPG)
 
