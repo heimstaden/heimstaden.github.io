@@ -39,6 +39,11 @@ En annen busk som også må nevnes og som jeg har vist bilder av flere ganger er
 
 ![Pieris Forest Flame]({{site.baseurl}}/assets/img/Pieris, Forest Flame.JPG)
 
+![Pieris Forest Flam 2017]({{site.baseurl}}/assets/img/Pieris Forest Flame 2017.JPG)
 
 Den siste jeg vil ta med er en sommerblomst som jeg sår i begynnelsen av mars. Ricinus communis eller oljeplante har et fint bladverk gjennom hele sesongen.
+
+![Ricinus communis]({{site.baseurl}}/assets/img/Ricinus communis.JPG)
+
+Ønsker alle en fin ny uke!
 
