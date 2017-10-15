@@ -23,7 +23,7 @@ Andre planter med dekorativt bladverk er Oktoberbergknapp.  Den er en høstbloms
 
 ![Astilber, Sedum og Iris]({{site.baseurl}}/assets/img/Astilber, Sedum og Iris.JPG)
 
-Oktoberbergkanppen blomstrer på høsten er den som regel veldig populær hos sommerfugler og humler. 
+Når Oktoberbergknappen blomstrer på høsten er den som regel veldig populær hos sommerfugler og humler. 
 
 ![Oktoberbergknapp]({{site.baseurl}}/assets/img/Oktoberbergknapp.JPG)
 
