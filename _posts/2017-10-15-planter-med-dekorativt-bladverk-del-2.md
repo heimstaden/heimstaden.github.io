@@ -3,13 +3,13 @@ date: '2017-10-15 15:25 +0200'
 layout: post
 published: true
 title: Planter med dekorativt bladverk del 2
-thumbnail: Rodgersia%20hybrid%20Chocolate%20Wings .JPG
+thumbnail: Rodgersia%20hybrid%20Chocolate%20Wings.JPG
 description: ' Her er flere planter og busker fra hagen med dekorativt bladverk. Kontraster i bladverket kan også gjøre en samplanting fin. '
 ---
 
 I forrige innlegg tok jeg for meg Heuchera og Hosta. Her kommer det noen til. Neste bladplante er Rodgersia eller bronseblad. Her har jeg to typer, Rodgersia Chocolate Wings med rosa blomster og Rodgersia podophylla med hvite blomster. Den siste får en nydelig rødfarge på bladene på høsten. Disse bør nok holdes litt i sjakk slik at de ikke får spre seg for mye. Disse tåler også skygge meget godt.
 
-![Rodgersia hybrid Chocolate Wings]({{site.baseurl}}/assets/img/Rodgersia hybrid Chocolate Wings .JPG)
+![Rodgersia hyrid Chocolate Wings]({{site.baseurl}}/assets/img/Rodgersia hybrid Chocolate Wings.JPG)
 
 ![Rodgersia podophylla]({{site.baseurl}}/assets/img/Rodgersia podophylla.JPG)
 
