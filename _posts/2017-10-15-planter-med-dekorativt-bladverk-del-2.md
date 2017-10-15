@@ -4,10 +4,10 @@ layout: post
 published: false
 title: Planter med dekorativt bladverk del 2
 thumbnail: Rodgersia%20hybrid%20Chocolate%20Wings.JPG
-description: ' Her er flere planter og busker med dekorativt bladverk.  Kontraster i bladverket kan også gjøre en samplanting fin. '
+description: ' Her er flere planter og busker fra hagen med dekorativt bladverk. Kontraster i bladverket kan også gjøre en samplanting fin. '
 ---
 
-I forrige innlegg tok jeg for meg Heuchera og Hosta. Her er noen flere bladplanter jeg har i hagen. En annen bladplante i hagen er Rodgersia eller bronseblad. Her har jeg to typer, Rodgersia Chocolate Wings med rosa blomster og Rodgersia podophylla med hvite blomster. Den siste får en nydelig rødfarge på bladene på høsten. Disse bør nok holdes litt i sjakk slik at de ikke får spre seg for mye. Disse tåler også skygge meget godt.
+I forrige innlegg tok jeg for meg Heuchera og Hosta. Her kommer det noen til. Neste bladplante er Rodgersia eller bronseblad. Her har jeg to typer, Rodgersia Chocolate Wings med rosa blomster og Rodgersia podophylla med hvite blomster. Den siste får en nydelig rødfarge på bladene på høsten. Disse bør nok holdes litt i sjakk slik at de ikke får spre seg for mye. Disse tåler også skygge meget godt.
 
 ![Rodgersia hybrid Chocolate Wings]({{site.baseurl}}/assets/img/Rodgersia hybrid Chocolate Wings .JPG)
 
@@ -19,7 +19,7 @@ Stachys byzantina eller lammeøre er en artig plante der bladene kjennes ut som 
 
 ![Stachys byzantina]({{site.baseurl}}/assets/img/Stachys byzantina .JPG)
 
-Andre planter med dekorativt bladverk er Oktoberbergknapp.  Den er en høstblomstrende plante, men hele sommeren har den et dekorativt bladverk som finnes i ulike farger. I år har jeg rett og slett fått dilla på disse og har utvidet med noen flere planter. Noen er veldig små enda, men jeg håper de overlever vinteren. På det første bildet under her har jeg plantet en mørkbladet oktoberbergknapp sammen med en rød og en hvit astilbe som har et bladverk som er helt annerledes enn oktoberbergknappen. Sammen med de smale bladene til irisen i bakgrunn får jeg her fine kontraster i bladverkene. Blomstene på irisen er jo også svært velkomne.  Når 
+Andre planter med dekorativt bladverk er Oktoberbergknapp.  Den er en høstblomstrende plante, men hele sommeren har den et dekorativt bladverk som finnes i ulike farger. I år har jeg rett og slett fått dilla på disse og har utvidet med noen flere planter. Noen er veldig små enda, men jeg håper de overlever vinteren. På det første bildet under her har jeg plantet en mørkbladet oktoberbergknapp sammen med en rød og en hvit astilbe som har et bladverk som er helt annerledes enn oktoberbergknappen. Sammen med de smale bladene til irisen i bakgrunn får jeg her fine kontraster i bladverkene. Blomstene på irisen er jo også svært velkomne. 
 
 ![Astilber, Sedum og Iris]({{site.baseurl}}/assets/img/Astilber, Sedum og Iris.JPG)
 
