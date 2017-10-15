@@ -19,9 +19,11 @@ Stachys byzantina eller lammeøre er en artig plante der bladene kjennes ut som 
 
 ![Stachys byzantina]({{site.baseurl}}/assets/img/Stachys byzantina .JPG)
 
-Andre planter med dekorativt bladverk er Oktoberbergknapp.  Den er en høstblomstrende plante, men hele sommeren har den et dekorativt bladverk som finnes i ulike farger. I år har jeg rett og slett fått dilla på disse og har utvidet med noen flere planter. Noen er veldig små enda, men jeg håper de overlever vinteren. På det første bildet under her har jeg plantet en mørkbladet oktoberbergknapp sammen med en rød og en hvit astilbe som har et bladverk som er helt annerledes enn oktoberbergknappen. Sammen med de smale bladene til irisen i bakgrunn får jeg her fine kontraster i bladverkene. Blomstene på irisen er jo også svært velkomne. Fine kontraster også mellom Sedum, trelyng og julerose.
+Andre planter med dekorativt bladverk er Oktoberbergknapp.  Den er en høstblomstrende plante, men hele sommeren har den et dekorativt bladverk som finnes i ulike farger. I år har jeg rett og slett fått dilla på disse og har utvidet med noen flere planter. Noen er veldig små enda, men jeg håper de overlever vinteren. På det første bildet under her har jeg plantet en mørkbladet oktoberbergknapp sammen med en rød og en hvit astilbe som har et bladverk som er helt annerledes enn oktoberbergknappen. Sammen med de smale bladene til irisen i bakgrunn får jeg her fine kontraster i bladverkene. Blomstene på irisen er jo også svært velkomne. 
 
 ![Astilber, Sedum og Iris]({{site.baseurl}}/assets/img/Astilber, Sedum og Iris.JPG)
+
+Fine kontraster også mellom Sedum, trelyng og julerose.
 
 ![Sedum telephinum Red Cauli og Erica arborea Alberts Gold]({{site.baseurl}}/assets/img/Sedum telephinum Red Cauli og Erica arborea Alberts Gold.JPG)
 
