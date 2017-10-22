@@ -1,7 +1,7 @@
 ---
 date: '2017-10-22 13:00 +0200'
 layout: post
-published: false
+published: true
 title: Siste rest av oktoberhagen
 description: >-
   I går hadde vi en strålende høstdag med 17 grader. Ikke verst til å være 21.
@@ -54,8 +54,3 @@ I vår sådde jeg også Rudbeckia hirta, Toto Rustic. Den har nå endelig bestem
 ![Rudbeckia hirta Toto Rustic]({{site.baseurl}}/assets/img/Rudbeckia hirta, Toto Rustic.JPG)
 
 Ha en flott ny høstuke!
-
-
-
-
-
