@@ -6,7 +6,7 @@ title: Siste rest av oktoberhagen
 ---
 
 I går hadde vi en strålende høstdag med 17 grader. Ikke verst til å være 21. oktober. 
-Nå er hagesongen definitivt over for i år, bortsett fra litt løkplanting. Vi har enda ikke hatt frost, men de fleste plantene og trærne i hagen har fått høstfargene på. Alle sommerblomster er byttet ut med pyntekål og lyng. 
+Nå er hagesesongen definitivt over for i år, bortsett fra litt løkplanting. Vi har enda ikke hatt frost, men de fleste plantene og trærne i hagen har fått høstfargene på. Alle sommerblomster er byttet ut med pyntekål og lyng. 
 
 ![Pynt ved inngangen]({{site.baseurl}}/assets/img/Pynt ved inngangen.JPG)
 
@@ -46,11 +46,11 @@ Oktoberbergknappen er nå på det stadiet der fargen er på det sterkeste og den
 
 ![Rudbeckia Cherry Brandy og oktoberbergknapp]({{site.baseurl}}/assets/img/Rudbeckia Cherry Brandy og oktoberbergknapp.JPG)
 
-I vår sådde jeg også Rudbeckia hirta, Tot Rustic. Den har nå endelig bestemt seg for å vise fram høstfargene sine.
+I vår sådde jeg også Rudbeckia hirta, Toto Rustic. Den har nå endelig bestemt seg for å vise fram høstfargene sine.
 
 ![Rudbeckia hirta Toto Rustic]({{site.baseurl}}/assets/img/Rudbeckia hirta, Toto Rustic.JPG)
 
-
+Ha en flott ny høstuke!
 
 
 
