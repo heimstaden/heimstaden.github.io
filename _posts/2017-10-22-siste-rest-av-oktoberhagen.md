@@ -3,6 +3,10 @@ date: '2017-10-22 13:00 +0200'
 layout: post
 published: false
 title: Siste rest av oktoberhagen
+description: >-
+  I går hadde vi en strålende høstdag med 17 grader. Ikke verst til å være 21.
+  oktober.  Det må det jo bli bilder av.
+thumbnail: Pynt%20ved%20inngangen.JPG
 ---
 
 I går hadde vi en strålende høstdag med 17 grader. Ikke verst til å være 21. oktober. 
