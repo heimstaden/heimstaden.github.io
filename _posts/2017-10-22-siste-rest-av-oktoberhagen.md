@@ -9,8 +9,7 @@ description: >-
 thumbnail: Pynt%20ved%20inngangen.JPG
 ---
 
-I går hadde vi en strålende høstdag med 17 grader. Ikke verst til å være 21. oktober. 
-Nå er hagesesongen definitivt over for i år, bortsett fra litt løkplanting. Vi har enda ikke hatt frost, men de fleste plantene og trærne i hagen har fått høstfargene på. Alle sommerblomster er byttet ut med pyntekål og lyng. 
+Nå er hagesesongen definitivt over for i år, bortsett fra litt løkplanting. Vi har enda ikke hatt frost, men mange av plantene og trærne har fått høstfargene på. Fortsatt er det noen planter som holder ut, men sommerblomstene er byttet ut med pyntekål og lyng. 
 
 ![Pynt ved inngangen]({{site.baseurl}}/assets/img/Pynt ved inngangen.JPG)
 
