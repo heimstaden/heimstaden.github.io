@@ -25,8 +25,14 @@ Alle overvintringsplantene er kommet på plass på planterommet. Det har de tyde
 
 ![Hvit enkel]({{site.baseurl}}/assets/img/Hvit enkel.JPG)
 
+![Knupp av Salmon Perfection]({{site.baseurl}}/assets/img/Knupp av Salmon Perfection.JPG)
 
 Det ble fullt i år også.
+
+![Planterom]({{site.baseurl}}/assets/img/Planterom.JPG)
+
+![Planterommet]({{site.baseurl}}/assets/img/Planterommet.JPG)
+
 
  
 
