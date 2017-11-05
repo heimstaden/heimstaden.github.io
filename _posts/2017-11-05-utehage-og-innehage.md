@@ -3,7 +3,7 @@ date: '2017-11-05 15:08 +0100'
 layout: post
 published: true
 title: Utehage og innehage
-thumbnail: Sissel%20Renaissance%205.%20november.JPG
+thumbnail: Sissel%20Renaissance%205%20november.JPG
 description: 'Ikke mye farger igjen i utehagen, men desto mer på planterommet i innehagen.'
 ---
 
