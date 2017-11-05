@@ -3,6 +3,7 @@ date: '2017-11-05 15:08 +0100'
 layout: post
 published: false
 title: Utehage og innehage
+thumbnail: Sissel%20Renaissance%205.%20november.JPG
 ---
 
 Utehagen er i ferd med å gå i dvale og det blir færre og færre fargeinnslag. Men det er noen få som ikke har gitt opp enda. Disse bildene er tatt i dag mellom regnbygene. Klikker du inn på bildene får du opp navnene på plantene. 
