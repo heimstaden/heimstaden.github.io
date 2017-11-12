@@ -4,7 +4,9 @@ layout: post
 published: true
 title: 'Farger fra sommeren '
 thumbnail: Middagsblomster.jpg
-description: 'Lite farger å se i hagen for tiden. På tide å hente fram noen fra sommeren. '
+description: >-
+  Lite farger å se i hagen for tiden. På tide å hente fram noen farger fra
+  sommeren.
 ---
 
 I dag har vi hatt nydelig vær med sol fra blå himmel, men fargene begynner å blekne ute og det er langt mellom fargeklattene. De siste tulipanene fikk også plass og jeg gleder meg allerede til våren. Det er visst på tide på hente fram noen farger fra sommeren som vi kan varme oss på. 
