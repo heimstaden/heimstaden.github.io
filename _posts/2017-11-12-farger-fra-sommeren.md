@@ -1,7 +1,7 @@
 ---
 date: '2017-11-12 15:35 +0100'
 layout: post
-published: false
+published: true
 title: 'Farger fra sommeren '
 thumbnail: Middagsblomster.jpg
 description: 'Lite farger å se i hagen for tiden. På tide å hente fram noen fra sommeren. '
@@ -47,4 +47,3 @@ De siste bukettene fra oktober gir også litt varme der de koser seg i høstsole
 ![De siste bukettene]({{site.baseurl}}/assets/img/De siste bukettene.JPG)
 
 Ha en fin ny uke!
-
