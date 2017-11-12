@@ -9,7 +9,7 @@ description: >-
   sommeren.
 ---
 
-I dag har vi hatt nydelig vær med sol fra blå himmel, men fargene begynner å blekne ute og det er langt mellom fargeklattene. De siste tulipanene fikk også plass og jeg gleder meg allerede til våren. Det er visst på tide på hente fram noen farger fra sommeren som vi kan varme oss på. 
+I dag har vi hatt nydelig vær med sol fra blå himmel, men fargene begynner å blekne ute og det er langt mellom fargeklattene. De siste tulipanene fikk også plass og jeg gleder meg allerede til våren. Det er visst på tide å hente fram noen farger fra sommeren som vi kan varme oss på. 
 Middagsblomstene hadde sitt høydepunkt i juli. De skal få komme tilbake til neste år også for makan til fargefest.
 
 ![Middagsblomster]({{site.baseurl}}/assets/img/Middagsblomster.jpg)
