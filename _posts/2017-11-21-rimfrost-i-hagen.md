@@ -3,6 +3,8 @@ date: '2017-11-21 15:40 +0100'
 layout: post
 published: false
 title: Rimfrost i hagen
+thumbnail: Rimfrost%20astilbe.JPG
+description: Rimfrostbilder fra hagen i dag gir litt vinterstemning i november.
 ---
 
 Endelig stoppet regnet og vi fikk noen kaldere dager. Et par minusgrader gjør mange av høstbladene vakre med rimfrost og lav sol. Noen astilbeblader ble helt nydelige med rimfrost. 
