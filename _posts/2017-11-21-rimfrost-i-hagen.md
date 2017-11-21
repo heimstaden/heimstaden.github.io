@@ -1,7 +1,7 @@
 ---
 date: '2017-11-21 15:40 +0100'
 layout: post
-published: false
+published: true
 title: Rimfrost i hagen
 thumbnail: Rimfrost%20astilbe.JPG
 description: Rimfrostbilder fra hagen i dag gir litt vinterstemning i november.
@@ -40,6 +40,3 @@ Noen solstråler fikk bispeluen til å gløde, så den får avslutte rimfrostinn
 ![Rimfrost bispelue]({{site.baseurl}}/assets/img/Rimfrost bispelue.JPG)
 
 Ha en fin uke!
-
-
-
