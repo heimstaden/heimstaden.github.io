@@ -13,7 +13,7 @@ Julestemningen stiger noen hakk når snøen legger seg over hagen og nissene har
 
 Da er det bare to uker til selveste julaften og endelig har de lilla sviblene åpnet seg også. De har fått litt hjelp inne noen dager. De tåler noen få minusgrader, så de skal få stå ute så lenge det er mulig. 
 
-![Svibler i tretønne]({{site.baseurl}}/assets/img/_MG_0641.JPG)
+![Svibler]({{site.baseurl}}/assets/img/Svibler.JPG)
 
 ![Svibler i krukke]({{site.baseurl}}/assets/img/_MG_0732.JPG)
 
