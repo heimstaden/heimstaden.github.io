@@ -11,9 +11,10 @@ description: >-
 
 Julestemningen stiger noen hakk når snøen legger seg over hagen og nissene har fått litt bedre skiføre. Det skal vel mye til at den blir liggende, men jeg nyter det så lenge det varer.  Det ble så utrolig mye lysere.
 
-![Det snør, det snør]({{site.baseurl}}/assets/img/_MG_0706.JPG)
+![Lys i mørke]({{site.baseurl}}/assets/img/_MG_0706.JPG)
 
-![Snart skiføre]({{site.baseurl}}/assets/img/_MG_0721.JPG)
+![Nissene venter på mer snø]({{site.baseurl}}/assets/img/_MG_0721.JPG)
+
 
 Da er det bare to uker til selveste julaften og endelig har de lilla sviblene åpnet seg også. De har fått litt hjelp inne noen dager. De tåler noen få minusgrader, så de skal få stå ute så lenge det er mulig. 
 
