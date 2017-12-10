@@ -13,20 +13,21 @@ Julestemningen stiger noen hakk når snøen legger seg over hagen og nissene har
 
 ![Hvit advent]({{site.baseurl}}/assets/img/Hvit advent.JPG)
 
-![Nissene venter på mer snø]({{site.baseurl}}/assets/img/Nissene venter på mer snø.JPG)
+![Skinissene]({{site.baseurl}}/assets/img/Skinissene.JPG)
 
 Da er det bare to uker til selveste julaften og endelig har de lilla sviblene åpnet seg også. De har fått litt hjelp inne noen dager. De tåler noen få minusgrader, så de skal få stå ute så lenge det er mulig. 
 
 ![Svibler]({{site.baseurl}}/assets/img/Svibler.JPG)
 
-![Svibler i krukke]({{site.baseurl}}/assets/img/_MG_0732.JPG)
+![Svibler i krukke]({{site.baseurl}}/assets/img/Svibler i krukke.JPG)
 
-Lys har det også blitt rundt omkring i hagen. Små lyslenker passer sammen med det meste. Her er en kristhorngrein satt i en potte med jord.  
+Lys har det også blitt rundt omkring i hagen. Små lyslenker passer sammen med det meste. Her er en kristhorngrein satt i en potte med jord. 
 
-![Kristhorn]({{site.baseurl}}/assets/img/_MG_0650.JPG)
+![Kristhorn]({{site.baseurl}}/assets/img/Kristhorn.JPG)
 
 Litt dårlig lys på bildet her, men her er det granbar, kongler og lyslenker
 
-![Granbar og kongler]({{site.baseurl}}/assets/img/_MG_0674.JPG)
+![Lyslenker]({{site.baseurl}}/assets/img/Lyslenker.JPG)
+
 
 Ha en fin ny uke!
