@@ -17,7 +17,7 @@ Da er det bare to uker til selveste julaften og endelig har de lilla sviblene å
 
 ![Svibler i krukke]({{site.baseurl}}/assets/img/_MG_0732.JPG)
 
-Lys har det også blitt rundt omkring i hagen. Små lyslenker passer sammen med det meste. Her er en kristhorngrein puttet i en potte med jord.  
+Lys har det også blitt rundt omkring i hagen. Små lyslenker passer sammen med det meste. Her er en kristhorngrein satt i en potte med jord.  
 
 ![Kristhorn]({{site.baseurl}}/assets/img/_MG_0650.JPG)
 
