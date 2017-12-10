@@ -3,6 +3,10 @@ date: '2017-12-10 20:41 +0100'
 layout: post
 published: false
 title: Hvit advent
+thumbnail: Svibler.JPG
+description: >-
+  Andre søndag i advent. Nysnø , svibler, lys og nisser sørger for at
+  julestemningen stiger
 ---
 
 Julestemningen stiger noen hakk når snøen legger seg over hagen og nissene har fått litt bedre skiføre. Det skal vel mye til at den blir liggende, men jeg nyter det så lenge det varer.  Det ble så utrolig mye lysere.
