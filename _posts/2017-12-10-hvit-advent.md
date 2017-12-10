@@ -16,6 +16,8 @@ Julestemningen stiger noen hakk når snøen legger seg over hagen. Det skal vel 
 Nissene venter på skikkelig skiføre.  
 ![Skinissene]({{site.baseurl}}/assets/img/Skinissene.JPG)
 
+<!--more-->
+
 Da er det bare to uker til selveste julaften og endelig har de lilla sviblene åpnet seg også. De har fått litt hjelp inne noen dager. De tåler noen få minusgrader, så de skal få stå ute så lenge det er mulig. Bildet ble tatt før snøen kom.
 
 ![Svibler]({{site.baseurl}}/assets/img/Svibler.JPG)
