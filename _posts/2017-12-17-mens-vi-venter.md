@@ -32,5 +32,8 @@ Trollhasselgreiner og lerkegreiner er også fine å pynte med både innendørs o
 ![Lerkegreiner]({{site.baseurl}}/assets/img/Lerkegreiner.JPG)
 
 Nå er det også snart tid for å så blodbeger igjen. Det pleier jeg å gjøre i romjulen. I år har jeg to stykker hengende ute for å se hvor mye de tåler. Her har det vært opp imot -5 grader et par dager, så jeg er spent på hvordan det går. 
-To andre har fått overvintre i garasjen og de står fortsatt fint. I fjor hadde jeg dem i både ampler og i krukker der de fikk vokse oppover. Sistnevnte ble klart de fineste
+To andre har fått overvintre i garasjen og de står fortsatt fint. I fjor hadde jeg dem i både ampler og i krukker der de fikk vokse oppover. Sistnevnte ble klart den fineste.
 
+![Blodbeger]({{site.baseurl}}/assets/img/Blodbeger.JPG)
+
+Ønsker alle en god førjulsuke!
