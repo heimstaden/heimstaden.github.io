@@ -1,7 +1,7 @@
 ---
 date: '2017-12-17 14:35 +0100'
 layout: post
-published: false
+published: true
 title: Mens vi venter
 thumbnail: Kosekrok.JPG
 description: >-
