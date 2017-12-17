@@ -3,9 +3,13 @@ date: '2017-12-17 14:35 +0100'
 layout: post
 published: false
 title: Mens vi venter
+thumbnail: Kosekrok.JPG
+description: >-
+  Mye kjekt å vente på nå. Om fire dager er det vintersolverv og om en uke er
+  det julaften
 ---
 
-Mye kjekt å vente på nå. Om fire dager er det vintersolverv og om en uke er det julaften. Mens vi venter er det fint å lage små kosekroker i hagen som kan nytes innenfra også. Hagen bør jo kunne nytes litt om vinteren også. Dessverre har trosten spist opp alle bærene på kristhorn, men den skal jo også ha mat. Grønn og fin er den i hvert fall.
+Mens vi venter er det fint å lage små kosekroker i hagen som kan nytes innenfra også. Hagen bør jo kunne nytes litt om vinteren også. Dessverre har trosten spist opp alle bærene på kristhorn, men den skal jo også ha mat. Grønn og fin er den i hvert fall.
 
 ![Kosekrok]({{site.baseurl}}/assets/img/Kosekrok.JPG)
 
