@@ -15,7 +15,7 @@ Mens vi venter er det fint å lage små kosekroker i hagen som kan nytes innenfr
 
 ![Kosekroken ved garasjen]({{site.baseurl}}/assets/img/Kosekroken ved garasjen.JPG)
 
-Lagde meg en grans med sibirkornell som grunnkrans. Den har så fin rød farge på greinene at jeg tenkte denne skulle få pynte opp en kjedelig garasjemurvegg. Jeg satte på noen kristhorngreiner her også, men før jeg fikk den opp på veggen var bærene borte her også.
+Lagde meg en krans med sibirkornell som grunnkrans. Den har så fin rød farge på greinene at jeg tenkte denne skulle få pynte opp en kjedelig garasjemurvegg. Jeg satte på noen kristhorngreiner her også, men før jeg fikk den opp på veggen var bærene borte her også.
 
 ![Krans av sibirkornell]({{site.baseurl}}/assets/img/Krans av sibirkornell.JPG)
 
@@ -31,9 +31,9 @@ Amaryllis er en annen julefavoritt. Denne her rekker nok ikke å komme i blomst 
 
 ![Amaryllis]({{site.baseurl}}/assets/img/Amaryllis.JPG)
 
-Trollhasselgreiner og lerkegreiner er også fine å pynte med både innendørs og utendørs. Jeg har brukt dem innendørs med lyslenker i. 
+Trollhasselgreiner og lerkegreiner er også fine å pynte med både innendørs og utendørs. Jeg har brukt dem innendørs med lyslenker i. Her er en julepyntet trollhasselgrein. 
 
-![Lerkegreiner]({{site.baseurl}}/assets/img/Lerkegreiner.JPG)
+![Trollhasselgrein]({{site.baseurl}}/assets/img/Trollhasselgrein.JPG)
 
 Nå er det også snart tid for å så blodbeger igjen. Det pleier jeg å gjøre i romjulen. I år har jeg to stykker hengende ute for å se hvor mye de tåler. Her har det vært opp imot -5 grader et par dager, så jeg er spent på hvordan det går. 
 To andre har fått overvintre i garasjen og de står fortsatt fint. I fjor hadde jeg dem i både ampler og i krukker der de fikk vokse oppover. Sistnevnte ble klart den fineste.
