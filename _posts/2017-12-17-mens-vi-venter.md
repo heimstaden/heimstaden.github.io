@@ -15,6 +15,8 @@ Mens vi venter er det fint å lage små kosekroker i hagen som kan nytes innenfr
 
 ![Kosekroken ved garasjen]({{site.baseurl}}/assets/img/Kosekroken ved garasjen.JPG)
 
+<!--more-->
+
 Lagde meg en krans med sibirkornell som grunnkrans. Den har så fin rød farge på greinene at jeg tenkte denne skulle få pynte opp en kjedelig garasjemurvegg. Jeg satte på noen kristhorngreiner her også, men før jeg fikk den opp på veggen var bærene borte her også.
 
 ![Krans av sibirkornell]({{site.baseurl}}/assets/img/Krans av sibirkornell.JPG)
