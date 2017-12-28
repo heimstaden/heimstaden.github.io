@@ -3,6 +3,8 @@ date: '2017-12-28 17:32 +0100'
 layout: post
 published: true
 title: Tilbakeblikk på 2017
+thumbnail: Januar.JPG
+description: Her er månedens favoritter fra januar til desember
 ---
 
 Hageåret 2017 er snart forbi og jeg har dykket i arkivet for å finne favoritter fra hver måned. Januar startet med snø og i februar ble det kaldt nok til å lage islykter. Snøklokker og  krokus kan også titte frem i februar hvis vi er heldige.
