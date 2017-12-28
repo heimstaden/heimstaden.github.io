@@ -53,6 +53,9 @@ November er måneden frosten kom på besøk.I mørke november er det derfor et r
 
 I den siste måneden i år blir det sviblene som går av med seieren. De må dessverre stå ute siden de har så intens lukt. Håper de varer like lenge som i fjor. Da stod de i fire måneder. 
 
+![Svibler i desember]({{site.baseurl}}/assets/img/Svibler i desember.JPG)
+
+
 Her er sommerens fineste nykommer. Middagsblomstene som jeg har vist bilder av flere ganger.
 
 ![Sommerens fineste nykommer]({{site.baseurl}}/assets/img/Sommerens fineste nykommer.jpg)
