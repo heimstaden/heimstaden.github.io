@@ -30,7 +30,7 @@ De fleste er sommerblomster, men jeg har etterhvert fått veldig sansen for prim
 
 [Primula Alpicola](https://www.plant-world-seeds.com/store/search_for_item?utf8=%E2%9C%93&query=PRIMULA+ALPICOLA)
 
-Blå og hvit klokkeranke skal også prøves igjen etter uttalige forsøk. Det blir store planter som klatrer, men lite blomster. I år skal jeg være ekstra tidlig ute. 
+Blå og hvit klokkeranke skal også prøves igjen etter utallige forsøk. Det blir store planter som klatrer, men lite blomster. I år skal jeg være ekstra tidlig ute. 
 ![Cobaea scandens]({{site.baseurl}}/assets/img/Cobaea scandens.jpg)
 
 I fjor sådde jeg Ryllik for første gang. De ble jeg så fornøyd med at jeg må sikre meg noen frø i år også, i tilfelle de ikke kommer igjen.
