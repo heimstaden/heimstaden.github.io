@@ -21,8 +21,6 @@ Men så skal man jo ha litt mer frø av favorittene og da er det så utrolig man
 De fleste er sommerblomster, men jeg har etterhvert fått veldig sansen for primula, så da ble det bestilt noen av disse også. De setter jeg ute slik at de får en kuldeperiode. 
 Trykker du deg inn på hvert bilde får du opp navnene på plantene.
 
-[Primula Alpicola](https://www.plant-world-seeds.com/store/search_for_item?utf8=%E2%9C%93&query=Primula+Alpicola)
-
 
 ![Primula cockburniana]({{site.baseurl}}/assets/img/PRIMULA COCKBURNIANA.jpg)
 
