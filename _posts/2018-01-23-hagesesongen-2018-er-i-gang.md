@@ -15,7 +15,7 @@ Nå har vi hatt skikkelig vinter her i noen dager med snø, sol, blå himmel og 
 
 Innendørs er de første frøene kommet i jorda. Blodbeger, stemor og Verbena bonariensis trenger lang tid på å utvikle seg, så dem sådde jeg i romjula. Dette er egenproduserte frø fra i høst. Nå har de begynt å spire og er flyttet under lys på et kjøligere sted. 
 
-![Hengende blodbeger]({{site.baseurl}}/assets/img/Hengende blodbeger.JPG)
+![Klatrende blodbeger]({{site.baseurl}}/assets/img/Klatrende blodbeger.JPG)
 
 ![Viola X wittrockiana]({{site.baseurl}}/assets/img/Viola x wittrockiana.JPG)
 
