@@ -44,8 +44,7 @@ Ringblomster hører sommeren til og her fant jeg en type som jeg ikke kunne mots
 
 Gazania sår jeg hvert år og i år har jeg endelig fått tak i frø igjen av en type med sølvfargede blader. Denne finnes også i en fargemiks med både gule, oransje, rosa og hvite blomster.
 
-![Gazania hybrid Talent Red Shades]({{site.baseurl}}/assets/img/Gazania hybrida, Talent Red Shades.jpg)
-
+[Gazania](https://www.chilternseeds.co.uk/item_612G)
 
 
 
