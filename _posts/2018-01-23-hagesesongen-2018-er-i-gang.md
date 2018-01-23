@@ -21,10 +21,11 @@ Men så skal man jo ha litt mer frø av favorittene og da er det så utrolig man
 De fleste er sommerblomster, men jeg har etterhvert fått veldig sansen for primula, så da ble det bestilt noen av disse også. De setter jeg ute slik at de får en kuldeperiode. 
 Trykker du deg inn på hvert bilde får du opp navnene på plantene.
 
+![Primula vialii]({{site.baseurl}}/assets/img/Primula vialii.JPG)
 
 ![Primula cockburniana]({{site.baseurl}}/assets/img/PRIMULA COCKBURNIANA.jpg)
 
-![Primula vialii]({{site.baseurl}}/assets/img/Primula vialii.JPG)
+
 
 I fjor sådde jeg Ryllik for første gang. De ble jeg så fornøyd med at jeg må sikre meg noen frø i år også, i tilfelle de ikke kommer igjen.
 
