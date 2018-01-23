@@ -3,6 +3,10 @@ date: '2018-01-23 18:18 +0100'
 layout: post
 published: false
 title: Hagesesongen 2018 er i gang
+thumbnail: Viola%20x%20wittrockiana.JPG
+description: >-
+  Her er noen av frøene som er bestilt i år. Men jeg må advare alle
+  blomsterglade om sterke fristelser.
 ---
 
 Nå har vi hatt skikkelig vinter her i noen dager med snø, sol, blå himmel og fint skiføre. Det har vært noen deilige dager, men nå har regnet kommet tilbake. 
