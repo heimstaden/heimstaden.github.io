@@ -17,7 +17,6 @@ Innendørs er de første frøene kommet i jorda. Blodbeger, stemor og Verbena bo
 
 ![Blodbeger.JPG]({{site.baseurl}}/assets/img/Blodbeger.JPG)
 
-
 ![Viola X wittrockiana]({{site.baseurl}}/assets/img/Viola x wittrockiana.JPG)
 
 <!--more-->
