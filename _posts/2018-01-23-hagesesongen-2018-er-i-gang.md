@@ -23,23 +23,21 @@ Trykker du deg inn på hvert bilde får du opp navnene på plantene.
 
 ![Primula vialii]({{site.baseurl}}/assets/img/Primula vialii.JPG)
 
-![Primula cockburniana]({{site.baseurl}}/assets/img/PRIMULA COCKBURNIANA.jpg)
+[Primula cockburniana](https://www.plant-world-seeds.com/store/search_for_item?utf8=%E2%9C%93&query=PRIMULA+COCKBURNIANA)
 
-
+[Primula Alpicola](https://www.plant-world-seeds.com/store/search_for_item?utf8=%E2%9C%93&query=PRIMULA+ALPICOLA)
 
 I fjor sådde jeg Ryllik for første gang. De ble jeg så fornøyd med at jeg må sikre meg noen frø i år også, i tilfelle de ikke kommer igjen.
 
-![Achillea Summer Berries]({{site.baseurl}}/assets/img/Achillea Summer Berries.jpeg)
-
-![Achillea Summer Pastels]({{site.baseurl}}/assets/img/Achillea Summer Pastels.jpeg)
+[Ryllik](https://www.swallowtailgardenseeds.com/perennials/yarrow.html)
 
 Blå og hvit klokkeranke skal også prøves igjen etter uttalige forsøk. Det blir store planter som klatrer, men lite blomster. I år skal jeg være ekstra tidlig ute. 
 
 ![Cobaea scandens]({{site.baseurl}}/assets/img/Cobaea scandens.jpg)
 
-Ringblomster hører sommeren til og her fant jeg en type som jeg ikke kunne motstå. 
+Ringblomster hører sommeren til og her fant jeg noen typer som jeg ikke kunne motstå. 
 
-![Calendula Solar Flashback mix]({{site.baseurl}}/assets/img/Calendula Solar Flashback mix.jpg)
+[Ringblomster](https://www.swallowtailgardenseeds.com/annuals/calendulaann.html)
 
 Gazania sår jeg hvert år og i år har jeg endelig fått tak i frø igjen av en type med sølvfargede blader. Denne finnes også i en fargemiks med både gule, oransje, rosa og hvite blomster.
 
