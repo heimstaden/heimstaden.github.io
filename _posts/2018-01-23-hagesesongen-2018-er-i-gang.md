@@ -45,4 +45,4 @@ Sistemann ut i dag er jeg veldig spent på. Det er en løvemunn som kan bli 1,2 
 
 [Løvemunn](https://www.swallowtailgardenseeds.com/annuals/snapdragon.html#Chantilly-Series-snapdragon-seeds)
 
-Nå håper jeg linkene fungerer, men jeg må advare mot mange fristelser :-) 
+Nå håper jeg linkene fungerer, men jeg må advare mot mange fristelser :-)
