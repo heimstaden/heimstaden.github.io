@@ -1,7 +1,7 @@
 ---
 date: '2018-02-13 18:42 +0100'
 layout: post
-published: false
+published: true
 title: Vinter i hagen
 thumbnail: Lyng.JPG
 description: 'Jakten på vårtegn har begynt, men det var nok mest vintertegn jeg fant.'
