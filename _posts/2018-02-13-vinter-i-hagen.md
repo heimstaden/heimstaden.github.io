@@ -34,6 +34,9 @@ Dagen er blitt over 3 timer lenger enn ved vintersolverv og det merkes godt. Nå
 
 Rosene har fått knopper av is, en ny variant av isroser. 
 
+![Isroser]({{site.baseurl}}/assets/img/Isroser.JPG)
+
+
 
 På planterommet er det imidlertid en helt annen stemning. Her spirer og gror det av nye frøplanter av blodbeger, stemor, ryllik, rudbeckia, gazania, løvemunn, canna og diverse annet.  Det skal nok bli rimelig fullt her i år også. 
 
