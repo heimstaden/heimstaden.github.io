@@ -3,6 +3,8 @@ date: '2018-02-13 18:42 +0100'
 layout: post
 published: false
 title: Vinter i hagen
+thumbnail: Lyng.JPG
+description: 'Jakten på vårtegn har begynt, men det var nok mest vintertegn jeg fant.'
 ---
 
 Jeg tok et lite tilbakeblikk på bilder fra februar i fjor på denne tiden og da fant jeg en blomstrende våriris og noen tidlige krokus. 
@@ -35,7 +37,6 @@ Dagen er blitt over 3 timer lenger enn ved vintersolverv og det merkes godt. Nå
 Rosene har fått knopper av is, en ny variant av isroser. 
 
 ![Isroser]({{site.baseurl}}/assets/img/Isroser.JPG)
-
 
 
 På planterommet er det imidlertid en helt annen stemning. Her spirer og gror det av nye frøplanter av blodbeger, stemor, ryllik, rudbeckia, gazania, løvemunn, canna og diverse annet.  Det skal nok bli rimelig fullt her i år også. 
