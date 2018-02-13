@@ -16,6 +16,8 @@ Jeg tok et lite tilbakeblikk på bilder fra februar i fjor på denne tiden og da
 
 Deilige bilder å varme seg på, mens vinden uler rundt hushjørnet og hagen er dekket med snø. Det er riktignok ikke så mye snø i forhold til andre steder i Norge som nesten er nedsnødd.
 
+<!--more-->
+
 Det var ikke mange vårtegnene ute i dag, men ett vårtegn fant jeg, og det var vårlyngen som hadde begynt å få litt farge. Den klarer seg godt sammen med snøen her og jeg gleder meg til fortsettelsen.
 
 ![Lyng]({{site.baseurl}}/assets/img/Lyng.JPG)
