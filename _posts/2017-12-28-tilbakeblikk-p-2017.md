@@ -63,6 +63,3 @@ Her er sommerens fineste nykommer. Middagsblomstene som jeg har vist bilder av f
  Og det beste av alt; det er ikke lenge til vi får farger i hagen igjen.
  
  Ha en fortsatt fin romjul!
-
-
-
