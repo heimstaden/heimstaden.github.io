@@ -4,9 +4,7 @@ layout: post
 published: false
 title: Lys i hagen
 thumbnail: Lys%20i%20hagen%201.JPG
-description: >-
-  Dagen har blitt nesten 5 timer lengre enn ved vintersolverv. Litt ekstra lys i
-  hagen gir en fin stemning.
+description: 'Litt ekstra lys i hagen gir en fin stemning. '
 ---
 
 Er veldig glad for snøen vi har hatt liggende en liten stund nå, for den gjør det så mye lysere, men jeg er glad vi ikke har metervis med snø som mange rundt omkring i Norge har. Når plussgradene og regnbygene er tilbake forsvinner den fort, så her må snøen nytes mens vi kan.  I høst monterte vi noen lyskastere på nordsiden av huset og det har gjort mørke kroker mye lysere.
