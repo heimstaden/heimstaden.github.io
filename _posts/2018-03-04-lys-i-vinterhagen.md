@@ -19,6 +19,8 @@ Nå har jeg hatt en uke vinterferie med mange kalde minusgrader. Opp mot -12 gra
 
 ![Islyktproduksjon]({{site.baseurl}}/assets/img/Islyktproduksjon.JPG)
 
+![Islykt]({{site.baseurl}}/assets/img/Islykt.JPG)
+
 ![Islykt 2]({{site.baseurl}}/assets/img/Islykt 2.JPG)
 
 
