@@ -1,7 +1,7 @@
 ---
 date: '2018-03-04 17:58 +0100'
 layout: post
-published: false
+published: true
 title: Lys i hagen
 thumbnail: Lys%20i%20hagen%201.JPG
 description: 'Litt ekstra lys i hagen gir en fin stemning. '
@@ -37,4 +37,3 @@ Det ble ikke helt vårfølelse av dette.
 Nå ønsker jeg og mange med meg at våren skal komme. 
 
 Ha en fin ny uke!
-
