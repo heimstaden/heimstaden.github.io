@@ -5,7 +5,7 @@ published: true
 title: Heimstaden blir solgt
 thumbnail: Admiralsommerfugl.JPG
 description: >-
-  I to år har jeg blogget om hage og blomster på Heimstaden.  Takk til alle som
+  I to år har jeg blogget om hage og blomster på Heimstaden. Takk til alle som
   har fulgt meg, for likerklikk og koselige kommentarer. Jeg kommer snart
   tilbake under et annet navn.
 ---
