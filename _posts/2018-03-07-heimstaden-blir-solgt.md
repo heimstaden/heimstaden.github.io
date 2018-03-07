@@ -1,7 +1,7 @@
 ---
 date: '2018-03-07 19:57 +0100'
 layout: post
-published: false
+published: true
 title: Heimstaden blir solgt
 thumbnail: Admiralsommerfugl.JPG
 description: >-
@@ -14,4 +14,3 @@ Dette blir det siste blogginnlegget fra meg på Heimstaden.no. Nå blir domenet 
 Tusen takk til alle som har fulgt meg, takk for likerklikk og hyggelige kommentarer :-)
 
 ![Admiralsommerfugl]({{site.baseurl}}/assets/img/Admiralsommerfugl.JPG)
-
