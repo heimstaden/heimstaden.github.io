@@ -6,7 +6,8 @@ title: Heimstaden blir solgt
 thumbnail: Admiralsommerfugl.JPG
 description: >-
   I to år har jeg blogget om hage og blomster på Heimstaden. Nå blir det en
-  pause frem til jeg har fått meg et nytt domene.
+  pause frem til jeg har fått meg et nytt domene. Takk til alle som har fulgt
+  meg, for likerklikk og koselige kommentarer.
 ---
 
 Dette blir det siste blogginnlegget fra meg på Heimstaden.no. Nå blir domenet mitt solgt og i løpet av mars blir hagebloggen avviklet. Så snart jeg har funnet meg et nytt domene kommer jeg tilbake. Når det skjer håper jeg at det har blitt vår i store deler av landet vårt. Gleder meg til vår og sommer nå. 
